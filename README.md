@@ -1,12 +1,11 @@
 ## Hi there 👋
 
-Welcome to my github profile
+Welcome to my github profile!
 
-- 🔭 I’m currently working on Hainan University.
+- 🔭 I’m currently study in Hainan University.
 - 🌱 I’m currently learning Big Data and Machine Learning.
 - 💬 Ask me about more.
 - 📫 How to reach me: beiyu233@gmail.com
-- 😄 Pronouns: Sometimes it's the very people who no one imagines angthing of who do the things that no one can imagine.
 - ⚡ Fun fact: I'm a shadiao boy!
 
 <!--
