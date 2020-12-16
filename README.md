@@ -2,7 +2,7 @@
 
 Welcome to my github profile!
 
-- 🔭 I’m currently study in Hainan University.
+- 🔭 I’m currently studying at Hainan University.
 - 🌱 I’m currently learning Big Data and Machine Learning.
 - 💬 Ask me about more.
 - 📫 How to reach me: beiyu233@gmail.com
