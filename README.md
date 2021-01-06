@@ -8,6 +8,7 @@ Welcome to my github profile!
 - 📫 How to reach me: beiyu233@gmail.com
 - ⚡ Fun fact: I'm a shadiao boy!
 
+[![beiyuouo's github stats](https://github-readme-stats.vercel.app/api?username=beiyuouo)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **beiyuouo/beiyuouo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
