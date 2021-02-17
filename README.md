@@ -5,7 +5,7 @@ Welcome to my github profile!
 - 🔭 I’m currently studying at Hainan University.
 - 🌱 I’m currently learning Big Data and Machine Learning.
 - 💬 Ask me about more.
-- 📫 How to reach me: beiyu233@gmail.com
+- 📫 How to reach me: beiyuouo@foxmail.com
 - ⚡ Fun fact: I'm a shadiao boy!
 
 [![beiyuouo's github stats](https://github-readme-stats.vercel.app/api?username=beiyuouo)](https://github.com/anuraghazra/github-readme-stats)
