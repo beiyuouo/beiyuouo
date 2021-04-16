@@ -7,8 +7,8 @@ Welcome to my github profile!
 
 - 🔭 I’m currently studying at Hainan University.
 - 🌱 I’m currently learning Big Data and Machine Learning.
-- 💬 Ask me about more.
-- 📫 How to reach me: beiyuouo@foxmail.com
+- 💬 Know more about me at [link](https://beiyuouo.github.io).
+- 📫 How to reach me: [beiyuouo@foxmail.com](mailto:beiyuouo@foxmail.com) or [bj.yan.pa@qq.com](mailto:bj.yan.pa@qq.com)
 - ⚡ Fun fact: I'm a shadiao boy!
 
 
