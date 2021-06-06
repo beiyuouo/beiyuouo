@@ -6,9 +6,9 @@
 Welcome to my github profile!
 
 - 🔭 I’m currently studying at Hainan University.
-- 🌱 I’m currently learning Big Data and Machine Learning.
-- 💬 Know more about me at [link](https://beiyuouo.github.io).
-- 📫 How to reach me: [beiyuouo@foxmail.com](mailto:beiyuouo@foxmail.com) or [bj.yan.pa@qq.com](mailto:bj.yan.pa@qq.com)
+- 🌱 My currently reseach interest are Federated Learning and 3D Vision.
+- 💬 Know more about me at [here](https://beiyuouo.github.io) or at my [blog](https://beiyuouo.github.io/blog).
+- 📫 How to reach me: [bj.yan@ieee.org](mailto:bj.yan@ieee.org) or [bj.yan.pa@qq.com](mailto:bj.yan.pa@qq.com)
 - ⚡ Fun fact: I'm a shadiao boy!
 
 
