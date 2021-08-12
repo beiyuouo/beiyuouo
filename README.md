@@ -1,5 +1,5 @@
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beiyuouo&show_icons=true&hide_border=true">
+<!-- <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beiyuouo&show_icons=true&hide_border=true"> -->
 
 ## Hi there, I'm [Bingjie Yan](https://beiyuouo.github.io/) 👋
 
@@ -12,9 +12,6 @@ Welcome to my github profile!
 - ⚡ Fun fact: I'm a shadiao boy!
 
 
-<!-- ![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)
-![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
-![ViewCount](https://views.whatilearened.today/views/github/beiyuouo/beiyuouo.svg?cache=remove) -->
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=beiyuouo&show_icons=true&hide_border=true">
 
