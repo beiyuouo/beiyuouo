@@ -1,13 +1,13 @@
 
 <!-- <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beiyuouo&show_icons=true&hide_border=true"> -->
 
-## Hi there, I'm [Bingjie Yan](https://beiyuouo.github.io/) 👋
+## Hi there, I'm [Bingjie Yan](https://bj-yan.top/) 👋
 
 Welcome to my github profile!
 
 - 🔭 I’m an undergraduate student in Hainan University.
 - 🌱 My reseach interest in Federated Learning and Computer Vision.
-- 💬 Know more about me at my [academic page](https://beiyuouo.github.io) or at my [blog](https://beiyuouo.github.io/blog).
+- 💬 Know more about me at my [academic page](https://bj-yan.top) or at my [blog](https://blog.bj-yan.top).
 - 📫 How to reach me: [bj.yan@ieee.org](mailto:bj.yan@ieee.org) or [bj.yan.pa@qq.com](mailto:bj.yan.pa@qq.com)
 - ⚡ Fun fact: I'm a shadiao boy!
 
