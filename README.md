@@ -9,7 +9,10 @@ Welcome to my github profile!
 - 🌱 My reseach interest in Federated Learning and Computer Vision.
 - 💬 Know more about me at my [academic page](https://bj-yan.top) or at my [blog](https://blog.bj-yan.top).
 - 📫 How to reach me: [bj.yan@ieee.org](mailto:bj.yan@ieee.org) or [bj.yan.pa@qq.com](mailto:bj.yan.pa@qq.com)
-- ⚡ Fun fact: I'm a shadiao boy!
+- 🎨 Fun fact: I'm a shadiao boy!
+- ⚡ Push me: I like to develop many interesting small projects in my spare time.
+
+    But some projects are not frequently maintained, so you can open an issue to push me XD.
 
 
 
