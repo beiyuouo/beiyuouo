@@ -89,11 +89,11 @@ Welcome to my github profile!
 <!-- START_SECTION:douban -->
 | Date | Title |
 | :-: | :---: |
-| 2021-12-07 | 想看  <a href='http://movie.douban.com/subject/35180907/' target='_blank'>谁是凶手</a> |
-| 2021-12-06 | 在看  <a href='http://movie.douban.com/subject/35377080/' target='_blank'>幸福</a> |
-| 2021-11-30 | 看过  <a href='http://movie.douban.com/subject/35087699/' target='_blank'>中国医生</a> |
-| 2021-11-28 | 看过  <a href='http://movie.douban.com/subject/33457594/' target='_blank'>摩加迪沙</a> |
-| 2021-11-22 | 在看  <a href='http://movie.douban.com/subject/35558676/' target='_blank'>斗破苍穹 特别篇3</a> |
+| 2021-12-07 | 想看🤔 <a href='http://movie.douban.com/subject/35180907/' target='_blank'>谁是凶手</a> |
+| 2021-12-06 | 在看👀 <a href='http://movie.douban.com/subject/35377080/' target='_blank'>幸福</a> |
+| 2021-11-30 | 看过😎 <a href='http://movie.douban.com/subject/35087699/' target='_blank'>中国医生</a> |
+| 2021-11-28 | 看过😎 <a href='http://movie.douban.com/subject/33457594/' target='_blank'>摩加迪沙</a> |
+| 2021-11-22 | 在看👀 <a href='http://movie.douban.com/subject/35558676/' target='_blank'>斗破苍穹 特别篇3</a> |
 <!-- END_SECTION:douban -->
 </td>
 </tr>
