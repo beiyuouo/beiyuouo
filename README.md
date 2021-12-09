@@ -66,7 +66,7 @@ Welcome to my github profile!
 <!-- prettier-ignore-end -->
 <!-- interested:end -->
 
-<table width="100%">
+<table width="100%" align="center">
 <tr>
 <td valign="top" width="50%">
 
