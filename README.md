@@ -66,7 +66,11 @@ Welcome to my github profile!
 <!-- prettier-ignore-end -->
 <!-- interested:end -->
 
+<!-- START_SECTION:blog -->
+<!-- END_SECTION:blog -->
 
+<!-- START_SECTION:douban -->
+<!-- END_SECTION:douban -->
 
 <!--
 **beiyuouo/beiyuouo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
