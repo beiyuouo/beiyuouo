@@ -73,11 +73,13 @@ Welcome to my github profile!
 #### 🤹‍♀️ <a href="https://blog.bj-yan.top/" target="_blank">Recent Blog</a>
 
 <!-- START_SECTION:blog -->
-* <a href='https://blog.bj-yan.top/p/readme/' target='_blank'>README</a> - Sat, 16 Oct 2021 18:34:30 +0800
-* <a href='https://blog.bj-yan.top/p/misc-hainanu-course-comments/' target='_blank'>海南大学课程攻略共享计划</a> - 
-* <a href='https://blog.bj-yan.top/p/note-matrix-calculus/' target='_blank'>Matrix Calculus Cooker</a> - Mon, 18 Oct 2021 17:40:45 +0800
-* <a href='https://blog.bj-yan.top/p/note-federated-learning-framework/' target='_blank'>Federated Learning - Framework</a> - Sat, 16 Oct 2021 00:00:00 +0000
-* <a href='https://blog.bj-yan.top/p/note-linear-algerbra-ng/' target='_blank'>格物致知 - 线性代数</a> - 
+| Date | Title |
+| :-: | :---: |
+| <a href='https://blog.bj-yan.top/p/readme/' target='_blank'>README</a> | Sat, 16 Oct 2021 18:34:30 +0800 |
+| <a href='https://blog.bj-yan.top/p/misc-hainanu-course-comments/' target='_blank'>海南大学课程攻略共享计划</a> | Thu, 28 Oct 2021 00:38:18 +0800 |
+| <a href='https://blog.bj-yan.top/p/note-matrix-calculus/' target='_blank'>Matrix Calculus Cooker</a> | Mon, 18 Oct 2021 17:40:45 +0800 |
+| <a href='https://blog.bj-yan.top/p/note-federated-learning-framework/' target='_blank'>Federated Learning - Framework</a> | Sat, 16 Oct 2021 00:00:00 +0000 |
+| <a href='https://blog.bj-yan.top/p/note-linear-algerbra-ng/' target='_blank'>格物致知 - 线性代数</a> | Thu, 14 Oct 2021 21:53:42 +0000 |
 <!-- END_SECTION:blog -->
 </td>
 <td valign="top" width="50%">
@@ -85,11 +87,13 @@ Welcome to my github profile!
 #### 🤾‍♂️ <a href="https://blog.bj-yan.top/" target="_blank">Funny Soul</a>
 
 <!-- START_SECTION:douban -->
-* <a href='http://movie.douban.com/subject/35180907/' target='_blank'>想看谁是凶手</a> - 2021-12-07
-* <a href='http://movie.douban.com/subject/35377080/' target='_blank'>在看幸福</a> - 2021-12-06
-* <a href='http://movie.douban.com/subject/35087699/' target='_blank'>看过中国医生</a> - 2021-12-01
-* <a href='http://movie.douban.com/subject/33457594/' target='_blank'>看过摩加迪沙</a> - 2021-11-28
-* <a href='http://movie.douban.com/subject/35558676/' target='_blank'>在看斗破苍穹 特别篇3</a> - 2021-11-22
+| Date | Title |
+| :-: | :---: |
+| <a href='http://movie.douban.com/subject/35180907/' target='_blank'>想看谁是凶手</a> | Tue, 07 Dec 2021 15:53:03 GMT |
+| <a href='http://movie.douban.com/subject/35377080/' target='_blank'>在看幸福</a> | Mon, 06 Dec 2021 03:08:39 GMT |
+| <a href='http://movie.douban.com/subject/35087699/' target='_blank'>看过中国医生</a> | Tue, 30 Nov 2021 17:24:44 GMT |
+| <a href='http://movie.douban.com/subject/33457594/' target='_blank'>看过摩加迪沙</a> | Sun, 28 Nov 2021 12:33:53 GMT |
+| <a href='http://movie.douban.com/subject/35558676/' target='_blank'>在看斗破苍穹 特别篇3</a> | Mon, 22 Nov 2021 09:17:52 GMT |
 <!-- END_SECTION:douban -->
 </td>
 </tr>
