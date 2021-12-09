@@ -11,13 +11,15 @@ jobs:
   update-social:
     runs-on: ubuntu-latest
     steps:
-      - uses: beiyuouo/readme-action@v0.0.1
+      - uses: beiyuouo/readme-action@latest
         with:
           blog_rss_link: https://blog.bj-yan.top/index.xml
           blog_limit: 5
+          blog_time_format: "%a, %d %b %Y %H:%M:%S %z"
           douban_name: 179948994
           douban_limit: 5
           commit_message: Updated social rss by social-readme
+          time_zone: "Asia/Shanghai"
 
   # update-wakatime:
   #   runs-on: ubuntu-latest
