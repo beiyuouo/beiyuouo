@@ -11,7 +11,7 @@ jobs:
   update-social:
     runs-on: ubuntu-latest
     steps:
-      - uses: zylele/social-readme@master
+      - uses: beiyuouo/readme-action@v0.0.1
         with:
           blog_rss_link: https://blog.bj-yan.top/index.xml
           blog_limit: 5
