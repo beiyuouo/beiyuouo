@@ -105,11 +105,11 @@ Welcome to my github profile!
 <!-- START_SECTION:github -->
 | Date | Title |
 | :-: | :---: |
+| 2021-12-10 | pushed to main in 📌 [beiyuouo/beiyuouo](https://github.com/beiyuouo/beiyuouo/compare/72bda51b52...9a1cedd503) |
 | 2021-12-10 | pushed to main in 📌 [beiyuouo/beiyuouo](https://github.com/beiyuouo/beiyuouo/compare/2691c1d5fe...95a7ae908c) |
 | 2021-12-10 | pushed to main in 📌 [beiyuouo/readme-action](https://github.com/beiyuouo/readme-action/compare/2350ab0e2d...118abd9d96) |
 | 2021-12-10 | pushed to main in 📌 [beiyuouo/beiyuouo](https://github.com/beiyuouo/beiyuouo/compare/b4b7a30be3...5c7c790bfe) |
 | 2021-12-10 | pushed to main in 📌 [beiyuouo/beiyuouo](https://github.com/beiyuouo/beiyuouo/compare/eea5690611...7fbb4e467f) |
-| 2021-12-10 | pushed to main in 📌 [beiyuouo/readme-action](https://github.com/beiyuouo/readme-action/compare/76b22b2f17...2350ab0e2d) |
 <!-- END_SECTION:github -->
 
 </td>
