@@ -98,7 +98,7 @@ Welcome to my github profile!
 </td>
 </tr>
 <tr>
-<td valign="top" width="100%">
+<td valign="top" width="100%" colspan="2">
 
 #### 💻 <a href="https://github.com/beiyuouo" target="_blank">Recent Activity</a>
 
