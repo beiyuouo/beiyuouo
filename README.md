@@ -70,7 +70,7 @@ Welcome to my github profile!
 <tr>
 <td valign="top" width="50%">
 
-<h4 style="margin-top: 0; margin-bottom: 0;">  🤹‍♀️ <a href="https://blog.bj-yan.top/" target="_blank">Recent Blog</a> </h4>
+####  🤹‍♀️ <a href="https://blog.bj-yan.top/" target="_blank">Recent Blog</a>
 
 <!-- START_SECTION:blog -->
 | Date | Title |
@@ -84,7 +84,7 @@ Welcome to my github profile!
 </td>
 <td valign="top" width="50%">
 
-<h4 style="margin-top: 0; margin-bottom: 0;">  🤾‍♂️ <a href="https://blog.bj-yan.top/" target="_blank">Funny Soul</a> </h4>
+####  🤾‍♂️ <a href="https://blog.bj-yan.top/" target="_blank">Funny Soul</a>
 
 <!-- START_SECTION:douban -->
 | Date | Title |
@@ -98,9 +98,9 @@ Welcome to my github profile!
 </td>
 </tr>
 <tr>
-<td valign="top" halign="center" width="100%" colspan="2">
+<td align="center" width="100%" colspan="2">
 
-<h4 style="margin-top: 0; margin-bottom: 0;"> 💻 <a href="https://github.com/beiyuouo" target="_blank">Recent Activity</a> </h4>
+#### 💻 <a href="https://github.com/beiyuouo" target="_blank">Recent Activity</a>
 
 <!-- START_SECTION:github -->
 | Date | Title |
