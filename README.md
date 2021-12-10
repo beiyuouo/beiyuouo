@@ -105,11 +105,11 @@ Welcome to my github profile!
 <!-- START_SECTION:github -->
 | Date | Title |
 | :-: | :---: |
+| 2021-12-10 | pushed to main in 📌 [beiyuouo/beiyuouo](https://github.com/beiyuouo/beiyuouo/compare/b4b7a30be3...5c7c790bfe) |
 | 2021-12-10 | pushed to main in 📌 [beiyuouo/beiyuouo](https://github.com/beiyuouo/beiyuouo/compare/eea5690611...7fbb4e467f) |
 | 2021-12-10 | pushed to main in 📌 [beiyuouo/readme-action](https://github.com/beiyuouo/readme-action/compare/76b22b2f17...2350ab0e2d) |
 | 2021-12-10 | created a branch main in 📁 [beiyuouo/pixanie](https://github.com/beiyuouo/pixanie/compare/main) |
 | 2021-12-10 | created a repository 📁 [beiyuouo/pixanie](https://github.com/beiyuouo/pixanie//) |
-| 2021-12-10 | starred ⭐ [hzwer/arXiv2020-RIFE](https://github.com/hzwer/arXiv2020-RIFE) |
 <!-- END_SECTION:github -->
 
 </td>
