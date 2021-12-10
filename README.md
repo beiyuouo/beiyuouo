@@ -89,8 +89,8 @@ Welcome to my github profile!
 <!-- START_SECTION:douban -->
 | Date | Title |
 | :-: | :---: |
+| 2021-12-10 | 在看👀 <a href='http://movie.douban.com/subject/35180907/' target='_blank'>谁是凶手</a> ⭐⭐⭐⭐ |
 | 2021-12-09 | 看过😎 <a href='http://movie.douban.com/subject/35307435/' target='_blank'>八角亭谜雾</a> ⭐⭐⭐ |
-| 2021-12-07 | 想看🤔 <a href='http://movie.douban.com/subject/35180907/' target='_blank'>谁是凶手</a>  |
 | 2021-12-06 | 在看👀 <a href='http://movie.douban.com/subject/35377080/' target='_blank'>幸福</a> ⭐⭐⭐⭐ |
 | 2021-11-30 | 看过😎 <a href='http://movie.douban.com/subject/35087699/' target='_blank'>中国医生</a> ⭐⭐⭐ |
 | 2021-11-28 | 看过😎 <a href='http://movie.douban.com/subject/33457594/' target='_blank'>摩加迪沙</a> ⭐⭐⭐⭐⭐ |
@@ -103,6 +103,13 @@ Welcome to my github profile!
 #### 💻 <a href="https://github.com/beiyuouo" target="_blank">Recent Activity</a>
 
 <!-- START_SECTION:github -->
+| Date | Title |
+| :-: | :---: |
+| 2021-12-10 | pushed to main in 📌 [beiyuouo/beiyuouo](https://github.com/beiyuouo/beiyuouo/compare/eea5690611...7fbb4e467f) |
+| 2021-12-10 | pushed to main in 📌 [beiyuouo/readme-action](https://github.com/beiyuouo/readme-action/compare/76b22b2f17...2350ab0e2d) |
+| 2021-12-10 | created a branch main in 📁 [beiyuouo/pixanie](https://github.com/beiyuouo/pixanie/compare/main) |
+| 2021-12-10 | created a repository 📁 [beiyuouo/pixanie](https://github.com/beiyuouo/pixanie//) |
+| 2021-12-10 | starred ⭐ [hzwer/arXiv2020-RIFE](https://github.com/hzwer/arXiv2020-RIFE) |
 <!-- END_SECTION:github -->
 
 </td>
