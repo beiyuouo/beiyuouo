@@ -89,7 +89,7 @@ Welcome to my github profile!
 <!-- START_SECTION:douban -->
 | Date | Title |
 | :-: | :---: |
-| 2021-12-09 | 在看👀 <a href='http://movie.douban.com/subject/35307435/' target='_blank'>八角亭谜雾</a> ⭐⭐⭐ |
+| 2021-12-09 | 看过😎 <a href='http://movie.douban.com/subject/35307435/' target='_blank'>八角亭谜雾</a> ⭐⭐⭐ |
 | 2021-12-07 | 想看🤔 <a href='http://movie.douban.com/subject/35180907/' target='_blank'>谁是凶手</a>  |
 | 2021-12-06 | 在看👀 <a href='http://movie.douban.com/subject/35377080/' target='_blank'>幸福</a> ⭐⭐⭐⭐ |
 | 2021-11-30 | 看过😎 <a href='http://movie.douban.com/subject/35087699/' target='_blank'>中国医生</a> ⭐⭐⭐ |
