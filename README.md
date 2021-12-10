@@ -97,7 +97,16 @@ Welcome to my github profile!
 <!-- END_SECTION:douban -->
 </td>
 </tr>
+<tr>
+<td valign="top" width="100%">
 
+#### 💻 <a href="https://github.com/beiyuouo" target="_blank">Recent Activity</a>
+
+<!-- START_SECTION:github -->
+<!-- END_SECTION:github -->
+
+</td>
+</tr>
 </table>
 
 <!--
