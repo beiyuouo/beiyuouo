@@ -89,9 +89,9 @@ Welcome to my github profile!
 <!-- START_SECTION:douban -->
 | Date | Title |
 | :-: | :---: |
+| 2021-12-12 | 看过😎 <a href='http://movie.douban.com/subject/35377080/' target='_blank'>幸福</a> ⭐⭐⭐⭐ |
 | 2021-12-10 | 在看👀 <a href='http://movie.douban.com/subject/35180907/' target='_blank'>谁是凶手</a> ⭐⭐⭐⭐ |
 | 2021-12-09 | 看过😎 <a href='http://movie.douban.com/subject/35307435/' target='_blank'>八角亭谜雾</a> ⭐⭐⭐ |
-| 2021-12-06 | 在看👀 <a href='http://movie.douban.com/subject/35377080/' target='_blank'>幸福</a> ⭐⭐⭐⭐ |
 | 2021-11-30 | 看过😎 <a href='http://movie.douban.com/subject/35087699/' target='_blank'>中国医生</a> ⭐⭐⭐ |
 | 2021-11-28 | 看过😎 <a href='http://movie.douban.com/subject/33457594/' target='_blank'>摩加迪沙</a> ⭐⭐⭐⭐⭐ |
 <!-- END_SECTION:douban -->
@@ -105,11 +105,11 @@ Welcome to my github profile!
 <!-- START_SECTION:github -->
 | Date | Title |
 | :-: | :---: |
+| 2021-12-12 | starred ⭐ [AppFlowy-IO/appflowy](https://github.com/AppFlowy-IO/appflowy) |
+| 2021-12-12 | starred ⭐ [AppFlowy-IO/appflowy](https://github.com/AppFlowy-IO/appflowy) |
+| 2021-12-12 | pushed to main in 📌 [beiyuouo/pixanime](https://github.com/beiyuouo/pixanime/compare/65abe634f6...44afab29f4) |
+| 2021-12-12 | starred ⭐ [flutter/flutter](https://github.com/flutter/flutter) |
 | 2021-12-11 | forked beiyuouo/electron-react-python-template from 🍴 [iPzard/electron-react-python-template](https://github.com/beiyuouo/electron-react-python-template) |
-| 2021-12-11 | starred ⭐ [electron/electron](https://github.com/electron/electron) |
-| 2021-12-11 | starred ⭐ [OpenShot/openshot-qt](https://github.com/OpenShot/openshot-qt) |
-| 2021-12-10 | starred ⭐ [kitao/pyxel](https://github.com/kitao/pyxel) |
-| 2021-12-10 | pushed to main in 📌 [beiyuouo/beiyuouo](https://github.com/beiyuouo/beiyuouo/compare/72bda51b52...9a1cedd503) |
 <!-- END_SECTION:github -->
 
 </td>
