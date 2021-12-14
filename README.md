@@ -89,11 +89,11 @@ Welcome to my github profile!
 <!-- START_SECTION:douban -->
 | Date | Title |
 | :-: | :---: |
+| 2021-12-13 | 在看👀 <a href='http://movie.douban.com/subject/35041926/' target='_blank'>埃博拉前线</a> ⭐⭐⭐⭐ |
 | 2021-12-12 | 看过😎 <a href='http://movie.douban.com/subject/35377080/' target='_blank'>幸福</a> ⭐⭐⭐⭐ |
 | 2021-12-10 | 在看👀 <a href='http://movie.douban.com/subject/35180907/' target='_blank'>谁是凶手</a> ⭐⭐⭐⭐ |
 | 2021-12-09 | 看过😎 <a href='http://movie.douban.com/subject/35307435/' target='_blank'>八角亭谜雾</a> ⭐⭐⭐ |
 | 2021-11-30 | 看过😎 <a href='http://movie.douban.com/subject/35087699/' target='_blank'>中国医生</a> ⭐⭐⭐ |
-| 2021-11-28 | 看过😎 <a href='http://movie.douban.com/subject/33457594/' target='_blank'>摩加迪沙</a> ⭐⭐⭐⭐⭐ |
 <!-- END_SECTION:douban -->
 </td>
 </tr>
@@ -105,11 +105,11 @@ Welcome to my github profile!
 <!-- START_SECTION:github -->
 | Date | Title |
 | :-: | :---: |
-| 2021-12-12 | starred ⭐ [AppFlowy-IO/appflowy](https://github.com/AppFlowy-IO/appflowy) |
-| 2021-12-12 | starred ⭐ [AppFlowy-IO/appflowy](https://github.com/AppFlowy-IO/appflowy) |
-| 2021-12-12 | pushed to main in 📌 [beiyuouo/pixanime](https://github.com/beiyuouo/pixanime/compare/65abe634f6...44afab29f4) |
-| 2021-12-12 | starred ⭐ [flutter/flutter](https://github.com/flutter/flutter) |
-| 2021-12-11 | forked beiyuouo/electron-react-python-template from 🍴 [iPzard/electron-react-python-template](https://github.com/beiyuouo/electron-react-python-template) |
+| 2021-12-13 | starred ⭐ [KDE/krita](https://github.com/KDE/krita) |
+| 2021-12-13 | starred ⭐ [flame-engine/flame](https://github.com/flame-engine/flame) |
+| 2021-12-13 | starred ⭐ [docker/awesome-compose](https://github.com/docker/awesome-compose) |
+| 2021-12-13 | starred ⭐ [beiyuouo/hainanu-course-comments](https://github.com/beiyuouo/hainanu-course-comments) |
+| 2021-12-13 | commented on pull request 💬 [conanhujinming/comments-for-awesome-courses#41](https://github.com/conanhujinming/comments-for-awesome-courses/pull/41#issuecomment-992408668) |
 <!-- END_SECTION:github -->
 
 </td>
