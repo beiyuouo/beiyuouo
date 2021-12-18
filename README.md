@@ -105,11 +105,11 @@ Welcome to my github profile!
 <!-- START_SECTION:github -->
 | Date | Title |
 | :-: | :---: |
-| 2021-12-14 | pushed to main in 📌 [beiyuouo/bbot-ng](https://github.com/beiyuouo/bbot-ng/compare/d6c623bcdd...1cdc756136) |
-| 2021-12-14 | pushed to main in 📌 [awesome-actions-template/.github](https://github.com/awesome-actions-template/.github/compare/7218c0c982...583fc436e7) |
-| 2021-12-14 | created a branch main in 📁 [awesome-actions-template/.github](https://github.com/awesome-actions-template/.github/compare/main) |
-| 2021-12-14 | created a repository 📁 [awesome-actions-template/.github](https://github.com/awesome-actions-template/.github//) |
-| 2021-12-14 | pushed to main in 📌 [awesome-actions-template/mkdocs-material-gallery-template](https://github.com/awesome-actions-template/mkdocs-material-gallery-template/compare/d6f6b2e931...712785cc4b) |
+| 2021-12-17 | pushed to (deleted) in 📌 [(deleted)](https://github.com/beiyuouo/github-annual-report/compare/9b17858140...61606576b1) |
+| 2021-12-17 | pushed to (deleted) in 📌 [(deleted)](https://github.com/beiyuouo/github-annual-report/compare/e2218c0289...9b17858140) |
+| 2021-12-17 | pushed to (deleted) in 📌 [(deleted)](https://github.com/beiyuouo/github-annual-report/compare/bbf7e12f5c...e2218c0289) |
+| 2021-12-17 | pushed to (deleted) in 📌 [(deleted)](https://github.com/beiyuouo/github-annual-report/compare/5d96e45843...bbf7e12f5c) |
+| 2021-12-17 | pushed to (deleted) in 📌 [(deleted)](https://github.com/beiyuouo/github-annual-report/compare/effeed2c4b...5d96e45843) |
 <!-- END_SECTION:github -->
 
 </td>
