@@ -105,11 +105,11 @@ Welcome to my github profile!
 <!-- START_SECTION:github -->
 | Date | Title |
 | :-: | :---: |
+| 2021-12-22 | starred ⭐ [Eugeny/tabby](https://github.com/Eugeny/tabby) |
 | 2021-12-21 | starred ⭐ [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) |
 | 2021-12-17 | pushed to (deleted) in 📌 [(deleted)](https://github.com/beiyuouo/github-annual-report/compare/9b17858140...61606576b1) |
 | 2021-12-17 | pushed to (deleted) in 📌 [(deleted)](https://github.com/beiyuouo/github-annual-report/compare/e2218c0289...9b17858140) |
 | 2021-12-17 | pushed to (deleted) in 📌 [(deleted)](https://github.com/beiyuouo/github-annual-report/compare/bbf7e12f5c...e2218c0289) |
-| 2021-12-17 | pushed to (deleted) in 📌 [(deleted)](https://github.com/beiyuouo/github-annual-report/compare/5d96e45843...bbf7e12f5c) |
 <!-- END_SECTION:github -->
 
 </td>
