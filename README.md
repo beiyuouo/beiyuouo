@@ -89,11 +89,11 @@ Welcome to my github profile!
 <!-- START_SECTION:douban -->
 | Date | Title |
 | :-: | :---: |
+| 2021-12-23 | 看过😎 <a href='http://movie.douban.com/subject/35068653/' target='_blank'>误杀2</a> ⭐⭐⭐⭐⭐ |
+| 2021-12-23 | 想看🤔 <a href='http://movie.douban.com/subject/34801038/' target='_blank'>黑客帝国：矩阵重启</a>  |
 | 2021-12-13 | 在看👀 <a href='http://movie.douban.com/subject/35041926/' target='_blank'>埃博拉前线</a> ⭐⭐⭐⭐ |
 | 2021-12-12 | 看过😎 <a href='http://movie.douban.com/subject/35377080/' target='_blank'>幸福</a> ⭐⭐⭐⭐ |
 | 2021-12-10 | 在看👀 <a href='http://movie.douban.com/subject/35180907/' target='_blank'>谁是凶手</a> ⭐⭐⭐⭐ |
-| 2021-12-09 | 看过😎 <a href='http://movie.douban.com/subject/35307435/' target='_blank'>八角亭谜雾</a> ⭐⭐⭐ |
-| 2021-11-30 | 看过😎 <a href='http://movie.douban.com/subject/35087699/' target='_blank'>中国医生</a> ⭐⭐⭐ |
 <!-- END_SECTION:douban -->
 </td>
 </tr>
@@ -105,11 +105,11 @@ Welcome to my github profile!
 <!-- START_SECTION:github -->
 | Date | Title |
 | :-: | :---: |
+| 2021-12-23 | opened a pull request in 📦 [QSCTech/zju-icicles](https://github.com/QSCTech/zju-icicles/pull/205) |
+| 2021-12-23 | pushed to master in 📌 [beiyuouo/zju-icicles](https://github.com/beiyuouo/zju-icicles/compare/d4d2adcca5...dcf60c0940) |
+| 2021-12-23 | forked beiyuouo/zju-icicles from 🍴 [QSCTech/zju-icicles](https://github.com/beiyuouo/zju-icicles) |
 | 2021-12-22 | starred ⭐ [Eugeny/tabby](https://github.com/Eugeny/tabby) |
 | 2021-12-21 | starred ⭐ [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) |
-| 2021-12-17 | pushed to (deleted) in 📌 [(deleted)](https://github.com/beiyuouo/github-annual-report/compare/9b17858140...61606576b1) |
-| 2021-12-17 | pushed to (deleted) in 📌 [(deleted)](https://github.com/beiyuouo/github-annual-report/compare/e2218c0289...9b17858140) |
-| 2021-12-17 | pushed to (deleted) in 📌 [(deleted)](https://github.com/beiyuouo/github-annual-report/compare/bbf7e12f5c...e2218c0289) |
 <!-- END_SECTION:github -->
 
 </td>
