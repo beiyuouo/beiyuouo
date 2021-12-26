@@ -89,11 +89,11 @@ Welcome to my github profile!
 <!-- START_SECTION:douban -->
 | Date | Title |
 | :-: | :---: |
+| 2021-12-25 | 想看🤔 <a href='http://movie.douban.com/subject/26140265/' target='_blank'>新生化危机</a>  |
+| 2021-12-25 | 想看🤔 <a href='http://movie.douban.com/subject/27617348/' target='_blank'>门锁</a>  |
 | 2021-12-24 | 看过😎 <a href='http://movie.douban.com/subject/34801038/' target='_blank'>黑客帝国：矩阵重启</a> ⭐⭐⭐ |
 | 2021-12-24 | 看过😎 <a href='http://movie.douban.com/subject/35180907/' target='_blank'>谁是凶手</a> ⭐⭐⭐⭐ |
 | 2021-12-23 | 看过😎 <a href='http://movie.douban.com/subject/35068653/' target='_blank'>误杀2</a> ⭐⭐⭐⭐⭐ |
-| 2021-12-13 | 在看👀 <a href='http://movie.douban.com/subject/35041926/' target='_blank'>埃博拉前线</a> ⭐⭐⭐⭐ |
-| 2021-12-12 | 看过😎 <a href='http://movie.douban.com/subject/35377080/' target='_blank'>幸福</a> ⭐⭐⭐⭐ |
 <!-- END_SECTION:douban -->
 </td>
 </tr>
@@ -105,11 +105,11 @@ Welcome to my github profile!
 <!-- START_SECTION:github -->
 | Date | Title |
 | :-: | :---: |
+| 2021-12-25 | starred ⭐ [mehdihadeli/awesome-go-education](https://github.com/mehdihadeli/awesome-go-education) |
+| 2021-12-25 | starred ⭐ [mchong6/JoJoGAN](https://github.com/mchong6/JoJoGAN) |
 | 2021-12-23 | opened a pull request in 📦 [QSCTech/zju-icicles](https://github.com/QSCTech/zju-icicles/pull/205) |
 | 2021-12-23 | pushed to master in 📌 [beiyuouo/zju-icicles](https://github.com/beiyuouo/zju-icicles/compare/d4d2adcca5...dcf60c0940) |
 | 2021-12-23 | forked beiyuouo/zju-icicles from 🍴 [QSCTech/zju-icicles](https://github.com/beiyuouo/zju-icicles) |
-| 2021-12-22 | starred ⭐ [Eugeny/tabby](https://github.com/Eugeny/tabby) |
-| 2021-12-21 | starred ⭐ [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) |
 <!-- END_SECTION:github -->
 
 </td>
