@@ -105,11 +105,11 @@ Welcome to my github profile!
 <!-- START_SECTION:github -->
 | Date | Title |
 | :-: | :---: |
+| 2021-12-27 | pushed to main in 📌 [beiyuouo/bbot-ng](https://github.com/beiyuouo/bbot-ng/compare/1cdc756136...171058cdbb) |
+| 2021-12-27 | pushed to main in 📌 [beiyuouo/epicgames-claimer](https://github.com/beiyuouo/epicgames-claimer/compare/b29e4bf770...8e4f4e2fef) |
+| 2021-12-27 | starred ⭐ [bawangxx/XZVoice](https://github.com/bawangxx/XZVoice) |
 | 2021-12-26 | pushed to main in 📌 [beiyuouo/epicgames-claimer](https://github.com/beiyuouo/epicgames-claimer/compare/15d73fddc8...b29e4bf770) |
 | 2021-12-26 | pushed to main in 📌 [beiyuouo/epicgames-claimer](https://github.com/beiyuouo/epicgames-claimer/compare/3e5d85f960...15d73fddc8) |
-| 2021-12-26 | commented on pull request 💬 [luminoleon/epicgames-claimer#102](https://github.com/luminoleon/epicgames-claimer/pull/102#issuecomment-1001151105) |
-| 2021-12-26 | commented on pull request 💬 [luminoleon/epicgames-claimer#102](https://github.com/luminoleon/epicgames-claimer/pull/102#issuecomment-1001149923) |
-| 2021-12-26 | commented on pull request 💬 [luminoleon/epicgames-claimer#102](https://github.com/luminoleon/epicgames-claimer/pull/102#issuecomment-1001109528) |
 <!-- END_SECTION:github -->
 
 </td>
