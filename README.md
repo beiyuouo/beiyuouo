@@ -89,11 +89,11 @@ Welcome to my github profile!
 <!-- START_SECTION:douban -->
 | Date | Title |
 | :-: | :---: |
+| 2021-12-28 | 看过😎 <a href='http://movie.douban.com/subject/35073565/' target='_blank'>门锁</a> ⭐⭐ |
 | 2021-12-25 | 想看🤔 <a href='http://movie.douban.com/subject/26140265/' target='_blank'>新生化危机</a>  |
 | 2021-12-25 | 想看🤔 <a href='http://movie.douban.com/subject/27617348/' target='_blank'>门锁</a>  |
 | 2021-12-24 | 看过😎 <a href='http://movie.douban.com/subject/34801038/' target='_blank'>黑客帝国：矩阵重启</a> ⭐⭐⭐ |
 | 2021-12-24 | 看过😎 <a href='http://movie.douban.com/subject/35180907/' target='_blank'>谁是凶手</a> ⭐⭐⭐⭐ |
-| 2021-12-23 | 看过😎 <a href='http://movie.douban.com/subject/35068653/' target='_blank'>误杀2</a> ⭐⭐⭐⭐⭐ |
 <!-- END_SECTION:douban -->
 </td>
 </tr>
@@ -105,11 +105,11 @@ Welcome to my github profile!
 <!-- START_SECTION:github -->
 | Date | Title |
 | :-: | :---: |
+| 2021-12-28 | pushed to dev in 📌 [beiyuouo/FedHF](https://github.com/beiyuouo/FedHF/compare/82af05c1e0...b6269f4b5d) |
+| 2021-12-28 | starred ⭐ [opendilab/awesome-model-based-RL](https://github.com/opendilab/awesome-model-based-RL) |
+| 2021-12-28 | starred ⭐ [TsingZ0/PFL-Non-IID](https://github.com/TsingZ0/PFL-Non-IID) |
+| 2021-12-28 | starred ⭐ [sxyu/svox2](https://github.com/sxyu/svox2) |
 | 2021-12-27 | pushed to main in 📌 [beiyuouo/bbot-ng](https://github.com/beiyuouo/bbot-ng/compare/1cdc756136...171058cdbb) |
-| 2021-12-27 | pushed to main in 📌 [beiyuouo/epicgames-claimer](https://github.com/beiyuouo/epicgames-claimer/compare/b29e4bf770...8e4f4e2fef) |
-| 2021-12-27 | starred ⭐ [bawangxx/XZVoice](https://github.com/bawangxx/XZVoice) |
-| 2021-12-26 | pushed to main in 📌 [beiyuouo/epicgames-claimer](https://github.com/beiyuouo/epicgames-claimer/compare/15d73fddc8...b29e4bf770) |
-| 2021-12-26 | pushed to main in 📌 [beiyuouo/epicgames-claimer](https://github.com/beiyuouo/epicgames-claimer/compare/3e5d85f960...15d73fddc8) |
 <!-- END_SECTION:github -->
 
 </td>
