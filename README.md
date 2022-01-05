@@ -105,11 +105,11 @@ Welcome to my github profile!
 <!-- START_SECTION:github -->
 | Date | Title |
 | :-: | :---: |
+| 2022-01-04 | starred ⭐ [nerdyrodent/VQGAN-CLIP](https://github.com/nerdyrodent/VQGAN-CLIP) |
+| 2022-01-04 | pushed to master in 📌 [beiyuouo/hnu-webvpn-converter](https://github.com/beiyuouo/hnu-webvpn-converter/compare/27f147f961...9707283ad3) |
 | 2021-12-31 | starred ⭐ [martinohanlon/mcpi](https://github.com/martinohanlon/mcpi) |
 | 2021-12-31 | starred ⭐ [jliljebl/flowblade](https://github.com/jliljebl/flowblade) |
 | 2021-12-31 | starred ⭐ [facebookresearch/FLSim](https://github.com/facebookresearch/FLSim) |
-| 2021-12-28 | pushed to dev in 📌 [beiyuouo/FedHF](https://github.com/beiyuouo/FedHF/compare/82af05c1e0...b6269f4b5d) |
-| 2021-12-28 | starred ⭐ [opendilab/awesome-model-based-RL](https://github.com/opendilab/awesome-model-based-RL) |
 <!-- END_SECTION:github -->
 
 </td>
