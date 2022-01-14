@@ -105,11 +105,11 @@ Welcome to my github profile!
 <!-- START_SECTION:github -->
 | Date | Title |
 | :-: | :---: |
+| 2022-01-13 | starred ⭐ [rdbende/Azure-ttk-theme](https://github.com/rdbende/Azure-ttk-theme) |
+| 2022-01-13 | starred ⭐ [rdbende/Sun-Valley-ttk-theme](https://github.com/rdbende/Sun-Valley-ttk-theme) |
+| 2022-01-13 | starred ⭐ [TkinterEP/ttkthemes](https://github.com/TkinterEP/ttkthemes) |
+| 2022-01-13 | starred ⭐ [israel-dryer/ttkbootstrap](https://github.com/israel-dryer/ttkbootstrap) |
 | 2022-01-12 | starred ⭐ [YyzHarry/imbalanced-semi-self](https://github.com/YyzHarry/imbalanced-semi-self) |
-| 2022-01-11 | pushed to master in 📌 [beiyuouo/beiyuouo.github.io](https://github.com/beiyuouo/beiyuouo.github.io/compare/9bcb8f9109...a10fcbaa6f) |
-| 2022-01-10 | starred ⭐ [lowlighter/metrics](https://github.com/lowlighter/metrics) |
-| 2022-01-06 | starred ⭐ [sunflower-farmers/sunflower-farmers](https://github.com/sunflower-farmers/sunflower-farmers) |
-| 2022-01-06 | starred ⭐ [MichaelCade/90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps) |
 <!-- END_SECTION:github -->
 
 </td>
