@@ -89,11 +89,11 @@ Welcome to my github profile!
 <!-- START_SECTION:douban -->
 | Date | Title |
 | :-: | :---: |
+| 2022-01-17 | 看过😎 <a href='http://movie.douban.com/subject/10455629/' target='_blank'>神探夏洛克 第三季</a> ⭐⭐⭐⭐ |
+| 2022-01-17 | 看过😎 <a href='http://movie.douban.com/subject/6522269/' target='_blank'>神探夏洛克  第二季</a> ⭐⭐⭐⭐ |
+| 2022-01-17 | 看过😎 <a href='http://movie.douban.com/subject/3986493/' target='_blank'>神探夏洛克 第一季</a> ⭐⭐⭐⭐ |
+| 2022-01-17 | 在看👀 <a href='http://movie.douban.com/subject/35332289/' target='_blank'>开端</a> ⭐⭐⭐⭐ |
 | 2021-12-28 | 看过😎 <a href='http://movie.douban.com/subject/35073565/' target='_blank'>门锁</a> ⭐⭐ |
-| 2021-12-25 | 想看🤔 <a href='http://movie.douban.com/subject/26140265/' target='_blank'>新生化危机</a>  |
-| 2021-12-25 | 想看🤔 <a href='http://movie.douban.com/subject/27617348/' target='_blank'>门锁</a>  |
-| 2021-12-24 | 看过😎 <a href='http://movie.douban.com/subject/34801038/' target='_blank'>黑客帝国：矩阵重启</a> ⭐⭐⭐ |
-| 2021-12-24 | 看过😎 <a href='http://movie.douban.com/subject/35180907/' target='_blank'>谁是凶手</a> ⭐⭐⭐⭐ |
 <!-- END_SECTION:douban -->
 </td>
 </tr>
@@ -105,11 +105,11 @@ Welcome to my github profile!
 <!-- START_SECTION:github -->
 | Date | Title |
 | :-: | :---: |
-| 2022-01-16 | pushed to main in 📌 [awesome-actions-template/hugo-papermod-template](https://github.com/awesome-actions-template/hugo-papermod-template/compare/ab551b5a04...cc82ac0043) |
-| 2022-01-16 | pushed to main in 📌 [awesome-actions-template/hugo-papermod-template](https://github.com/awesome-actions-template/hugo-papermod-template/compare/b2d2155ad7...ab551b5a04) |
-| 2022-01-15 | pushed to main in 📌 [awesome-actions-template/hugo-papermod-template](https://github.com/awesome-actions-template/hugo-papermod-template/compare/cb59885717...b2d2155ad7) |
-| 2022-01-15 | pushed to main in 📌 [awesome-actions-template/hugo-papermod-template](https://github.com/awesome-actions-template/hugo-papermod-template/compare/1e1c4fe869...cb59885717) |
-| 2022-01-15 | pushed to main in 📌 [awesome-actions-template/hugo-papermod-template](https://github.com/awesome-actions-template/hugo-papermod-template/compare/dda14c06e1...1e1c4fe869) |
+| 2022-01-17 | starred ⭐ [jdah/minecraft-again](https://github.com/jdah/minecraft-again) |
+| 2022-01-17 | created a branch main in 📁 [beiyuouo/grandpa-emoji](https://github.com/beiyuouo/grandpa-emoji/compare/main) |
+| 2022-01-17 | created a repository 📁 [beiyuouo/grandpa-emoji](https://github.com/beiyuouo/grandpa-emoji//) |
+| 2022-01-17 | created a branch main in 📁 [beiyuouo/pe](https://github.com/beiyuouo/pe/compare/main) |
+| 2022-01-17 | created a repository 📁 [beiyuouo/pe](https://github.com/beiyuouo/pe//) |
 <!-- END_SECTION:github -->
 
 </td>
