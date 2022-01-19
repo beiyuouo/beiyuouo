@@ -105,11 +105,11 @@ Welcome to my github profile!
 <!-- START_SECTION:github -->
 | Date | Title |
 | :-: | :---: |
+| 2022-01-18 | pushed to main in 📌 [beiyuouo/grandpa-group](https://github.com/beiyuouo/grandpa-group/compare/8045e32eea...e0300efbb5) |
 | 2022-01-17 | starred ⭐ [jdah/minecraft-again](https://github.com/jdah/minecraft-again) |
-| 2022-01-17 | created a branch main in 📁 [beiyuouo/grandpa-emoji](https://github.com/beiyuouo/grandpa-emoji/compare/main) |
+| 2022-01-17 | created a branch main in 📁 [beiyuouo/grandpa-group](https://github.com/beiyuouo/grandpa-emoji/compare/main) |
 | 2022-01-17 | created a repository 📁 [beiyuouo/grandpa-emoji](https://github.com/beiyuouo/grandpa-emoji//) |
 | 2022-01-17 | created a branch main in 📁 [beiyuouo/pe](https://github.com/beiyuouo/pe/compare/main) |
-| 2022-01-17 | created a repository 📁 [beiyuouo/pe](https://github.com/beiyuouo/pe//) |
 <!-- END_SECTION:github -->
 
 </td>
