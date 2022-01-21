@@ -105,11 +105,11 @@ Welcome to my github profile!
 <!-- START_SECTION:github -->
 | Date | Title |
 | :-: | :---: |
-| 2022-01-19 | created a repository 📁 [beiyuouo/alids](https://github.com/beiyuouo/alids//) |
-| 2022-01-19 | created a branch main in 📁 [beiyuouo/alids](https://github.com/beiyuouo/alids/compare/main) |
-| 2022-01-19 | pushed to main in 📌 [beiyuouo/bbot-ng](https://github.com/beiyuouo/bbot-ng/compare/e5c4857672...3fe95a5e40) |
-| 2022-01-19 | pushed to main in 📌 [beiyuouo/bbot-ng](https://github.com/beiyuouo/bbot-ng/compare/eea8d20b50...e5c4857672) |
-| 2022-01-19 | pushed to main in 📌 [beiyuouo/bbot-ng](https://github.com/beiyuouo/bbot-ng/compare/5a0c42a1e9...eea8d20b50) |
+| 2022-01-20 | merged a pull request in 📦 [beiyuouo/epic-awesome-gamer](https://github.com/beiyuouo/epic-awesome-gamer/pull/1) |
+| 2022-01-20 | pushed to main in 📌 [beiyuouo/epic-awesome-gamer](https://github.com/beiyuouo/epic-awesome-gamer/compare/2632880980...53b9cb308a) |
+| 2022-01-20 | opened a pull request in 📦 [beiyuouo/epic-awesome-gamer](https://github.com/beiyuouo/epic-awesome-gamer/pull/1) |
+| 2022-01-20 | pushed to main in 📌 [beiyuouo/epic-awesome-gamer](https://github.com/beiyuouo/epic-awesome-gamer/compare/2fd76aa85d...2632880980) |
+| 2022-01-20 | pushed to main in 📌 [beiyuouo/epic-awesome-gamer](https://github.com/beiyuouo/epic-awesome-gamer/compare/aa8cedbf17...2fd76aa85d) |
 <!-- END_SECTION:github -->
 
 </td>
