@@ -105,11 +105,11 @@ Welcome to my github profile!
 <!-- START_SECTION:github -->
 | Date | Title |
 | :-: | :---: |
-| 2022-01-20 | merged a pull request in 📦 [beiyuouo/epic-awesome-gamer](https://github.com/beiyuouo/epic-awesome-gamer/pull/1) |
-| 2022-01-20 | pushed to main in 📌 [beiyuouo/epic-awesome-gamer](https://github.com/beiyuouo/epic-awesome-gamer/compare/2632880980...53b9cb308a) |
-| 2022-01-20 | opened a pull request in 📦 [beiyuouo/epic-awesome-gamer](https://github.com/beiyuouo/epic-awesome-gamer/pull/1) |
-| 2022-01-20 | pushed to main in 📌 [beiyuouo/epic-awesome-gamer](https://github.com/beiyuouo/epic-awesome-gamer/compare/2fd76aa85d...2632880980) |
-| 2022-01-20 | pushed to main in 📌 [beiyuouo/epic-awesome-gamer](https://github.com/beiyuouo/epic-awesome-gamer/compare/aa8cedbf17...2fd76aa85d) |
+| 2022-01-22 | pushed to main in 📌 [beiyuouo/alids](https://github.com/beiyuouo/alids/compare/49abff7ae0...144a3fbe49) |
+| 2022-01-22 | pushed to main in 📌 [beiyuouo/alids](https://github.com/beiyuouo/alids/compare/e5df087fcf...49abff7ae0) |
+| 2022-01-22 | pushed to main in 📌 [beiyuouo/alids](https://github.com/beiyuouo/alids/compare/cd615d0276...e5df087fcf) |
+| 2022-01-22 | pushed to main in 📌 [beiyuouo/epic-awesome-gamer](https://github.com/beiyuouo/epic-awesome-gamer/compare/bf25d01627...17a5c5cb6c) |
+| 2022-01-22 | deleted branch QIN2DIM-main at 🗑 [beiyuouo/epic-awesome-gamer](https://github.com/) |
 <!-- END_SECTION:github -->
 
 </td>
