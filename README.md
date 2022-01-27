@@ -105,11 +105,11 @@ Welcome to my github profile!
 <!-- START_SECTION:github -->
 | Date | Title |
 | :-: | :---: |
+| 2022-01-26 | starred ⭐ [arcxingye/EatKano](https://github.com/arcxingye/EatKano) |
 | 2022-01-25 | starred ⭐ [Azmarie/Hairstyle-Transfer](https://github.com/Azmarie/Hairstyle-Transfer) |
 | 2022-01-24 | pushed to dev in 📌 [beiyuouo/FedHF](https://github.com/beiyuouo/FedHF/compare/b6269f4b5d...f4bd1d475f) |
 | 2022-01-24 | starred ⭐ [NVIDIA/NVFlare](https://github.com/NVIDIA/NVFlare) |
 | 2022-01-22 | pushed to main in 📌 [beiyuouo/alids](https://github.com/beiyuouo/alids/compare/49abff7ae0...144a3fbe49) |
-| 2022-01-22 | pushed to main in 📌 [beiyuouo/alids](https://github.com/beiyuouo/alids/compare/e5df087fcf...49abff7ae0) |
 <!-- END_SECTION:github -->
 
 </td>
