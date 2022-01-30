@@ -105,11 +105,11 @@ Welcome to my github profile!
 <!-- START_SECTION:github -->
 | Date | Title |
 | :-: | :---: |
-| 2022-01-28 | starred ⭐ [danielgatis/rembg](https://github.com/danielgatis/rembg) |
-| 2022-01-27 | pushed to dev in 📌 [beiyuouo/FedHF](https://github.com/beiyuouo/FedHF/compare/f4bd1d475f...f7420f0a94) |
-| 2022-01-26 | starred ⭐ [arcxingye/EatKano](https://github.com/arcxingye/EatKano) |
-| 2022-01-25 | starred ⭐ [Azmarie/Hairstyle-Transfer](https://github.com/Azmarie/Hairstyle-Transfer) |
-| 2022-01-24 | pushed to dev in 📌 [beiyuouo/FedHF](https://github.com/beiyuouo/FedHF/compare/b6269f4b5d...f4bd1d475f) |
+| 2022-01-29 | pushed to main in 📌 [beiyuouo/nav](https://github.com/beiyuouo/nav/compare/918fbb819a...05f598df0f) |
+| 2022-01-29 | pushed to main in 📌 [beiyuouo/blog](https://github.com/beiyuouo/blog/compare/a8d5911ace...ea82886831) |
+| 2022-01-29 | pushed to main in 📌 [beiyuouo/blog](https://github.com/beiyuouo/blog/compare/f082b2bb9f...a8d5911ace) |
+| 2022-01-29 | pushed to main in 📌 [beiyuouo/nav](https://github.com/beiyuouo/nav/compare/3ba3714cfd...918fbb819a) |
+| 2022-01-29 | created a branch main in 📁 [beiyuouo/nav](https://github.com/beiyuouo/nav/compare/main) |
 <!-- END_SECTION:github -->
 
 </td>
