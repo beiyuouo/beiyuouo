@@ -105,11 +105,11 @@ Welcome to my github profile!
 <!-- START_SECTION:github -->
 | Date | Title |
 | :-: | :---: |
+| 2022-01-30 | starred ⭐ [MLNLP-World/Top-AI-Conferences-Paper-with-Code](https://github.com/MLNLP-World/Top-AI-Conferences-Paper-with-Code) |
+| 2022-01-30 | starred ⭐ [bilibili/ailab](https://github.com/bilibili/ailab) |
+| 2022-01-30 | starred ⭐ [obsproject/obs-studio](https://github.com/obsproject/obs-studio) |
 | 2022-01-29 | pushed to main in 📌 [beiyuouo/nav](https://github.com/beiyuouo/nav/compare/918fbb819a...05f598df0f) |
 | 2022-01-29 | pushed to main in 📌 [beiyuouo/blog](https://github.com/beiyuouo/blog/compare/a8d5911ace...ea82886831) |
-| 2022-01-29 | pushed to main in 📌 [beiyuouo/blog](https://github.com/beiyuouo/blog/compare/f082b2bb9f...a8d5911ace) |
-| 2022-01-29 | pushed to main in 📌 [beiyuouo/nav](https://github.com/beiyuouo/nav/compare/3ba3714cfd...918fbb819a) |
-| 2022-01-29 | created a branch main in 📁 [beiyuouo/nav](https://github.com/beiyuouo/nav/compare/main) |
 <!-- END_SECTION:github -->
 
 </td>
