@@ -10,7 +10,7 @@ Welcome to my github profile!
 - 💬 Know more about me at my [academic page](https://bj-yan.top) or at my [blog](https://blog.bj-yan.top).
 - 📫 How to reach me: [bj.yan@ieee.org](mailto:bj.yan@ieee.org) or [bj.yan.pa@qq.com](mailto:bj.yan.pa@qq.com)
 - 🎨 Fun fact: I'm a shadiao boy!
-- ⚡ Push me: I like to develop many interesting small projects in my spare time. But some projects are not frequently maintained, so you can open an issue to push me XD.
+- ⚡ Nav: This is my personal navigation website, you can see it [here](https://www.bj-yan.top/nav/)
 
 
 
