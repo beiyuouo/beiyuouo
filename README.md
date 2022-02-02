@@ -105,11 +105,11 @@ Welcome to my github profile!
 <!-- START_SECTION:github -->
 | Date | Title |
 | :-: | :---: |
-| 2022-01-31 | starred ⭐ [CPJKU/madmom](https://github.com/CPJKU/madmom) |
-| 2022-01-31 | pushed to main in 📌 [beiyuouo/beiyuouo](https://github.com/beiyuouo/beiyuouo/compare/0d7e04ce1b...c2afce35e6) |
-| 2022-01-31 | pushed to main in 📌 [beiyuouo/nav](https://github.com/beiyuouo/nav/compare/f963045d7c...544d4c36f3) |
-| 2022-01-31 | pushed to main in 📌 [beiyuouo/nav](https://github.com/beiyuouo/nav/compare/05f598df0f...f963045d7c) |
-| 2022-01-31 | pushed to main in 📌 [beiyuouo/blog](https://github.com/beiyuouo/blog/compare/ea82886831...91e817b9a4) |
+| 2022-02-01 | starred ⭐ [NetEase-GameAI/ChoreoMaster](https://github.com/NetEase-GameAI/ChoreoMaster) |
+| 2022-02-01 | created a branch main in 📁 [(deleted)](https://github.com/beiyuouo/mmpx/compare/main) |
+| 2022-02-01 | created a repository 📁 [beiyuouo/mmpx](https://github.com/beiyuouo/mmpx//) |
+| 2022-02-01 | starred ⭐ [junyanz/pytorch-CycleGAN-and-pix2pix](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix) |
+| 2022-02-01 | starred ⭐ [irokaru/pixel-scaler](https://github.com/irokaru/pixel-scaler) |
 <!-- END_SECTION:github -->
 
 </td>
