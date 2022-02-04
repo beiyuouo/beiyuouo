@@ -105,11 +105,11 @@ Welcome to my github profile!
 <!-- START_SECTION:github -->
 | Date | Title |
 | :-: | :---: |
+| 2022-02-03 | starred ⭐ [CompVis/image2video-synthesis-using-cINNs](https://github.com/CompVis/image2video-synthesis-using-cINNs) |
+| 2022-02-03 | starred ⭐ [scrtwpns/pigment-mixing](https://github.com/scrtwpns/pigment-mixing) |
+| 2022-02-03 | starred ⭐ [KurtBestor/Hitomi-Downloader](https://github.com/KurtBestor/Hitomi-Downloader) |
 | 2022-02-01 | starred ⭐ [NetEase-GameAI/ChoreoMaster](https://github.com/NetEase-GameAI/ChoreoMaster) |
 | 2022-02-01 | created a branch main in 📁 [(deleted)](https://github.com/beiyuouo/mmpx/compare/main) |
-| 2022-02-01 | created a repository 📁 [beiyuouo/mmpx](https://github.com/beiyuouo/mmpx//) |
-| 2022-02-01 | starred ⭐ [junyanz/pytorch-CycleGAN-and-pix2pix](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix) |
-| 2022-02-01 | starred ⭐ [irokaru/pixel-scaler](https://github.com/irokaru/pixel-scaler) |
 <!-- END_SECTION:github -->
 
 </td>
