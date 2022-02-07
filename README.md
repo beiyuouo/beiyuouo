@@ -105,11 +105,11 @@ Welcome to my github profile!
 <!-- START_SECTION:github -->
 | Date | Title |
 | :-: | :---: |
+| 2022-02-06 | starred ⭐ [TomSchimansky/CustomTkinter](https://github.com/TomSchimansky/CustomTkinter) |
 | 2022-02-05 | starred ⭐ [deepmind/code_contests](https://github.com/deepmind/code_contests) |
 | 2022-02-05 | pushed to dev in 📌 [beiyuouo/FedHF](https://github.com/beiyuouo/FedHF/compare/f7420f0a94...efc1f7ba1e) |
 | 2022-02-04 | starred ⭐ [xiezhy6/PASTA-GAN](https://github.com/xiezhy6/PASTA-GAN) |
 | 2022-02-03 | starred ⭐ [CompVis/image2video-synthesis-using-cINNs](https://github.com/CompVis/image2video-synthesis-using-cINNs) |
-| 2022-02-03 | starred ⭐ [scrtwpns/pigment-mixing](https://github.com/scrtwpns/pigment-mixing) |
 <!-- END_SECTION:github -->
 
 </td>
