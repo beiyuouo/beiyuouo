@@ -21,8 +21,8 @@ Welcome to my github profile!
 
 - 🔭 I’m an undergraduate student in Hainan University.
 - 🌱 My reseach interest in Federated Learning and Computer Vision.
-- 📫 You can reach me at [bj.yan@ieee.org](mailto:bj.yan@ieee.org) or [bj.yan.pa@qq.com](mailto:bj.yan.pa@qq.com)
-- 🎨 I am glad to share and communicate with you
+- 📫 You can reach me at [bj.yan@ieee.org](mailto:bj.yan@ieee.org) or [bj.yan.pa@qq.com](mailto:bj.yan.pa@qq.com).
+- 🎨 I am glad to share and communicate with you.
 
 </div> -->
 
@@ -38,8 +38,8 @@ Welcome to my github profile!
 <!-- markdownlint-disable -->
 - 🔭 I’m an undergraduate student in Hainan University.
 - 🌱 My research interests focus on Federated Learning and Private Computing.
-- 📫 You can reach me at [bj.yan.pa@qq.com](mailto:bj.yan.pa@qq.com)
-- 🎨 I am glad to share and communicate with you
+- 📫 You can reach me at [bj.yan.pa@qq.com](mailto:bj.yan.pa@qq.com).
+- 🎨 I am glad to share and communicate with you.
 <!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->
 <!-- languages:end -->
