@@ -105,8 +105,8 @@ Welcome to my github profile!
 | 2021-10-16 | <a href='https://blog.bj-yan.top/p/readme/' target='_blank'>README</a> |
 | 2021-10-28 | <a href='https://blog.bj-yan.top/p/misc-hainanu-course-comments/' target='_blank'>海南大学课程攻略共享计划</a> |
 | 2021-10-18 | <a href='https://blog.bj-yan.top/p/note-matrix-calculus/' target='_blank'>Matrix Calculus Cooker</a> |
-| 2021-10-16 | <a href='https://blog.bj-yan.top/p/note-federated-learning-framework/' target='_blank'>Federated Learning - Framework</a> |
 | 2021-10-14 | <a href='https://blog.bj-yan.top/p/note-linear-algerbra-ng/' target='_blank'>格物致知 - 线性代数</a> |
+| 2021-10-13 | <a href='https://blog.bj-yan.top/p/thoughts-20211013/' target='_blank'>世界的本质是数学</a> |
 <!-- END_SECTION:blog -->
 </td>
 <td valign="top" width="50%">
@@ -132,11 +132,11 @@ Welcome to my github profile!
 <!-- START_SECTION:github -->
 | Date | Title |
 | :-: | :---: |
-| 2022-02-09 | starred ⭐ [yangjianxin1/GPT2-chitchat](https://github.com/yangjianxin1/GPT2-chitchat) |
-| 2022-02-09 | starred ⭐ [antfu/handle](https://github.com/antfu/handle) |
-| 2022-02-07 | starred ⭐ [Morizeyao/GPT2-Chinese](https://github.com/Morizeyao/GPT2-Chinese) |
-| 2022-02-06 | starred ⭐ [TomSchimansky/CustomTkinter](https://github.com/TomSchimansky/CustomTkinter) |
-| 2022-02-05 | starred ⭐ [deepmind/code_contests](https://github.com/deepmind/code_contests) |
+| 2022-02-11 | pushed to main in 📌 [beiyuouo/beiyuouo](https://github.com/beiyuouo/beiyuouo/compare/ca00114228...4a5c8f85e0) |
+| 2022-02-11 | forked beiyuouo/TonyCrane from 🍴 [TonyCrane/TonyCrane](https://github.com/beiyuouo/TonyCrane) |
+| 2022-02-11 | pushed to main in 📌 [beiyuouo/blog](https://github.com/beiyuouo/blog/compare/cce7a14cf1...548fe493fd) |
+| 2022-02-11 | pushed to main in 📌 [beiyuouo/blog](https://github.com/beiyuouo/blog/compare/91e817b9a4...cce7a14cf1) |
+| 2022-02-11 | pushed to dev in 📌 [beiyuouo/fedhf](https://github.com/beiyuouo/fedhf/compare/a0cbca570c...53875d884b) |
 <!-- END_SECTION:github -->
 
 </td>
