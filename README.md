@@ -1,29 +1,56 @@
+<h3 align="center"> Bingjie Yan / 北屿 (Bei Yu) </h3>
 
-<!-- <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beiyuouo&show_icons=true&hide_border=true"> -->
 
-## Hi there, I'm [Bingjie Yan](https://bj-yan.top/) 👋
+<p align="center">
+  <samp>
+    <a href="https://github.com/beiyuouo">github</a> ∙ 
+    <a href="https://www.bj-yan.top/">personal page</a> ∙
+    <a href="https://blog.bj-yan.top/">blog</a> ∙
+    <a href="https://www.bj-yan.top/nav/">nav</a> ∙
+    <a href="https://space.bilibili.com/23511429">bilibili</a> ∙ 
+    <a href="https://www.bj-yan.top/pdf/cv_en.pdf">cv</a>
+  </samp>
+</p>
 
+
+---
+
+<!-- <div align="left" width="40%" display="inline">
+  
 Welcome to my github profile!
 
 - 🔭 I’m an undergraduate student in Hainan University.
 - 🌱 My reseach interest in Federated Learning and Computer Vision.
-- 💬 Know more about me at my [academic page](https://bj-yan.top) or at my [blog](https://blog.bj-yan.top).
-- 📫 How to reach me: [bj.yan@ieee.org](mailto:bj.yan@ieee.org) or [bj.yan.pa@qq.com](mailto:bj.yan.pa@qq.com)
-- 🎨 Fun fact: I'm a shadiao boy!
-- ⚡ Nav: This is my personal navigation website, you can see it [here](https://www.bj-yan.top/nav/)
+- 📫 You can reach me at [bj.yan@ieee.org](mailto:bj.yan@ieee.org) or [bj.yan.pa@qq.com](mailto:bj.yan.pa@qq.com)
+- 🎨 I am glad to share and communicate with you
+
+</div> -->
+
+<!-- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beiyuouo&show_icons=true&hide_border=true" height="20px"> -->
+
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=beiyuouo&show_icons=true&hide_border=true" width="50%">
 
 
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=beiyuouo&show_icons=true&hide_border=true">
+#### Welcome to my github profile!
+<!-- languages:start -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+- 🔭 I’m an undergraduate student in Hainan University.
+- 🌱 My research interests focus on Federated Learning and Private Computing.
+- 📫 You can reach me at [bj.yan.pa@qq.com](mailto:bj.yan.pa@qq.com)
+- 🎨 I am glad to share and communicate with you
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+<!-- languages:end -->
 
-
-#### Languages
+<!-- #### Languages -->
 
 <!-- languages:start -->
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
-<code><img height="20" src="https://simpleicons.org/icons/python.svg" alt="python" /></code>
-<code><img height="20" src="https://simpleicons.org/icons/goland.svg" alt="python" /></code>
+<!-- <code><img height="20" src="https://simpleicons.org/icons/python.svg" alt="python" /></code> -->
+<!-- <code><img height="20" src="https://simpleicons.org/icons/goland.svg" alt="python" /></code> -->
 <!-- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python" /></code> -->
 <!-- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt="cpp" /></code> -->
 <!-- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="java" /></code> -->
@@ -34,17 +61,17 @@ Welcome to my github profile!
 <!-- prettier-ignore-end -->
 <!-- languages:end -->
 
-#### Frameworks and Tools
+<!-- #### Frameworks and Tools -->
 
 <!-- tools:start -->
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
-<code><img height="20" src="https://simpleicons.org/icons/visualstudiocode.svg" alt="VSCode" /></code>
-<code><img height="20" src="https://simpleicons.org/icons/anaconda.svg" alt="anaconda" /></code>
-<code><img height="20" src="https://simpleicons.org/icons/pytorch.svg" alt="pytorch" /></code>
-<code><img height="20" src="https://simpleicons.org/icons/docker.svg" alt="Docker" /></code>
-<code><img height="20" src="https://simpleicons.org/icons/kubernetes.svg" alt="Kubernetes" /></code>
-<code><img height="20" src="https://simpleicons.org/icons/git.svg" alt="git" /></code>
+<!-- <code><img height="20" src="https://simpleicons.org/icons/visualstudiocode.svg" alt="VSCode" /></code> -->
+<!-- <code><img height="20" src="https://simpleicons.org/icons/anaconda.svg" alt="anaconda" /></code> -->
+<!-- <code><img height="20" src="https://simpleicons.org/icons/pytorch.svg" alt="pytorch" /></code> -->
+<!-- <code><img height="20" src="https://simpleicons.org/icons/docker.svg" alt="Docker" /></code> -->
+<!-- <code><img height="20" src="https://simpleicons.org/icons/kubernetes.svg" alt="Kubernetes" /></code> -->
+<!-- <code><img height="20" src="https://simpleicons.org/icons/git.svg" alt="git" /></code> -->
 <!-- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="visual-studio-code" /></code> -->
 <!-- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/opencv/opencv.png"/></code> -->
 <!-- <code><img height="20" src="https://resources.jetbrains.com/storage/products/pycharm/img/meta/pycharm_logo_300x300.png" alt="pycharm" /></code> -->
@@ -66,7 +93,7 @@ Welcome to my github profile!
 <!-- prettier-ignore-end -->
 <!-- interested:end -->
 
-<table width="100%" align="center">
+<table width="100%" align="center" padding="0" margin="0">
 <tr>
 <td valign="top" width="50%">
 
