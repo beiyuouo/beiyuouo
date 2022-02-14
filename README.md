@@ -41,9 +41,9 @@
 | :-: | :---: |
 | 2021-10-16 | <a href='https://blog.bj-yan.top/p/readme/' target='_blank'>README</a> |
 | 2021-10-28 | <a href='https://blog.bj-yan.top/p/misc-hainanu-course-comments/' target='_blank'>海南大学课程攻略共享计划</a> |
-| 2021-10-18 | <a href='https://blog.bj-yan.top/p/note-matrix-calculus/' target='_blank'>Matrix Calculus Cooker</a> |
 | 2021-10-14 | <a href='https://blog.bj-yan.top/p/note-linear-algerbra-ng/' target='_blank'>格物致知 - 线性代数</a> |
 | 2021-10-13 | <a href='https://blog.bj-yan.top/p/thoughts-20211013/' target='_blank'>世界的本质是数学</a> |
+| 2021-10-06 | <a href='https://blog.bj-yan.top/p/thoughts-20211006/' target='_blank'>第一次打 120 & 第一次坐救护车</a> |
 <!-- END_SECTION:blog -->
 </td>
 <td valign="top" width="50%">
@@ -69,11 +69,11 @@
 <!-- START_SECTION:github -->
 | Date | Title |
 | :-: | :---: |
-| 2022-02-11 | pushed to main in 📌 [beiyuouo/beiyuouo](https://github.com/beiyuouo/beiyuouo/compare/b348ce3dfe...c62960e60c) |
-| 2022-02-11 | pushed to main in 📌 [beiyuouo/beiyuouo](https://github.com/beiyuouo/beiyuouo/compare/351f507502...0714a7169a) |
-| 2022-02-11 | pushed to main in 📌 [beiyuouo/beiyuouo](https://github.com/beiyuouo/beiyuouo/compare/90c75e230b...339af7ba00) |
-| 2022-02-11 | forked beiyuouo/rahuldkjain from 🍴 [rahuldkjain/rahuldkjain](https://github.com/beiyuouo/rahuldkjain) |
-| 2022-02-11 | pushed to main in 📌 [beiyuouo/beiyuouo](https://github.com/beiyuouo/beiyuouo/compare/ca00114228...4a5c8f85e0) |
+| 2022-02-13 | pushed to dev in 📌 [beiyuouo/fedhf](https://github.com/beiyuouo/fedhf/compare/53875d884b...a5264975ef) |
+| 2022-02-13 | pushed to main in 📌 [beiyuouo/blog](https://github.com/beiyuouo/blog/compare/0d7a166e1b...cbc3f4c8b4) |
+| 2022-02-13 | pushed to main in 📌 [beiyuouo/blog](https://github.com/beiyuouo/blog/compare/a5d19b5bb2...0d7a166e1b) |
+| 2022-02-13 | pushed to main in 📌 [beiyuouo/blog](https://github.com/beiyuouo/blog/compare/f6b84440bc...a5d19b5bb2) |
+| 2022-02-13 | pushed to main in 📌 [beiyuouo/blog](https://github.com/beiyuouo/blog/compare/62c402297d...f6b84440bc) |
 <!-- END_SECTION:github -->
 
 </td>
