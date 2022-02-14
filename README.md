@@ -26,6 +26,7 @@
 - 🌱 My research interests focus on Federated Learning and Private Computing.
 - 📫 You can reach me at [bj.yan.pa@qq.com](mailto:bj.yan.pa@qq.com).
 - 🎨 I am glad to share and communicate with you.
+- ❤️ Love pixel art and AI for art.
 <!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->
 <!-- languages:end -->
