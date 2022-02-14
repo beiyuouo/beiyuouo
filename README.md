@@ -70,11 +70,11 @@
 <!-- START_SECTION:github -->
 | Date | Title |
 | :-: | :---: |
-| 2022-02-13 | pushed to dev in 📌 [beiyuouo/fedhf](https://github.com/beiyuouo/fedhf/compare/53875d884b...a5264975ef) |
-| 2022-02-13 | pushed to main in 📌 [beiyuouo/blog](https://github.com/beiyuouo/blog/compare/0d7a166e1b...cbc3f4c8b4) |
-| 2022-02-13 | pushed to main in 📌 [beiyuouo/blog](https://github.com/beiyuouo/blog/compare/a5d19b5bb2...0d7a166e1b) |
-| 2022-02-13 | pushed to main in 📌 [beiyuouo/blog](https://github.com/beiyuouo/blog/compare/f6b84440bc...a5d19b5bb2) |
-| 2022-02-13 | pushed to main in 📌 [beiyuouo/blog](https://github.com/beiyuouo/blog/compare/62c402297d...f6b84440bc) |
+| 2022-02-14 | made beiyuouo/pixel-scale-tools 📝 [public](https://github.com/beiyuouo/pixel-scale-tools) |
+| 2022-02-14 | pushed to (deleted) in 📌 [(deleted)](https://github.com/beiyuouo/musicpy_dev/compare/16a00f38c5...5015113b3b) |
+| 2022-02-14 | pushed to (deleted) in 📌 [(deleted)](https://github.com/beiyuouo/musicpy_dev/compare/44797901f7...16a00f38c5) |
+| 2022-02-14 | pushed to (deleted) in 📌 [(deleted)](https://github.com/beiyuouo/musicpy_dev/compare/6703ecd173...44797901f7) |
+| 2022-02-14 | pushed to (deleted) in 📌 [(deleted)](https://github.com/beiyuouo/musicpy_dev/compare/f1259d7475...6703ecd173) |
 <!-- END_SECTION:github -->
 
 </td>
