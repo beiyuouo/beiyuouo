@@ -70,11 +70,11 @@
 <!-- START_SECTION:github -->
 | Date | Title |
 | :-: | :---: |
-| 2022-02-15 | pushed to main in 📌 [beiyuouo/blog](https://github.com/beiyuouo/blog/compare/be3ca6c4cc...262e73cdb4) |
-| 2022-02-15 | pushed to main in 📌 [beiyuouo/blog](https://github.com/beiyuouo/blog/compare/d13c265aa0...be3ca6c4cc) |
-| 2022-02-14 | pushed to main in 📌 [beiyuouo/blog](https://github.com/beiyuouo/blog/compare/2b34c58b08...d13c265aa0) |
-| 2022-02-14 | pushed to main in 📌 [beiyuouo/blog](https://github.com/beiyuouo/blog/compare/b4ac7315f0...2b34c58b08) |
-| 2022-02-14 | pushed to main in 📌 [beiyuouo/blog](https://github.com/beiyuouo/blog/compare/e12d00ee87...b4ac7315f0) |
+| 2022-02-15 | pushed to main in 📌 [beiyuouo/beiyuouo](https://github.com/beiyuouo/beiyuouo/compare/701c945a9d...c8b43c7151) |
+| 2022-02-15 | pushed to master in 📌 [beiyuouo/beiyuouo.github.io](https://github.com/beiyuouo/beiyuouo.github.io/compare/e19853d7da...59e30b74c4) |
+| 2022-02-15 | pushed to master in 📌 [beiyuouo/beiyuouo.github.io](https://github.com/beiyuouo/beiyuouo.github.io/compare/cbb0cf5863...e19853d7da) |
+| 2022-02-15 | pushed to master in 📌 [beiyuouo/beiyuouo.github.io](https://github.com/beiyuouo/beiyuouo.github.io/compare/faf4475a20...cbb0cf5863) |
+| 2022-02-15 | pushed to master in 📌 [beiyuouo/beiyuouo.github.io](https://github.com/beiyuouo/beiyuouo.github.io/compare/a10fcbaa6f...faf4475a20) |
 <!-- END_SECTION:github -->
 
 </td>
