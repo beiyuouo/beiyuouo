@@ -41,10 +41,10 @@
 | Date | Title |
 | :-: | :---: |
 | 2021-10-16 | <a href='https://blog.bj-yan.top/p/readme/' target='_blank'>README</a> |
+| 2022-02-15 | <a href='https://blog.bj-yan.top/p/misc-bigverse-first-experience/' target='_blank'>Bigverse 初体验</a> |
+| 2021-11-04 | <a href='https://blog.bj-yan.top/p/env-scaffold-commend/' target='_blank'>一些常用命令</a> |
 | 2021-10-28 | <a href='https://blog.bj-yan.top/p/misc-hainanu-course-comments/' target='_blank'>海南大学课程攻略共享计划</a> |
 | 2021-10-14 | <a href='https://blog.bj-yan.top/p/note-linear-algerbra-ng/' target='_blank'>格物致知 - 线性代数</a> |
-| 2021-10-13 | <a href='https://blog.bj-yan.top/p/thoughts-20211013/' target='_blank'>世界的本质是数学</a> |
-| 2021-10-06 | <a href='https://blog.bj-yan.top/p/thoughts-20211006/' target='_blank'>第一次打 120 & 第一次坐救护车</a> |
 <!-- END_SECTION:blog -->
 </td>
 <td valign="top" width="50%">
@@ -70,11 +70,11 @@
 <!-- START_SECTION:github -->
 | Date | Title |
 | :-: | :---: |
-| 2022-02-14 | made beiyuouo/pixel-scale-tools 📝 [public](https://github.com/beiyuouo/pixel-scale-tools) |
-| 2022-02-14 | pushed to (deleted) in 📌 [(deleted)](https://github.com/beiyuouo/musicpy_dev/compare/16a00f38c5...5015113b3b) |
-| 2022-02-14 | pushed to (deleted) in 📌 [(deleted)](https://github.com/beiyuouo/musicpy_dev/compare/44797901f7...16a00f38c5) |
-| 2022-02-14 | pushed to (deleted) in 📌 [(deleted)](https://github.com/beiyuouo/musicpy_dev/compare/6703ecd173...44797901f7) |
-| 2022-02-14 | pushed to (deleted) in 📌 [(deleted)](https://github.com/beiyuouo/musicpy_dev/compare/f1259d7475...6703ecd173) |
+| 2022-02-14 | pushed to main in 📌 [beiyuouo/blog](https://github.com/beiyuouo/blog/compare/2b34c58b08...d13c265aa0) |
+| 2022-02-14 | pushed to main in 📌 [beiyuouo/blog](https://github.com/beiyuouo/blog/compare/b4ac7315f0...2b34c58b08) |
+| 2022-02-14 | pushed to main in 📌 [beiyuouo/blog](https://github.com/beiyuouo/blog/compare/e12d00ee87...b4ac7315f0) |
+| 2022-02-14 | pushed to main in 📌 [beiyuouo/blog](https://github.com/beiyuouo/blog/compare/56a24f93d8...e12d00ee87) |
+| 2022-02-14 | pushed to main in 📌 [beiyuouo/blog](https://github.com/beiyuouo/blog/compare/a17315f073...56a24f93d8) |
 <!-- END_SECTION:github -->
 
 </td>
