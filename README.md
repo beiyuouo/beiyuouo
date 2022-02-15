@@ -4,7 +4,7 @@
 <p align="center">
   <samp>
     <a href="https://github.com/beiyuouo">github</a> ∙ 
-    <a href="https://www.bj-yan.top/">personal page</a> ∙
+    <a href="https://www.bj-yan.top/">homepage</a> ∙
     <a href="https://blog.bj-yan.top/">blog</a> ∙
     <a href="https://www.bj-yan.top/nav/">nav</a> ∙
     <a href="https://space.bilibili.com/23511429">bilibili</a> ∙ 
