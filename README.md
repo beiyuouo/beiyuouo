@@ -41,10 +41,10 @@
 | Date | Title |
 | :-: | :---: |
 | 2021-10-16 | <a href='https://blog.bj-yan.top/p/readme/' target='_blank'>README</a> |
+| 2022-02-15 | <a href='https://blog.bj-yan.top/p/misc-nft-common-site/' target='_blank'>NFT 常用网站</a> |
 | 2022-02-15 | <a href='https://blog.bj-yan.top/p/misc-bigverse-first-experience/' target='_blank'>Bigverse 初体验</a> |
+| 2022-02-15 | <a href='https://blog.bj-yan.top/p/blog-deep-learning-for-pixel-art/' target='_blank'>Deep Learning for Pixel Art</a> |
 | 2021-11-04 | <a href='https://blog.bj-yan.top/p/env-scaffold-commend/' target='_blank'>一些常用命令</a> |
-| 2021-10-28 | <a href='https://blog.bj-yan.top/p/misc-hainanu-course-comments/' target='_blank'>海南大学课程攻略共享计划</a> |
-| 2021-10-14 | <a href='https://blog.bj-yan.top/p/note-linear-algerbra-ng/' target='_blank'>格物致知 - 线性代数</a> |
 <!-- END_SECTION:blog -->
 </td>
 <td valign="top" width="50%">
@@ -70,11 +70,11 @@
 <!-- START_SECTION:github -->
 | Date | Title |
 | :-: | :---: |
+| 2022-02-15 | pushed to main in 📌 [beiyuouo/blog](https://github.com/beiyuouo/blog/compare/be3ca6c4cc...262e73cdb4) |
+| 2022-02-15 | pushed to main in 📌 [beiyuouo/blog](https://github.com/beiyuouo/blog/compare/d13c265aa0...be3ca6c4cc) |
 | 2022-02-14 | pushed to main in 📌 [beiyuouo/blog](https://github.com/beiyuouo/blog/compare/2b34c58b08...d13c265aa0) |
 | 2022-02-14 | pushed to main in 📌 [beiyuouo/blog](https://github.com/beiyuouo/blog/compare/b4ac7315f0...2b34c58b08) |
 | 2022-02-14 | pushed to main in 📌 [beiyuouo/blog](https://github.com/beiyuouo/blog/compare/e12d00ee87...b4ac7315f0) |
-| 2022-02-14 | pushed to main in 📌 [beiyuouo/blog](https://github.com/beiyuouo/blog/compare/56a24f93d8...e12d00ee87) |
-| 2022-02-14 | pushed to main in 📌 [beiyuouo/blog](https://github.com/beiyuouo/blog/compare/a17315f073...56a24f93d8) |
 <!-- END_SECTION:github -->
 
 </td>
