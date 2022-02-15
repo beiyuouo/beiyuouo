@@ -1,4 +1,4 @@
-<h3 align="center"> Bingjie Yan / 北屿 (Bei Yu) </h3>
+<h3 align="center"> Bingjie Yan / 北屿 (BeiYu) </h3>
 
 
 <p align="center">
