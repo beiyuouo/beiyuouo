@@ -3,12 +3,12 @@
 
 <p align="center">
   <samp>
-    <a href="https://github.com/beiyuouo">github</a> ∙ 
     <a href="https://www.bj-yan.top/">homepage</a> ∙
     <a href="https://blog.bj-yan.top/">blog</a> ∙
     <a href="https://www.bj-yan.top/nav/">nav</a> ∙
-    <a href="https://space.bilibili.com/23511429">bilibili</a> ∙ 
-    <a href="https://www.bj-yan.top/pdf/cv_en.pdf">cv</a>
+    <a href="https://www.bj-yan.top/pdf/cv_en.pdf">cv</a> ∙ 
+    <a href="https://github.com/beiyuouo">github</a> ∙ 
+    <a href="https://space.bilibili.com/23511429">bilibili</a>
   </samp>
 </p>
 
@@ -22,7 +22,7 @@
 <!-- languages:start -->
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
-- 🔭 I’m an undergraduate student in [Hainan University](https://ha.hainanu.edu.cn/home2020/).
+- 🔭 I’m an undergraduate student in [**@Hainan University**](https://ha.hainanu.edu.cn/home2020/).
 - 🌱 My research interests focus on Federated Learning and Private Computing.
 - 📫 You can reach me at [bj.yan.pa@qq.com](mailto:bj.yan.pa@qq.com).
 - 🎨 I am glad to share and communicate with you.
