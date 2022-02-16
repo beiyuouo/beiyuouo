@@ -70,11 +70,11 @@
 <!-- START_SECTION:github -->
 | Date | Title |
 | :-: | :---: |
+| 2022-02-15 | pushed to main in 📌 [beiyuouo/blog](https://github.com/beiyuouo/blog/compare/a921d7a979...a1c9cfb1df) |
 | 2022-02-15 | pushed to main in 📌 [beiyuouo/beiyuouo](https://github.com/beiyuouo/beiyuouo/compare/2333d078a9...f2b292323b) |
 | 2022-02-15 | pushed to main in 📌 [beiyuouo/beiyuouo](https://github.com/beiyuouo/beiyuouo/compare/701c945a9d...c8b43c7151) |
 | 2022-02-15 | pushed to master in 📌 [beiyuouo/beiyuouo.github.io](https://github.com/beiyuouo/beiyuouo.github.io/compare/e19853d7da...59e30b74c4) |
 | 2022-02-15 | pushed to master in 📌 [beiyuouo/beiyuouo.github.io](https://github.com/beiyuouo/beiyuouo.github.io/compare/cbb0cf5863...e19853d7da) |
-| 2022-02-15 | pushed to master in 📌 [beiyuouo/beiyuouo.github.io](https://github.com/beiyuouo/beiyuouo.github.io/compare/faf4475a20...cbb0cf5863) |
 <!-- END_SECTION:github -->
 
 </td>
