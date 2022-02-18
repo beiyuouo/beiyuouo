@@ -70,11 +70,11 @@
 <!-- START_SECTION:github -->
 | Date | Title |
 | :-: | :---: |
-| 2022-02-17 | pushed to main in 📌 [beiyuouo/beiyuouo](https://github.com/beiyuouo/beiyuouo/compare/1bc5042c4c...d7f76fd850) |
-| 2022-02-17 | pushed to main in 📌 [beiyuouo/nav](https://github.com/beiyuouo/nav/compare/655f4f5e4c...866f5d8773) |
-| 2022-02-17 | pushed to main in 📌 [beiyuouo/nav](https://github.com/beiyuouo/nav/compare/62258b37a4...655f4f5e4c) |
-| 2022-02-17 | pushed to main in 📌 [beiyuouo/nav](https://github.com/beiyuouo/nav/compare/4c3a44db37...62258b37a4) |
-| 2022-02-16 | pushed to main in 📌 [beiyuouo/nav](https://github.com/beiyuouo/nav/compare/c220189f58...4c3a44db37) |
+| 2022-02-17 | pushed to main in 📌 [beiyuouo/nav](https://github.com/beiyuouo/nav/compare/728a26a79b...cc891b98e9) |
+| 2022-02-17 | pushed to main in 📌 [beiyuouo/nav](https://github.com/beiyuouo/nav/compare/7775458872...728a26a79b) |
+| 2022-02-17 | pushed to main in 📌 [beiyuouo/nav](https://github.com/beiyuouo/nav/compare/9447b2879b...7775458872) |
+| 2022-02-17 | pushed to main in 📌 [beiyuouo/nav](https://github.com/beiyuouo/nav/compare/1046f6b2c7...9447b2879b) |
+| 2022-02-17 | starred ⭐ [alyssaxuu/omni](https://github.com/alyssaxuu/omni) |
 <!-- END_SECTION:github -->
 
 </td>
