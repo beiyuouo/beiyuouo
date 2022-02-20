@@ -41,10 +41,10 @@
 | Date | Title |
 | :-: | :---: |
 | 2021-10-16 | <a href='https://blog.bj-yan.top/p/readme/' target='_blank'>README</a> |
+| 2022-02-19 | <a href='https://blog.bj-yan.top/p/misc-github-actions-cv/' target='_blank'>GitHub Actions 进行简历编译与分发的最佳实践</a> |
 | 2022-02-15 | <a href='https://blog.bj-yan.top/p/misc-nft-common-site/' target='_blank'>NFT 常用网站</a> |
 | 2022-02-15 | <a href='https://blog.bj-yan.top/p/misc-bigverse-first-experience/' target='_blank'>Bigverse 初体验</a> |
 | 2022-02-15 | <a href='https://blog.bj-yan.top/p/blog-deep-learning-for-pixel-art/' target='_blank'>Deep Learning for Pixel Art</a> |
-| 2021-11-04 | <a href='https://blog.bj-yan.top/p/env-scaffold-commend/' target='_blank'>一些常用命令</a> |
 <!-- END_SECTION:blog -->
 </td>
 <td valign="top" width="50%">
@@ -70,11 +70,11 @@
 <!-- START_SECTION:github -->
 | Date | Title |
 | :-: | :---: |
-| 2022-02-17 | pushed to main in 📌 [beiyuouo/nav](https://github.com/beiyuouo/nav/compare/728a26a79b...cc891b98e9) |
-| 2022-02-17 | pushed to main in 📌 [beiyuouo/nav](https://github.com/beiyuouo/nav/compare/7775458872...728a26a79b) |
-| 2022-02-17 | pushed to main in 📌 [beiyuouo/nav](https://github.com/beiyuouo/nav/compare/9447b2879b...7775458872) |
-| 2022-02-17 | pushed to main in 📌 [beiyuouo/nav](https://github.com/beiyuouo/nav/compare/1046f6b2c7...9447b2879b) |
-| 2022-02-17 | starred ⭐ [alyssaxuu/omni](https://github.com/alyssaxuu/omni) |
+| 2022-02-19 | pushed to master in 📌 [beiyuouo/beiyuouo.github.io](https://github.com/beiyuouo/beiyuouo.github.io/compare/40f537cae8...7c17d15540) |
+| 2022-02-19 | pushed to main in 📌 [beiyuouo/blog](https://github.com/beiyuouo/blog/compare/805d67f45a...de17ee7256) |
+| 2022-02-19 | pushed to main in 📌 [beiyuouo/cv](https://github.com/beiyuouo/cv/compare/f3458ca297...f0afc282b8) |
+| 2022-02-19 | pushed to master in 📌 [beiyuouo/beiyuouo.github.io](https://github.com/beiyuouo/beiyuouo.github.io/compare/39426455ab...40f537cae8) |
+| 2022-02-19 | pushed to main in 📌 [beiyuouo/cv](https://github.com/beiyuouo/cv/compare/2759dd0cc5...f3458ca297) |
 <!-- END_SECTION:github -->
 
 </td>
