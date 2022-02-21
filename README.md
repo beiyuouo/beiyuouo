@@ -70,11 +70,11 @@
 <!-- START_SECTION:github -->
 | Date | Title |
 | :-: | :---: |
-| 2022-02-19 | pushed to master in 📌 [beiyuouo/beiyuouo.github.io](https://github.com/beiyuouo/beiyuouo.github.io/compare/40f537cae8...7c17d15540) |
-| 2022-02-19 | pushed to main in 📌 [beiyuouo/blog](https://github.com/beiyuouo/blog/compare/805d67f45a...de17ee7256) |
-| 2022-02-19 | pushed to main in 📌 [beiyuouo/cv](https://github.com/beiyuouo/cv/compare/f3458ca297...f0afc282b8) |
-| 2022-02-19 | pushed to master in 📌 [beiyuouo/beiyuouo.github.io](https://github.com/beiyuouo/beiyuouo.github.io/compare/39426455ab...40f537cae8) |
-| 2022-02-19 | pushed to main in 📌 [beiyuouo/cv](https://github.com/beiyuouo/cv/compare/2759dd0cc5...f3458ca297) |
+| 2022-02-20 | starred ⭐ [veler/DevToys](https://github.com/veler/DevToys) |
+| 2022-02-20 | pushed to main in 📌 [beiyuouo/hainanubeamer](https://github.com/beiyuouo/hainanubeamer/compare/45e7b14705...106f0dd8d0) |
+| 2022-02-20 | pushed to main in 📌 [beiyuouo/hainanubeamer](https://github.com/beiyuouo/hainanubeamer/compare/127743a4a0...45e7b14705) |
+| 2022-02-20 | pushed to main in 📌 [beiyuouo/hainanubeamer](https://github.com/beiyuouo/hainanubeamer/compare/d67036e124...127743a4a0) |
+| 2022-02-20 | pushed to main in 📌 [beiyuouo/hainanubeamer](https://github.com/beiyuouo/hainanubeamer/compare/952004b501...d67036e124) |
 <!-- END_SECTION:github -->
 
 </td>
