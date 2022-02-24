@@ -70,11 +70,11 @@
 <!-- START_SECTION:github -->
 | Date | Title |
 | :-: | :---: |
-| 2022-02-22 | commented on issue 💬 [beiyuouo/hainanubeamer#1](https://github.com/beiyuouo/hainanubeamer/issues/1#issuecomment-1047531208) |
-| 2022-02-20 | starred ⭐ [veler/DevToys](https://github.com/veler/DevToys) |
-| 2022-02-20 | pushed to main in 📌 [beiyuouo/hainanubeamer](https://github.com/beiyuouo/hainanubeamer/compare/45e7b14705...106f0dd8d0) |
-| 2022-02-20 | pushed to main in 📌 [beiyuouo/hainanubeamer](https://github.com/beiyuouo/hainanubeamer/compare/127743a4a0...45e7b14705) |
-| 2022-02-20 | pushed to main in 📌 [beiyuouo/hainanubeamer](https://github.com/beiyuouo/hainanubeamer/compare/d67036e124...127743a4a0) |
+| 2022-02-23 | starred ⭐ [emma-sjwang/Dofe](https://github.com/emma-sjwang/Dofe) |
+| 2022-02-23 | starred ⭐ [loli/medpy](https://github.com/loli/medpy) |
+| 2022-02-23 | starred ⭐ [orpatashnik/StyleCLIP](https://github.com/orpatashnik/StyleCLIP) |
+| 2022-02-23 | starred ⭐ [rotemtzaban/STIT](https://github.com/rotemtzaban/STIT) |
+| 2022-02-23 | starred ⭐ [openai/CLIP](https://github.com/openai/CLIP) |
 <!-- END_SECTION:github -->
 
 </td>
