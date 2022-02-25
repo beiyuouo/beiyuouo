@@ -70,11 +70,11 @@
 <!-- START_SECTION:github -->
 | Date | Title |
 | :-: | :---: |
+| 2022-02-24 | pushed to main in 📌 [beiyuouo/blog](https://github.com/beiyuouo/blog/compare/254dffc9e2...c4a9ab867e) |
+| 2022-02-24 | starred ⭐ [clear-code-projects/Zelda](https://github.com/clear-code-projects/Zelda) |
+| 2022-02-24 | pushed to main in 📌 [beiyuouo/blog](https://github.com/beiyuouo/blog/compare/f547015c8b...254dffc9e2) |
 | 2022-02-23 | starred ⭐ [emma-sjwang/Dofe](https://github.com/emma-sjwang/Dofe) |
 | 2022-02-23 | starred ⭐ [loli/medpy](https://github.com/loli/medpy) |
-| 2022-02-23 | starred ⭐ [orpatashnik/StyleCLIP](https://github.com/orpatashnik/StyleCLIP) |
-| 2022-02-23 | starred ⭐ [rotemtzaban/STIT](https://github.com/rotemtzaban/STIT) |
-| 2022-02-23 | starred ⭐ [openai/CLIP](https://github.com/openai/CLIP) |
 <!-- END_SECTION:github -->
 
 </td>
