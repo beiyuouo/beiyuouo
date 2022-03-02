@@ -70,11 +70,11 @@
 <!-- START_SECTION:github -->
 | Date | Title |
 | :-: | :---: |
-| 2022-02-28 | pushed to dev in 📌 [beiyuouo/fedhf](https://github.com/beiyuouo/fedhf/compare/5d28e7cde7...5c0fafe14a) |
-| 2022-02-28 | starred ⭐ [jekyll/jekyll](https://github.com/jekyll/jekyll) |
-| 2022-02-27 | starred ⭐ [RayeRen/acad-homepage.github.io](https://github.com/RayeRen/acad-homepage.github.io) |
-| 2022-02-25 | pushed to dev in 📌 [beiyuouo/fedhf](https://github.com/beiyuouo/fedhf/compare/e1cae0b5b0...5d28e7cde7) |
-| 2022-02-24 | pushed to main in 📌 [beiyuouo/blog](https://github.com/beiyuouo/blog/compare/254dffc9e2...c4a9ab867e) |
+| 2022-03-01 | opened a pull request in 📦 [QIN2DIM/hcaptcha-challenger](https://github.com/QIN2DIM/hcaptcha-challenger/pull/6) |
+| 2022-03-01 | pushed to main in 📌 [beiyuouo/hcaptcha-challenger](https://github.com/beiyuouo/hcaptcha-challenger/compare/79a34fe39a...1a4bd3778a) |
+| 2022-03-01 | forked beiyuouo/hcaptcha-challenger from 🍴 [QIN2DIM/hcaptcha-challenger](https://github.com/beiyuouo/hcaptcha-challenger) |
+| 2022-03-01 | starred ⭐ [jfzhang95/pytorch-deeplab-xception](https://github.com/jfzhang95/pytorch-deeplab-xception) |
+| 2022-03-01 | starred ⭐ [snap-research/NeROIC](https://github.com/snap-research/NeROIC) |
 <!-- END_SECTION:github -->
 
 </td>
