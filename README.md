@@ -41,10 +41,10 @@
 | Date | Title |
 | :-: | :---: |
 | 2021-10-16 | <a href='https://blog.bj-yan.top/p/readme/' target='_blank'>README</a> |
+| 2022-03-02 | <a href='https://blog.bj-yan.top/p/misc-hcaptcha-vertical-river/' target='_blank'>"Please click each image containing a vertical river"</a> |
 | 2022-02-19 | <a href='https://blog.bj-yan.top/p/misc-github-actions-cv/' target='_blank'>GitHub Actions 进行简历编译与分发的最佳实践</a> |
 | 2022-02-15 | <a href='https://blog.bj-yan.top/p/misc-nft-common-site/' target='_blank'>NFT 常用网站</a> |
 | 2022-02-15 | <a href='https://blog.bj-yan.top/p/misc-bigverse-first-experience/' target='_blank'>Bigverse 初体验</a> |
-| 2022-02-15 | <a href='https://blog.bj-yan.top/p/blog-deep-learning-for-pixel-art/' target='_blank'>Deep Learning for Pixel Art</a> |
 <!-- END_SECTION:blog -->
 </td>
 <td valign="top" width="50%">
@@ -70,11 +70,11 @@
 <!-- START_SECTION:github -->
 | Date | Title |
 | :-: | :---: |
-| 2022-03-01 | opened a pull request in 📦 [QIN2DIM/hcaptcha-challenger](https://github.com/QIN2DIM/hcaptcha-challenger/pull/6) |
-| 2022-03-01 | pushed to main in 📌 [beiyuouo/hcaptcha-challenger](https://github.com/beiyuouo/hcaptcha-challenger/compare/79a34fe39a...1a4bd3778a) |
-| 2022-03-01 | forked beiyuouo/hcaptcha-challenger from 🍴 [QIN2DIM/hcaptcha-challenger](https://github.com/beiyuouo/hcaptcha-challenger) |
-| 2022-03-01 | starred ⭐ [jfzhang95/pytorch-deeplab-xception](https://github.com/jfzhang95/pytorch-deeplab-xception) |
-| 2022-03-01 | starred ⭐ [snap-research/NeROIC](https://github.com/snap-research/NeROIC) |
+| 2022-03-02 | commented on pull request 💬 [cat-milk/Anime-Girls-Holding-Programming-Books#345](https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books/pull/345#issuecomment-1057190248) |
+| 2022-03-02 | pushed to master in 📌 [beiyuouo/Anime-Girls-Holding-Programming-Books](https://github.com/beiyuouo/Anime-Girls-Holding-Programming-Books/compare/7b2866b596...dc4a993cbf) |
+| 2022-03-02 | commented on pull request 💬 [cat-milk/Anime-Girls-Holding-Programming-Books#345](https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books/pull/345#issuecomment-1056694187) |
+| 2022-03-02 | opened a pull request in 📦 [cat-milk/Anime-Girls-Holding-Programming-Books](https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books/pull/345) |
+| 2022-03-02 | pushed to master in 📌 [beiyuouo/Anime-Girls-Holding-Programming-Books](https://github.com/beiyuouo/Anime-Girls-Holding-Programming-Books/compare/af50e6613f...7b2866b596) |
 <!-- END_SECTION:github -->
 
 </td>
