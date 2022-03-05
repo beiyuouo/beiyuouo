@@ -54,11 +54,11 @@
 <!-- START_SECTION:douban -->
 | Date | Title |
 | :-: | :---: |
+| 2022-03-04 | 在看👀 <a href='http://movie.douban.com/subject/35248792/' target='_blank'>少年法庭</a> ⭐⭐⭐⭐ |
 | 2022-02-12 | 想看🤔 <a href='http://movie.douban.com/subject/35377057/' target='_blank'>KIMI</a>  |
 | 2022-01-17 | 看过😎 <a href='http://movie.douban.com/subject/10455629/' target='_blank'>神探夏洛克 第三季</a> ⭐⭐⭐⭐ |
 | 2022-01-17 | 看过😎 <a href='http://movie.douban.com/subject/6522269/' target='_blank'>神探夏洛克  第二季</a> ⭐⭐⭐⭐ |
 | 2022-01-17 | 看过😎 <a href='http://movie.douban.com/subject/3986493/' target='_blank'>神探夏洛克 第一季</a> ⭐⭐⭐⭐ |
-| 2022-01-17 | 在看👀 <a href='http://movie.douban.com/subject/35332289/' target='_blank'>开端</a> ⭐⭐⭐⭐ |
 <!-- END_SECTION:douban -->
 </td>
 </tr>
@@ -70,11 +70,11 @@
 <!-- START_SECTION:github -->
 | Date | Title |
 | :-: | :---: |
+| 2022-03-04 | pushed to main in 📌 [beiyuouo/blog](https://github.com/beiyuouo/blog/compare/6e3c916f50...681344a5b8) |
 | 2022-03-03 | pushed to main in 📌 [beiyuouo/blog](https://github.com/beiyuouo/blog/compare/110ddab5ba...6e3c916f50) |
 | 2022-03-03 | starred ⭐ [QIN2DIM/hcaptcha-challenger](https://github.com/QIN2DIM/hcaptcha-challenger) |
 | 2022-03-03 | pushed to main in 📌 [beiyuouo/hcaptcha-challenger](https://github.com/beiyuouo/hcaptcha-challenger/compare/48af56ab64...435760e7ec) |
 | 2022-03-03 | opened a pull request in 📦 [QIN2DIM/hcaptcha-challenger](https://github.com/QIN2DIM/hcaptcha-challenger/pull/8) |
-| 2022-03-03 | pushed to main in 📌 [beiyuouo/hcaptcha-challenger](https://github.com/beiyuouo/hcaptcha-challenger/compare/4f7d008d28...48af56ab64) |
 <!-- END_SECTION:github -->
 
 </td>
