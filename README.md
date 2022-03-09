@@ -70,11 +70,11 @@
 <!-- START_SECTION:github -->
 | Date | Title |
 | :-: | :---: |
+| 2022-03-08 | starred ⭐ [MrWaterwater/block-chain](https://github.com/MrWaterwater/block-chain) |
+| 2022-03-08 | opened an issue in 📝 [MrWaterwater/block-chain](https://github.com/MrWaterwater/block-chain/issues/1) |
 | 2022-03-07 | merged a pull request in 📦 [beiyuouo/fedhf](https://github.com/beiyuouo/fedhf/pull/12) |
 | 2022-03-07 | pushed to main in 📌 [beiyuouo/fedhf](https://github.com/beiyuouo/fedhf/compare/04e6507fb4...2e3ba03c83) |
 | 2022-03-07 | pushed to dev in 📌 [beiyuouo/fedhf](https://github.com/beiyuouo/fedhf/compare/b48a632e63...9626cb9c19) |
-| 2022-03-07 | pushed to dev in 📌 [beiyuouo/fedhf](https://github.com/beiyuouo/fedhf/compare/3c64f4c676...b48a632e63) |
-| 2022-03-07 | pushed to dev in 📌 [beiyuouo/fedhf](https://github.com/beiyuouo/fedhf/compare/723cc9610b...3c64f4c676) |
 <!-- END_SECTION:github -->
 
 </td>
