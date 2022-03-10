@@ -70,11 +70,11 @@
 <!-- START_SECTION:github -->
 | Date | Title |
 | :-: | :---: |
+| 2022-03-09 | commented on issue 💬 [Lannaie/MoviesSystem#1](https://github.com/Lannaie/MoviesSystem/issues/1#issuecomment-1062923586) |
+| 2022-03-09 | commented on issue 💬 [Lannaie/MoviesSystem#1](https://github.com/Lannaie/MoviesSystem/issues/1#issuecomment-1062917493) |
 | 2022-03-08 | starred ⭐ [MrWaterwater/block-chain](https://github.com/MrWaterwater/block-chain) |
 | 2022-03-08 | opened an issue in 📝 [MrWaterwater/block-chain](https://github.com/MrWaterwater/block-chain/issues/1) |
 | 2022-03-07 | merged a pull request in 📦 [beiyuouo/fedhf](https://github.com/beiyuouo/fedhf/pull/12) |
-| 2022-03-07 | pushed to main in 📌 [beiyuouo/fedhf](https://github.com/beiyuouo/fedhf/compare/04e6507fb4...2e3ba03c83) |
-| 2022-03-07 | pushed to dev in 📌 [beiyuouo/fedhf](https://github.com/beiyuouo/fedhf/compare/b48a632e63...9626cb9c19) |
 <!-- END_SECTION:github -->
 
 </td>
