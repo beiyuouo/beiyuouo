@@ -70,11 +70,11 @@
 <!-- START_SECTION:github -->
 | Date | Title |
 | :-: | :---: |
+| 2022-03-24 | starred ⭐ [RanKKI/LawRefBook](https://github.com/RanKKI/LawRefBook) |
 | 2022-03-21 | pushed to master in 📌 [beiyuouo/cs-self-learning](https://github.com/beiyuouo/cs-self-learning/compare/ccf7918946...0a64c489c5) |
 | 2022-03-21 | commented on pull request 💬 [PKUFlyingPig/cs-self-learning#68](https://github.com/PKUFlyingPig/cs-self-learning/pull/68#issuecomment-1074054967) |
 | 2022-03-21 | commented on pull request 💬 [PKUFlyingPig/cs-self-learning#68](https://github.com/PKUFlyingPig/cs-self-learning/pull/68#issuecomment-1074040685) |
 | 2022-03-21 | commented on pull request 💬 [PKUFlyingPig/cs-self-learning#68](https://github.com/PKUFlyingPig/cs-self-learning/pull/68#issuecomment-1074034921) |
-| 2022-03-21 | commented on issue 💬 [MrWaterwater/block-chain#1](https://github.com/MrWaterwater/block-chain/issues/1#issuecomment-1073936629) |
 <!-- END_SECTION:github -->
 
 </td>
