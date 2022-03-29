@@ -70,11 +70,11 @@
 <!-- START_SECTION:github -->
 | Date | Title |
 | :-: | :---: |
+| 2022-03-28 | opened a pull request in 📦 [QIN2DIM/hcaptcha-challenger](https://github.com/QIN2DIM/hcaptcha-challenger/pull/24) |
+| 2022-03-28 | pushed to main in 📌 [beiyuouo/hcaptcha-challenger](https://github.com/beiyuouo/hcaptcha-challenger/compare/7fc13d9e19...52dfc2e767) |
 | 2022-03-24 | starred ⭐ [RanKKI/LawRefBook](https://github.com/RanKKI/LawRefBook) |
 | 2022-03-21 | pushed to master in 📌 [beiyuouo/cs-self-learning](https://github.com/beiyuouo/cs-self-learning/compare/ccf7918946...0a64c489c5) |
 | 2022-03-21 | commented on pull request 💬 [PKUFlyingPig/cs-self-learning#68](https://github.com/PKUFlyingPig/cs-self-learning/pull/68#issuecomment-1074054967) |
-| 2022-03-21 | commented on pull request 💬 [PKUFlyingPig/cs-self-learning#68](https://github.com/PKUFlyingPig/cs-self-learning/pull/68#issuecomment-1074040685) |
-| 2022-03-21 | commented on pull request 💬 [PKUFlyingPig/cs-self-learning#68](https://github.com/PKUFlyingPig/cs-self-learning/pull/68#issuecomment-1074034921) |
 <!-- END_SECTION:github -->
 
 </td>
