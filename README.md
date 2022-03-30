@@ -41,10 +41,10 @@
 | Date | Title |
 | :-: | :---: |
 | 2021-10-16 | <a href='https://blog.bj-yan.top/p/readme/' target='_blank'>README</a> |
+| 2022-03-29 | <a href='https://blog.bj-yan.top/p/misc-codecraft-2022/' target='_blank'>baseIine 的无奈 - Codecraft 2022 参赛心路</a> |
 | 2022-03-03 | <a href='https://blog.bj-yan.top/p/misc-hcaptcha-sky-left-airplane/' target='_blank'>"Please click each image containing an airplane in the sky flying left"</a> |
 | 2022-03-02 | <a href='https://blog.bj-yan.top/p/misc-hcaptcha-vertical-river/' target='_blank'>"Please click each image containing a vertical river"</a> |
 | 2022-02-19 | <a href='https://blog.bj-yan.top/p/misc-github-actions-cv/' target='_blank'>GitHub Actions 进行简历编译与分发的最佳实践</a> |
-| 2022-02-15 | <a href='https://blog.bj-yan.top/p/misc-nft-common-site/' target='_blank'>NFT 常用网站</a> |
 <!-- END_SECTION:blog -->
 </td>
 <td valign="top" width="50%">
@@ -70,11 +70,11 @@
 <!-- START_SECTION:github -->
 | Date | Title |
 | :-: | :---: |
+| 2022-03-30 | pushed to main in 📌 [beiyuouo/blog](https://github.com/beiyuouo/blog/compare/681344a5b8...5fefa50c0b) |
+| 2022-03-29 | starred ⭐ [lukas-blecher/LaTeX-OCR](https://github.com/lukas-blecher/LaTeX-OCR) |
+| 2022-03-29 | pushed to main in 📌 [beiyuouo/hcaptcha-challenger](https://github.com/beiyuouo/hcaptcha-challenger/compare/90f9040049...6591cfbe0b) |
+| 2022-03-29 | pushed to main in 📌 [beiyuouo/hcaptcha-challenger](https://github.com/beiyuouo/hcaptcha-challenger/compare/52dfc2e767...90f9040049) |
 | 2022-03-28 | opened a pull request in 📦 [QIN2DIM/hcaptcha-challenger](https://github.com/QIN2DIM/hcaptcha-challenger/pull/24) |
-| 2022-03-28 | pushed to main in 📌 [beiyuouo/hcaptcha-challenger](https://github.com/beiyuouo/hcaptcha-challenger/compare/7fc13d9e19...52dfc2e767) |
-| 2022-03-24 | starred ⭐ [RanKKI/LawRefBook](https://github.com/RanKKI/LawRefBook) |
-| 2022-03-21 | pushed to master in 📌 [beiyuouo/cs-self-learning](https://github.com/beiyuouo/cs-self-learning/compare/ccf7918946...0a64c489c5) |
-| 2022-03-21 | commented on pull request 💬 [PKUFlyingPig/cs-self-learning#68](https://github.com/PKUFlyingPig/cs-self-learning/pull/68#issuecomment-1074054967) |
 <!-- END_SECTION:github -->
 
 </td>
