@@ -70,11 +70,11 @@
 <!-- START_SECTION:github -->
 | Date | Title |
 | :-: | :---: |
+| 2022-03-30 | pushed to main in 📌 [beiyuouo/blog](https://github.com/beiyuouo/blog/compare/5fefa50c0b...c2e0ab52db) |
+| 2022-03-30 | starred ⭐ [TakWolf/fusion-pixel-font](https://github.com/TakWolf/fusion-pixel-font) |
+| 2022-03-30 | starred ⭐ [real-web-world/hh-lol-prophet](https://github.com/real-web-world/hh-lol-prophet) |
 | 2022-03-30 | pushed to main in 📌 [beiyuouo/blog](https://github.com/beiyuouo/blog/compare/681344a5b8...5fefa50c0b) |
 | 2022-03-29 | starred ⭐ [lukas-blecher/LaTeX-OCR](https://github.com/lukas-blecher/LaTeX-OCR) |
-| 2022-03-29 | pushed to main in 📌 [beiyuouo/hcaptcha-challenger](https://github.com/beiyuouo/hcaptcha-challenger/compare/90f9040049...6591cfbe0b) |
-| 2022-03-29 | pushed to main in 📌 [beiyuouo/hcaptcha-challenger](https://github.com/beiyuouo/hcaptcha-challenger/compare/52dfc2e767...90f9040049) |
-| 2022-03-28 | opened a pull request in 📦 [QIN2DIM/hcaptcha-challenger](https://github.com/QIN2DIM/hcaptcha-challenger/pull/24) |
 <!-- END_SECTION:github -->
 
 </td>
