@@ -70,11 +70,11 @@
 <!-- START_SECTION:github -->
 | Date | Title |
 | :-: | :---: |
+| 2022-04-01 | starred ⭐ [facebookresearch/phyre](https://github.com/facebookresearch/phyre) |
+| 2022-04-01 | starred ⭐ [pliang279/awesome-phd-advice](https://github.com/pliang279/awesome-phd-advice) |
 | 2022-03-30 | pushed to main in 📌 [beiyuouo/blog](https://github.com/beiyuouo/blog/compare/5fefa50c0b...c2e0ab52db) |
 | 2022-03-30 | starred ⭐ [TakWolf/fusion-pixel-font](https://github.com/TakWolf/fusion-pixel-font) |
 | 2022-03-30 | starred ⭐ [real-web-world/hh-lol-prophet](https://github.com/real-web-world/hh-lol-prophet) |
-| 2022-03-30 | pushed to main in 📌 [beiyuouo/blog](https://github.com/beiyuouo/blog/compare/681344a5b8...5fefa50c0b) |
-| 2022-03-29 | starred ⭐ [lukas-blecher/LaTeX-OCR](https://github.com/lukas-blecher/LaTeX-OCR) |
 <!-- END_SECTION:github -->
 
 </td>
