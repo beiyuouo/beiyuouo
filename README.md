@@ -70,11 +70,11 @@
 <!-- START_SECTION:github -->
 | Date | Title |
 | :-: | :---: |
-| 2022-04-01 | starred ⭐ [facebookresearch/phyre](https://github.com/facebookresearch/phyre) |
-| 2022-04-01 | starred ⭐ [pliang279/awesome-phd-advice](https://github.com/pliang279/awesome-phd-advice) |
-| 2022-03-30 | pushed to main in 📌 [beiyuouo/blog](https://github.com/beiyuouo/blog/compare/5fefa50c0b...c2e0ab52db) |
-| 2022-03-30 | starred ⭐ [TakWolf/fusion-pixel-font](https://github.com/TakWolf/fusion-pixel-font) |
-| 2022-03-30 | starred ⭐ [real-web-world/hh-lol-prophet](https://github.com/real-web-world/hh-lol-prophet) |
+| 2022-04-02 | pushed to main in 📌 [beiyuouo/pytorch-speed-test](https://github.com/beiyuouo/pytorch-speed-test/compare/0867f299ed...7b623c76ed) |
+| 2022-04-02 | pushed to main in 📌 [beiyuouo/pytorch-speed-test](https://github.com/beiyuouo/pytorch-speed-test/compare/ade80ae338...0867f299ed) |
+| 2022-04-02 | created a branch main in 📁 [beiyuouo/pytorch-speed-test](https://github.com/beiyuouo/pytorch-speed-test/compare/main) |
+| 2022-04-02 | created a repository 📁 [beiyuouo/pytorch-speed-test](https://github.com/beiyuouo/pytorch-speed-test//) |
+| 2022-04-02 | pushed to main in 📌 [beiyuouo/blog](https://github.com/beiyuouo/blog/compare/c2e0ab52db...d90a03f512) |
 <!-- END_SECTION:github -->
 
 </td>
