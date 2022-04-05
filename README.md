@@ -70,11 +70,11 @@
 <!-- START_SECTION:github -->
 | Date | Title |
 | :-: | :---: |
+| 2022-04-04 | starred ⭐ [BoomingTech/Pilot](https://github.com/BoomingTech/Pilot) |
+| 2022-04-04 | starred ⭐ [Siilwyn/awesome-pixel-art](https://github.com/Siilwyn/awesome-pixel-art) |
+| 2022-04-04 | starred ⭐ [williamyang1991/DualStyleGAN](https://github.com/williamyang1991/DualStyleGAN) |
 | 2022-04-03 | starred ⭐ [nnUyi/DerainZoo](https://github.com/nnUyi/DerainZoo) |
 | 2022-04-02 | pushed to main in 📌 [beiyuouo/pytorch-speed-test](https://github.com/beiyuouo/pytorch-speed-test/compare/0867f299ed...7b623c76ed) |
-| 2022-04-02 | pushed to main in 📌 [beiyuouo/pytorch-speed-test](https://github.com/beiyuouo/pytorch-speed-test/compare/ade80ae338...0867f299ed) |
-| 2022-04-02 | created a branch main in 📁 [beiyuouo/pytorch-speed-test](https://github.com/beiyuouo/pytorch-speed-test/compare/main) |
-| 2022-04-02 | created a repository 📁 [beiyuouo/pytorch-speed-test](https://github.com/beiyuouo/pytorch-speed-test//) |
 <!-- END_SECTION:github -->
 
 </td>
