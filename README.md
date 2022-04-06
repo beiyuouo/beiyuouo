@@ -70,11 +70,11 @@
 <!-- START_SECTION:github -->
 | Date | Title |
 | :-: | :---: |
+| 2022-04-05 | pushed to main in 📌 [beiyuouo/nav](https://github.com/beiyuouo/nav/compare/a09d0641de...f49592c99a) |
+| 2022-04-05 | pushed to main in 📌 [beiyuouo/blog](https://github.com/beiyuouo/blog/compare/485997ad25...b6669e6c93) |
+| 2022-04-05 | pushed to main in 📌 [beiyuouo/blog](https://github.com/beiyuouo/blog/compare/7e48dde830...485997ad25) |
+| 2022-04-05 | pushed to main in 📌 [beiyuouo/blog](https://github.com/beiyuouo/blog/compare/d90a03f512...7e48dde830) |
 | 2022-04-04 | starred ⭐ [BoomingTech/Pilot](https://github.com/BoomingTech/Pilot) |
-| 2022-04-04 | starred ⭐ [Siilwyn/awesome-pixel-art](https://github.com/Siilwyn/awesome-pixel-art) |
-| 2022-04-04 | starred ⭐ [williamyang1991/DualStyleGAN](https://github.com/williamyang1991/DualStyleGAN) |
-| 2022-04-03 | starred ⭐ [nnUyi/DerainZoo](https://github.com/nnUyi/DerainZoo) |
-| 2022-04-02 | pushed to main in 📌 [beiyuouo/pytorch-speed-test](https://github.com/beiyuouo/pytorch-speed-test/compare/0867f299ed...7b623c76ed) |
 <!-- END_SECTION:github -->
 
 </td>
