@@ -70,11 +70,11 @@
 <!-- START_SECTION:github -->
 | Date | Title |
 | :-: | :---: |
+| 2022-04-06 | made beiyuouo/roadmap 📝 [public](https://github.com/beiyuouo/roadmap) |
+| 2022-04-06 | pushed to main in 📌 [beiyuouo/blog](https://github.com/beiyuouo/blog/compare/f24781a7c6...bc87b1cc8e) |
+| 2022-04-06 | pushed to main in 📌 [beiyuouo/blog](https://github.com/beiyuouo/blog/compare/b6669e6c93...f24781a7c6) |
+| 2022-04-06 | starred ⭐ [Kaiyiwing/qwerty-learner](https://github.com/Kaiyiwing/qwerty-learner) |
 | 2022-04-05 | pushed to main in 📌 [beiyuouo/nav](https://github.com/beiyuouo/nav/compare/a09d0641de...f49592c99a) |
-| 2022-04-05 | pushed to main in 📌 [beiyuouo/blog](https://github.com/beiyuouo/blog/compare/485997ad25...b6669e6c93) |
-| 2022-04-05 | pushed to main in 📌 [beiyuouo/blog](https://github.com/beiyuouo/blog/compare/7e48dde830...485997ad25) |
-| 2022-04-05 | pushed to main in 📌 [beiyuouo/blog](https://github.com/beiyuouo/blog/compare/d90a03f512...7e48dde830) |
-| 2022-04-04 | starred ⭐ [BoomingTech/Pilot](https://github.com/BoomingTech/Pilot) |
 <!-- END_SECTION:github -->
 
 </td>
