@@ -70,11 +70,11 @@
 <!-- START_SECTION:github -->
 | Date | Title |
 | :-: | :---: |
-| 2022-04-06 | made beiyuouo/roadmap 📝 [public](https://github.com/beiyuouo/roadmap) |
-| 2022-04-06 | pushed to main in 📌 [beiyuouo/blog](https://github.com/beiyuouo/blog/compare/f24781a7c6...bc87b1cc8e) |
-| 2022-04-06 | pushed to main in 📌 [beiyuouo/blog](https://github.com/beiyuouo/blog/compare/b6669e6c93...f24781a7c6) |
-| 2022-04-06 | starred ⭐ [Kaiyiwing/qwerty-learner](https://github.com/Kaiyiwing/qwerty-learner) |
-| 2022-04-05 | pushed to main in 📌 [beiyuouo/nav](https://github.com/beiyuouo/nav/compare/a09d0641de...f49592c99a) |
+| 2022-04-07 | pushed to main in 📌 [beiyuouo/roadmap](https://github.com/beiyuouo/roadmap/compare/5831649c39...d905f9f684) |
+| 2022-04-07 | pushed to main in 📌 [beiyuouo/roadmap](https://github.com/beiyuouo/roadmap/compare/4286e3c0f2...5831649c39) |
+| 2022-04-07 | pushed to main in 📌 [beiyuouo/roadmap](https://github.com/beiyuouo/roadmap/compare/de08c17b0e...4286e3c0f2) |
+| 2022-04-07 | pushed to main in 📌 [beiyuouo/roadmap](https://github.com/beiyuouo/roadmap/compare/2f87d89f0f...de08c17b0e) |
+| 2022-04-07 | pushed to main in 📌 [beiyuouo/roadmap](https://github.com/beiyuouo/roadmap/compare/54f7c846e9...2f87d89f0f) |
 <!-- END_SECTION:github -->
 
 </td>
