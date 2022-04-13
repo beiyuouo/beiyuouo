@@ -70,11 +70,11 @@
 <!-- START_SECTION:github -->
 | Date | Title |
 | :-: | :---: |
+| 2022-04-12 | opened an issue in 📝 [MrWaterwater/blockchain-trace](https://github.com/MrWaterwater/blockchain-trace/issues/1) |
+| 2022-04-12 | created a repository 📁 [beiyuouo/remvbg](https://github.com/beiyuouo/remvbg//) |
+| 2022-04-12 | created a branch main in 📁 [beiyuouo/remvbg](https://github.com/beiyuouo/remvbg/compare/main) |
 | 2022-04-11 | pushed to master in 📌 [beiyuouo/beiyuouo.github.io](https://github.com/beiyuouo/beiyuouo.github.io/compare/ff0ca72e66...eed77bd8cb) |
 | 2022-04-11 | pushed to main in 📌 [beiyuouo/cv](https://github.com/beiyuouo/cv/compare/4553ca1822...8d392b90f1) |
-| 2022-04-11 | pushed to master in 📌 [beiyuouo/beiyuouo.github.io](https://github.com/beiyuouo/beiyuouo.github.io/compare/7c17d15540...ff0ca72e66) |
-| 2022-04-11 | pushed to main in 📌 [beiyuouo/cv](https://github.com/beiyuouo/cv/compare/f0afc282b8...4553ca1822) |
-| 2022-04-11 | pushed to main in 📌 [beiyuouo/blog](https://github.com/beiyuouo/blog/compare/e59a2e8552...b8e65e1c87) |
 <!-- END_SECTION:github -->
 
 </td>
