@@ -70,11 +70,11 @@
 <!-- START_SECTION:github -->
 | Date | Title |
 | :-: | :---: |
+| 2022-04-14 | starred ⭐ [innovation-cat/Awesome-Federated-Machine-Learning](https://github.com/innovation-cat/Awesome-Federated-Machine-Learning) |
 | 2022-04-13 | starred ⭐ [The-Run-Philosophy-Organization/run](https://github.com/The-Run-Philosophy-Organization/run) |
 | 2022-04-12 | opened an issue in 📝 [MrWaterwater/blockchain-trace](https://github.com/MrWaterwater/blockchain-trace/issues/1) |
 | 2022-04-12 | created a repository 📁 [beiyuouo/remvbg](https://github.com/beiyuouo/remvbg//) |
 | 2022-04-12 | created a branch main in 📁 [beiyuouo/remvbg](https://github.com/beiyuouo/remvbg/compare/main) |
-| 2022-04-11 | pushed to master in 📌 [beiyuouo/beiyuouo.github.io](https://github.com/beiyuouo/beiyuouo.github.io/compare/ff0ca72e66...eed77bd8cb) |
 <!-- END_SECTION:github -->
 
 </td>
