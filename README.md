@@ -70,11 +70,11 @@
 <!-- START_SECTION:github -->
 | Date | Title |
 | :-: | :---: |
+| 2022-04-15 | starred ⭐ [MLNLP-World/Paper_Writing_Tips](https://github.com/MLNLP-World/Paper_Writing_Tips) |
+| 2022-04-15 | starred ⭐ [weijiang1994/university-bbs](https://github.com/weijiang1994/university-bbs) |
+| 2022-04-15 | forked beiyuouo/epic-awesome-gamer from 🍴 [QIN2DIM/epic-awesome-gamer](https://github.com/beiyuouo/epic-awesome-gamer) |
 | 2022-04-14 | starred ⭐ [innovation-cat/Awesome-Federated-Machine-Learning](https://github.com/innovation-cat/Awesome-Federated-Machine-Learning) |
 | 2022-04-13 | starred ⭐ [The-Run-Philosophy-Organization/run](https://github.com/The-Run-Philosophy-Organization/run) |
-| 2022-04-12 | opened an issue in 📝 [MrWaterwater/blockchain-trace](https://github.com/MrWaterwater/blockchain-trace/issues/1) |
-| 2022-04-12 | created a repository 📁 [beiyuouo/remvbg](https://github.com/beiyuouo/remvbg//) |
-| 2022-04-12 | created a branch main in 📁 [beiyuouo/remvbg](https://github.com/beiyuouo/remvbg/compare/main) |
 <!-- END_SECTION:github -->
 
 </td>
