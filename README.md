@@ -70,11 +70,11 @@
 <!-- START_SECTION:github -->
 | Date | Title |
 | :-: | :---: |
+| 2022-04-17 | starred ⭐ [lucidrains/DALLE2-pytorch](https://github.com/lucidrains/DALLE2-pytorch) |
 | 2022-04-16 | forked beiyuouo/FedML from 🍴 [FedML-AI/FedML](https://github.com/beiyuouo/FedML) |
 | 2022-04-15 | starred ⭐ [MLNLP-World/Paper_Writing_Tips](https://github.com/MLNLP-World/Paper_Writing_Tips) |
 | 2022-04-15 | starred ⭐ [weijiang1994/university-bbs](https://github.com/weijiang1994/university-bbs) |
 | 2022-04-15 | forked beiyuouo/epic-awesome-gamer from 🍴 [QIN2DIM/epic-awesome-gamer](https://github.com/beiyuouo/epic-awesome-gamer) |
-| 2022-04-14 | starred ⭐ [innovation-cat/Awesome-Federated-Machine-Learning](https://github.com/innovation-cat/Awesome-Federated-Machine-Learning) |
 <!-- END_SECTION:github -->
 
 </td>
