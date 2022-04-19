@@ -70,11 +70,11 @@
 <!-- START_SECTION:github -->
 | Date | Title |
 | :-: | :---: |
-| 2022-04-17 | starred ⭐ [lucidrains/DALLE2-pytorch](https://github.com/lucidrains/DALLE2-pytorch) |
-| 2022-04-16 | forked beiyuouo/FedML from 🍴 [FedML-AI/FedML](https://github.com/beiyuouo/FedML) |
-| 2022-04-15 | starred ⭐ [MLNLP-World/Paper_Writing_Tips](https://github.com/MLNLP-World/Paper_Writing_Tips) |
-| 2022-04-15 | starred ⭐ [weijiang1994/university-bbs](https://github.com/weijiang1994/university-bbs) |
-| 2022-04-15 | forked beiyuouo/epic-awesome-gamer from 🍴 [QIN2DIM/epic-awesome-gamer](https://github.com/beiyuouo/epic-awesome-gamer) |
+| 2022-04-18 | made beiyuouo/voxel-pac-man 📝 [public](https://github.com/beiyuouo/voxel-pac-man) |
+| 2022-04-18 | starred ⭐ [taichi-dev/voxel-challenge](https://github.com/taichi-dev/voxel-challenge) |
+| 2022-04-18 | commented on issue 💬 [taichi-dev/voxel-challenge#1](https://github.com/taichi-dev/voxel-challenge/issues/1#issuecomment-1101559676) |
+| 2022-04-18 | pushed to main in 📌 [beiyuouo/roadmap](https://github.com/beiyuouo/roadmap/compare/e5e1e68670...bef15d5b37) |
+| 2022-04-18 | pushed to main in 📌 [beiyuouo/roadmap](https://github.com/beiyuouo/roadmap/compare/a81943fbc5...e5e1e68670) |
 <!-- END_SECTION:github -->
 
 </td>
