@@ -70,11 +70,11 @@
 <!-- START_SECTION:github -->
 | Date | Title |
 | :-: | :---: |
-| 2022-04-19 | starred ⭐ [enkerewpo/OI-Public-Library](https://github.com/enkerewpo/OI-Public-Library) |
-| 2022-04-19 | pushed to main in 📌 [beiyuouo/roadmap](https://github.com/beiyuouo/roadmap/compare/bef15d5b37...fd39dec623) |
-| 2022-04-19 | pushed to main in 📌 [beiyuouo/hcaptcha-challenger](https://github.com/beiyuouo/hcaptcha-challenger/compare/0d067d3436...f48ec5f7af) |
-| 2022-04-19 | pushed to main in 📌 [beiyuouo/how-to-live-longer](https://github.com/beiyuouo/how-to-live-longer/compare/0c69e5a508...f97e555af6) |
-| 2022-04-18 | made beiyuouo/voxel-pac-man 📝 [public](https://github.com/beiyuouo/voxel-pac-man) |
+| 2022-04-22 | pushed to main in 📌 [beiyuouo/blog](https://github.com/beiyuouo/blog/compare/b4ef3ad331...287365ddba) |
+| 2022-04-22 | pushed to main in 📌 [beiyuouo/roadmap](https://github.com/beiyuouo/roadmap/compare/0907e4ce71...e8e41b3172) |
+| 2022-04-22 | opened a pull request in 📦 [reuixiy/hugo-deploy](https://github.com/reuixiy/hugo-deploy/pull/9) |
+| 2022-04-22 | pushed to main in 📌 [beiyuouo/blog](https://github.com/beiyuouo/blog/compare/b8e65e1c87...b4ef3ad331) |
+| 2022-04-22 | pushed to master in 📌 [beiyuouo/hugo-deploy](https://github.com/beiyuouo/hugo-deploy/compare/1b842be11e...024998eb21) |
 <!-- END_SECTION:github -->
 
 </td>
