@@ -70,11 +70,11 @@
 <!-- START_SECTION:github -->
 | Date | Title |
 | :-: | :---: |
+| 2022-04-23 | starred ⭐ [CodinGame/SpringChallenge2022](https://github.com/CodinGame/SpringChallenge2022) |
+| 2022-04-23 | pushed to main in 📌 [beiyuouo/leetcode-python](https://github.com/beiyuouo/leetcode-python/compare/e6e6fe370e...e66aab055d) |
 | 2022-04-22 | pushed to main in 📌 [beiyuouo/blog](https://github.com/beiyuouo/blog/compare/b4ef3ad331...287365ddba) |
 | 2022-04-22 | pushed to main in 📌 [beiyuouo/roadmap](https://github.com/beiyuouo/roadmap/compare/0907e4ce71...e8e41b3172) |
 | 2022-04-22 | opened a pull request in 📦 [reuixiy/hugo-deploy](https://github.com/reuixiy/hugo-deploy/pull/9) |
-| 2022-04-22 | pushed to main in 📌 [beiyuouo/blog](https://github.com/beiyuouo/blog/compare/b8e65e1c87...b4ef3ad331) |
-| 2022-04-22 | pushed to master in 📌 [beiyuouo/hugo-deploy](https://github.com/beiyuouo/hugo-deploy/compare/1b842be11e...024998eb21) |
 <!-- END_SECTION:github -->
 
 </td>
