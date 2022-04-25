@@ -54,11 +54,11 @@
 <!-- START_SECTION:douban -->
 | Date | Title |
 | :-: | :---: |
+| 2022-04-24 | 在看👀 <a href='http://movie.douban.com/subject/35344026/' target='_blank'>亲爱的小孩</a> ⭐⭐⭐ |
 | 2022-03-20 | 想看🤔 <a href='http://movie.douban.com/subject/35774719/' target='_blank'>星期四</a>  |
 | 2022-03-20 | 想看🤔 <a href='http://movie.douban.com/subject/35307437/' target='_blank'>猎罪图鉴</a>  |
 | 2022-03-04 | 在看👀 <a href='http://movie.douban.com/subject/35248792/' target='_blank'>少年法庭</a> ⭐⭐⭐⭐ |
 | 2022-02-12 | 想看🤔 <a href='http://movie.douban.com/subject/35377057/' target='_blank'>KIMI</a>  |
-| 2022-01-17 | 看过😎 <a href='http://movie.douban.com/subject/10455629/' target='_blank'>神探夏洛克 第三季</a> ⭐⭐⭐⭐ |
 <!-- END_SECTION:douban -->
 </td>
 </tr>
@@ -70,11 +70,11 @@
 <!-- START_SECTION:github -->
 | Date | Title |
 | :-: | :---: |
+| 2022-04-24 | starred ⭐ [stylegan-human/StyleGAN-Human](https://github.com/stylegan-human/StyleGAN-Human) |
 | 2022-04-23 | starred ⭐ [CodinGame/SpringChallenge2022](https://github.com/CodinGame/SpringChallenge2022) |
 | 2022-04-23 | pushed to main in 📌 [beiyuouo/leetcode-python](https://github.com/beiyuouo/leetcode-python/compare/e6e6fe370e...e66aab055d) |
 | 2022-04-22 | pushed to main in 📌 [beiyuouo/blog](https://github.com/beiyuouo/blog/compare/b4ef3ad331...287365ddba) |
 | 2022-04-22 | pushed to main in 📌 [beiyuouo/roadmap](https://github.com/beiyuouo/roadmap/compare/0907e4ce71...e8e41b3172) |
-| 2022-04-22 | opened a pull request in 📦 [reuixiy/hugo-deploy](https://github.com/reuixiy/hugo-deploy/pull/9) |
 <!-- END_SECTION:github -->
 
 </td>
