@@ -41,10 +41,10 @@
 | Date | Title |
 | :-: | :---: |
 | 2021-10-16 | <a href='https://blog.bj-yan.top/p/readme/' target='_blank'>README</a> |
-| 2022-03-29 | <a href='https://blog.bj-yan.top/p/misc-codecraft-2022/' target='_blank'>baseIine 的无奈 - Codecraft 2022 参赛心路</a> |
-| 2022-03-03 | <a href='https://blog.bj-yan.top/p/misc-hcaptcha-sky-left-airplane/' target='_blank'>"Please click each image containing an airplane in the sky flying left"</a> |
-| 2022-03-02 | <a href='https://blog.bj-yan.top/p/misc-hcaptcha-vertical-river/' target='_blank'>"Please click each image containing a vertical river"</a> |
-| 2022-02-19 | <a href='https://blog.bj-yan.top/p/misc-github-actions-cv/' target='_blank'>GitHub Actions 进行简历编译与分发的最佳实践</a> |
+| 2022-03-29 | <a href='https://blog.bj-yan.top/p/blog-codecraft-2022/' target='_blank'>baseIine 的无奈 - Codecraft 2022 参赛心路</a> |
+| 2022-03-03 | <a href='https://blog.bj-yan.top/p/blog-hcaptcha-sky-left-airplane/' target='_blank'>"Please click each image containing an airplane in the sky flying left"</a> |
+| 2022-03-02 | <a href='https://blog.bj-yan.top/p/blog-hcaptcha-vertical-river/' target='_blank'>"Please click each image containing a vertical river"</a> |
+| 2022-02-19 | <a href='https://blog.bj-yan.top/p/blog-github-actions-cv/' target='_blank'>GitHub Actions 进行简历编译与分发的最佳实践</a> |
 <!-- END_SECTION:blog -->
 </td>
 <td valign="top" width="50%">
@@ -55,7 +55,7 @@
 | Date | Title |
 | :-: | :---: |
 | 2022-04-24 | 在看👀 <a href='http://movie.douban.com/subject/35344026/' target='_blank'>亲爱的小孩</a> ⭐⭐⭐ |
-| 2022-03-20 | 想看🤔 <a href='http://movie.douban.com/subject/35774719/' target='_blank'>星期四</a>  |
+| 2022-03-20 | 想看🤔 <a href='http://movie.douban.com/subject/35774719/' target='_blank'>一个星期四</a>  |
 | 2022-03-20 | 想看🤔 <a href='http://movie.douban.com/subject/35307437/' target='_blank'>猎罪图鉴</a>  |
 | 2022-03-04 | 在看👀 <a href='http://movie.douban.com/subject/35248792/' target='_blank'>少年法庭</a> ⭐⭐⭐⭐ |
 | 2022-02-12 | 想看🤔 <a href='http://movie.douban.com/subject/35377057/' target='_blank'>KIMI</a>  |
@@ -70,11 +70,11 @@
 <!-- START_SECTION:github -->
 | Date | Title |
 | :-: | :---: |
-| 2022-04-25 | pushed to main in 📌 [beiyuouo/roadmap](https://github.com/beiyuouo/roadmap/compare/da56ff9d4c...c7a44997a1) |
-| 2022-04-25 | pushed to main in 📌 [beiyuouo/roadmap](https://github.com/beiyuouo/roadmap/compare/e8e41b3172...da56ff9d4c) |
-| 2022-04-25 | created a branch main in 📁 [beiyuouo/codebase](https://github.com/beiyuouo/codebase/compare/main) |
-| 2022-04-25 | created a repository 📁 [beiyuouo/codebase](https://github.com/beiyuouo/codebase//) |
-| 2022-04-24 | starred ⭐ [stylegan-human/StyleGAN-Human](https://github.com/stylegan-human/StyleGAN-Human) |
+| 2022-04-28 | opened a pull request in 📦 [MLNLP-World/AI-Paper-Collector](https://github.com/MLNLP-World/AI-Paper-Collector/pull/24) |
+| 2022-04-28 | pushed to main in 📌 [beiyuouo/AI-Paper-Collector](https://github.com/beiyuouo/AI-Paper-Collector/compare/bd5f8a3984...64ae250529) |
+| 2022-04-27 | pushed to main in 📌 [beiyuouo/roadmap](https://github.com/beiyuouo/roadmap/compare/663febfe1b...7fa45219c8) |
+| 2022-04-27 | opened a pull request in 📦 [MLNLP-World/AI-Paper-Collector](https://github.com/MLNLP-World/AI-Paper-Collector/pull/22) |
+| 2022-04-27 | pushed to main in 📌 [beiyuouo/AI-Paper-Collector](https://github.com/beiyuouo/AI-Paper-Collector/compare/819838d3ef...bd5f8a3984) |
 <!-- END_SECTION:github -->
 
 </td>
