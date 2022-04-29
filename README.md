@@ -70,11 +70,11 @@
 <!-- START_SECTION:github -->
 | Date | Title |
 | :-: | :---: |
-| 2022-04-28 | opened a pull request in 📦 [MLNLP-World/AI-Paper-Collector](https://github.com/MLNLP-World/AI-Paper-Collector/pull/24) |
-| 2022-04-28 | pushed to main in 📌 [beiyuouo/AI-Paper-Collector](https://github.com/beiyuouo/AI-Paper-Collector/compare/bd5f8a3984...64ae250529) |
-| 2022-04-27 | pushed to main in 📌 [beiyuouo/roadmap](https://github.com/beiyuouo/roadmap/compare/663febfe1b...7fa45219c8) |
-| 2022-04-27 | opened a pull request in 📦 [MLNLP-World/AI-Paper-Collector](https://github.com/MLNLP-World/AI-Paper-Collector/pull/22) |
-| 2022-04-27 | pushed to main in 📌 [beiyuouo/AI-Paper-Collector](https://github.com/beiyuouo/AI-Paper-Collector/compare/819838d3ef...bd5f8a3984) |
+| 2022-04-28 | pushed to front-end-dev in 📌 [beiyuouo/AI-Paper-Collector](https://github.com/beiyuouo/AI-Paper-Collector/compare/1fc346ac18...03daffc823) |
+| 2022-04-28 | pushed to front-end-dev in 📌 [beiyuouo/AI-Paper-Collector](https://github.com/beiyuouo/AI-Paper-Collector/compare/9a27e0612e...1fc346ac18) |
+| 2022-04-28 | opened a pull request in 📦 [beiyuouo/AI-Paper-Collector](https://github.com/beiyuouo/AI-Paper-Collector/pull/4) |
+| 2022-04-28 | closed a pull request in 📦 [beiyuouo/AI-Paper-Collector](https://github.com/beiyuouo/AI-Paper-Collector/pull/3) |
+| 2022-04-28 | pushed to front-end-dev in 📌 [beiyuouo/AI-Paper-Collector](https://github.com/beiyuouo/AI-Paper-Collector/compare/637d382d8e...9a27e0612e) |
 <!-- END_SECTION:github -->
 
 </td>
