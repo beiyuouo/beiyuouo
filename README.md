@@ -70,11 +70,11 @@
 <!-- START_SECTION:github -->
 | Date | Title |
 | :-: | :---: |
-| 2022-04-28 | pushed to front-end-dev in 📌 [beiyuouo/AI-Paper-Collector](https://github.com/beiyuouo/AI-Paper-Collector/compare/1fc346ac18...03daffc823) |
-| 2022-04-28 | pushed to front-end-dev in 📌 [beiyuouo/AI-Paper-Collector](https://github.com/beiyuouo/AI-Paper-Collector/compare/9a27e0612e...1fc346ac18) |
-| 2022-04-28 | opened a pull request in 📦 [beiyuouo/AI-Paper-Collector](https://github.com/beiyuouo/AI-Paper-Collector/pull/4) |
-| 2022-04-28 | closed a pull request in 📦 [beiyuouo/AI-Paper-Collector](https://github.com/beiyuouo/AI-Paper-Collector/pull/3) |
-| 2022-04-28 | pushed to front-end-dev in 📌 [beiyuouo/AI-Paper-Collector](https://github.com/beiyuouo/AI-Paper-Collector/compare/637d382d8e...9a27e0612e) |
+| 2022-04-29 | opened an issue in 📝 [taichi-dev/taichi](https://github.com/taichi-dev/taichi/issues/4891) |
+| 2022-04-29 | commented on issue 💬 [taichi-dev/voxel-challenge#11](https://github.com/taichi-dev/voxel-challenge/issues/11#issuecomment-1113417050) |
+| 2022-04-29 | pushed to main in 📌 [beiyuouo/voxel-challenge](https://github.com/beiyuouo/voxel-challenge/compare/d214c29f06...d41963a29f) |
+| 2022-04-29 | pushed to main in 📌 [beiyuouo/voxel-challenge](https://github.com/beiyuouo/voxel-challenge/compare/f99dbbe341...d214c29f06) |
+| 2022-04-29 | created a branch main in 📁 [beiyuouo/voxel-challenge](https://github.com/beiyuouo/voxel-challenge/compare/main) |
 <!-- END_SECTION:github -->
 
 </td>
