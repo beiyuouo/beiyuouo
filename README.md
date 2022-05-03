@@ -41,7 +41,7 @@
 | Date | Title |
 | :-: | :---: |
 | 2021-10-16 | <a href='https://blog.bj-yan.top/p/readme/' target='_blank'>README</a> |
-| 2022-05-01 | <a href='https://blog.bj-yan.top/p/blog-hcaptcha-seaplane/' target='_blank'>Please click each image containing a seaplane</a> |
+| 2022-05-01 | <a href='https://blog.bj-yan.top/p/blog-hcaptcha-seaplane/' target='_blank'>"Please click each image containing a seaplane"</a> |
 | 2022-05-01 | <a href='https://blog.bj-yan.top/p/blog-taichi-voxel-challenge-2022/' target='_blank'>Taichi Voxel Challenge 2022</a> |
 | 2022-05-01 | <a href='https://blog.bj-yan.top/p/blog-where-is-the-next-generation-of-captcha/' target='_blank'>Where is the Next Generation of CAPTCHA?</a> |
 | 2022-05-01 | <a href='https://blog.bj-yan.top/p/blog-hcaptcha-elephant-drawn-with-leaves/' target='_blank'>"Please select all the elephants drawn with lеaves"</a> |
@@ -70,11 +70,11 @@
 <!-- START_SECTION:github -->
 | Date | Title |
 | :-: | :---: |
-| 2022-05-01 | pushed to master in 📌 [beiyuouo/FedML](https://github.com/beiyuouo/FedML/compare/3b3059b18b...0918d25fd8) |
-| 2022-05-01 | pushed to main in 📌 [beiyuouo/blog](https://github.com/beiyuouo/blog/compare/d9298d79ff...6c5a3f4299) |
-| 2022-05-01 | pushed to main in 📌 [beiyuouo/blog](https://github.com/beiyuouo/blog/compare/7b47bd5eb9...d9298d79ff) |
-| 2022-05-01 | pushed to main in 📌 [beiyuouo/blog](https://github.com/beiyuouo/blog/compare/bd18d6de6c...7b47bd5eb9) |
-| 2022-05-01 | pushed to main in 📌 [beiyuouo/hcaptcha-model-factory](https://github.com/beiyuouo/hcaptcha-model-factory/compare/f5c1cecd28...7b7729ece7) |
+| 2022-05-02 | pushed to dev in 📌 [beiyuouo/fedhf](https://github.com/beiyuouo/fedhf/compare/4e8ce55b62...e36244a8a3) |
+| 2022-05-02 | pushed to main in 📌 [beiyuouo/roadmap](https://github.com/beiyuouo/roadmap/compare/6f5b6f63ac...8668cbf65b) |
+| 2022-05-02 | pushed to main in 📌 [beiyuouo/roadmap](https://github.com/beiyuouo/roadmap/compare/7fa45219c8...6f5b6f63ac) |
+| 2022-05-02 | pushed to main in 📌 [beiyuouo/hcaptcha-challenger](https://github.com/beiyuouo/hcaptcha-challenger/compare/f77f3380dd...5cc68773af) |
+| 2022-05-02 | pushed to dev in 📌 [beiyuouo/fedhf](https://github.com/beiyuouo/fedhf/compare/a650370bb7...4e8ce55b62) |
 <!-- END_SECTION:github -->
 
 </td>
