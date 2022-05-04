@@ -70,11 +70,11 @@
 <!-- START_SECTION:github -->
 | Date | Title |
 | :-: | :---: |
-| 2022-05-02 | pushed to dev in 📌 [beiyuouo/fedhf](https://github.com/beiyuouo/fedhf/compare/4e8ce55b62...e36244a8a3) |
-| 2022-05-02 | pushed to main in 📌 [beiyuouo/roadmap](https://github.com/beiyuouo/roadmap/compare/6f5b6f63ac...8668cbf65b) |
-| 2022-05-02 | pushed to main in 📌 [beiyuouo/roadmap](https://github.com/beiyuouo/roadmap/compare/7fa45219c8...6f5b6f63ac) |
-| 2022-05-02 | pushed to main in 📌 [beiyuouo/hcaptcha-challenger](https://github.com/beiyuouo/hcaptcha-challenger/compare/f77f3380dd...5cc68773af) |
-| 2022-05-02 | pushed to dev in 📌 [beiyuouo/fedhf](https://github.com/beiyuouo/fedhf/compare/a650370bb7...4e8ce55b62) |
+| 2022-05-03 | pushed to main in 📌 [beiyuouo/AI-Paper-Collector](https://github.com/beiyuouo/AI-Paper-Collector/compare/b4fa22c902...bfcebf72ba) |
+| 2022-05-03 | pushed to main in 📌 [beiyuouo/AI-Paper-Collector](https://github.com/beiyuouo/AI-Paper-Collector/compare/59a1294bda...b4fa22c902) |
+| 2022-05-03 | starred ⭐ [ZhiyuanChen/danling](https://github.com/ZhiyuanChen/danling) |
+| 2022-05-03 | pushed to main in 📌 [beiyuouo/AI-Paper-Collector](https://github.com/beiyuouo/AI-Paper-Collector/compare/58929e255c...59a1294bda) |
+| 2022-05-03 | pushed to main in 📌 [beiyuouo/AI-Paper-Collector](https://github.com/beiyuouo/AI-Paper-Collector/compare/21852887a8...58929e255c) |
 <!-- END_SECTION:github -->
 
 </td>
