@@ -70,11 +70,11 @@
 <!-- START_SECTION:github -->
 | Date | Title |
 | :-: | :---: |
-| 2022-05-03 | pushed to main in 📌 [beiyuouo/AI-Paper-Collector](https://github.com/beiyuouo/AI-Paper-Collector/compare/b4fa22c902...bfcebf72ba) |
-| 2022-05-03 | pushed to main in 📌 [beiyuouo/AI-Paper-Collector](https://github.com/beiyuouo/AI-Paper-Collector/compare/59a1294bda...b4fa22c902) |
-| 2022-05-03 | starred ⭐ [ZhiyuanChen/danling](https://github.com/ZhiyuanChen/danling) |
-| 2022-05-03 | pushed to main in 📌 [beiyuouo/AI-Paper-Collector](https://github.com/beiyuouo/AI-Paper-Collector/compare/58929e255c...59a1294bda) |
-| 2022-05-03 | pushed to main in 📌 [beiyuouo/AI-Paper-Collector](https://github.com/beiyuouo/AI-Paper-Collector/compare/21852887a8...58929e255c) |
+| 2022-05-04 | pushed to main in 📌 [beiyuouo/fedcomp](https://github.com/beiyuouo/fedcomp/compare/78922f92f5...c7dc9c0f3f) |
+| 2022-05-04 | made beiyuouo/fedcomp 📝 [public](https://github.com/beiyuouo/fedcomp) |
+| 2022-05-04 | pushed to main in 📌 [beiyuouo/fedcomp](https://github.com/beiyuouo/fedcomp/compare/801808c982...78922f92f5) |
+| 2022-05-04 | starred ⭐ [codewithsadee/vcard-personal-portfolio](https://github.com/codewithsadee/vcard-personal-portfolio) |
+| 2022-05-04 | pushed to main in 📌 [beiyuouo/blog](https://github.com/beiyuouo/blog/compare/845080b6d1...a4665a66e1) |
 <!-- END_SECTION:github -->
 
 </td>
