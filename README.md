@@ -70,11 +70,11 @@
 <!-- START_SECTION:github -->
 | Date | Title |
 | :-: | :---: |
+| 2022-05-06 | pushed to main in 📌 [beiyuouo/blog](https://github.com/beiyuouo/blog/compare/a4665a66e1...794b4b2709) |
+| 2022-05-06 | pushed to main in 📌 [beiyuouo/voxel-challenge](https://github.com/beiyuouo/voxel-challenge/compare/d2a2b4f1a8...d4e381caf9) |
+| 2022-05-06 | pushed to main in 📌 [beiyuouo/roadmap](https://github.com/beiyuouo/roadmap/compare/a4e439673b...1c040bb48d) |
 | 2022-05-05 | pushed to main in 📌 [beiyuouo/roadmap](https://github.com/beiyuouo/roadmap/compare/8668cbf65b...a4e439673b) |
 | 2022-05-05 | starred ⭐ [BlinkDL/YYDZ](https://github.com/BlinkDL/YYDZ) |
-| 2022-05-05 | forked beiyuouo/FedML from 🍴 [FedML-AI/FedML](https://github.com/beiyuouo/FedML) |
-| 2022-05-04 | pushed to main in 📌 [beiyuouo/fedcomp](https://github.com/beiyuouo/fedcomp/compare/78922f92f5...c7dc9c0f3f) |
-| 2022-05-04 | made beiyuouo/fedcomp 📝 [public](https://github.com/beiyuouo/fedcomp) |
 <!-- END_SECTION:github -->
 
 </td>
