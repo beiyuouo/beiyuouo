@@ -54,11 +54,11 @@
 <!-- START_SECTION:douban -->
 | Date | Title |
 | :-: | :---: |
+| 2022-05-07 | 看过😎 <a href='http://movie.douban.com/subject/35524447/' target='_blank'>怪异</a> ⭐⭐⭐ |
 | 2022-04-24 | 在看👀 <a href='http://movie.douban.com/subject/35344026/' target='_blank'>亲爱的小孩</a> ⭐⭐⭐ |
 | 2022-03-20 | 想看🤔 <a href='http://movie.douban.com/subject/35774719/' target='_blank'>一个星期四</a>  |
 | 2022-03-20 | 想看🤔 <a href='http://movie.douban.com/subject/35307437/' target='_blank'>猎罪图鉴</a>  |
 | 2022-03-04 | 在看👀 <a href='http://movie.douban.com/subject/35248792/' target='_blank'>少年法庭</a> ⭐⭐⭐⭐ |
-| 2022-02-12 | 想看🤔 <a href='http://movie.douban.com/subject/35377057/' target='_blank'>KIMI</a>  |
 <!-- END_SECTION:douban -->
 </td>
 </tr>
@@ -70,11 +70,11 @@
 <!-- START_SECTION:github -->
 | Date | Title |
 | :-: | :---: |
+| 2022-05-07 | pushed to master in 📌 [beiyuouo/beiyuouo.github.io](https://github.com/beiyuouo/beiyuouo.github.io/compare/eed77bd8cb...75f669fd94) |
 | 2022-05-06 | pushed to main in 📌 [beiyuouo/blog](https://github.com/beiyuouo/blog/compare/a4665a66e1...794b4b2709) |
 | 2022-05-06 | pushed to main in 📌 [beiyuouo/voxel-challenge](https://github.com/beiyuouo/voxel-challenge/compare/d2a2b4f1a8...d4e381caf9) |
 | 2022-05-06 | pushed to main in 📌 [beiyuouo/roadmap](https://github.com/beiyuouo/roadmap/compare/a4e439673b...1c040bb48d) |
 | 2022-05-05 | pushed to main in 📌 [beiyuouo/roadmap](https://github.com/beiyuouo/roadmap/compare/8668cbf65b...a4e439673b) |
-| 2022-05-05 | starred ⭐ [BlinkDL/YYDZ](https://github.com/BlinkDL/YYDZ) |
 <!-- END_SECTION:github -->
 
 </td>
