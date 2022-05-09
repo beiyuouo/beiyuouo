@@ -70,11 +70,11 @@
 <!-- START_SECTION:github -->
 | Date | Title |
 | :-: | :---: |
+| 2022-05-08 | starred ⭐ [PySimpleGUI/PySimpleGUI](https://github.com/PySimpleGUI/PySimpleGUI) |
+| 2022-05-08 | starred ⭐ [AmberLJC/FLsystem-paper](https://github.com/AmberLJC/FLsystem-paper) |
+| 2022-05-08 | pushed to master in 📌 [beiyuouo/beiyuouo.github.io](https://github.com/beiyuouo/beiyuouo.github.io/compare/75f669fd94...7ab971c50f) |
+| 2022-05-08 | pushed to master in 📌 [beiyuouo/FedML](https://github.com/beiyuouo/FedML/compare/fe6ad661b9...41a9fc6096) |
 | 2022-05-07 | pushed to master in 📌 [beiyuouo/beiyuouo.github.io](https://github.com/beiyuouo/beiyuouo.github.io/compare/eed77bd8cb...75f669fd94) |
-| 2022-05-06 | pushed to main in 📌 [beiyuouo/blog](https://github.com/beiyuouo/blog/compare/a4665a66e1...794b4b2709) |
-| 2022-05-06 | pushed to main in 📌 [beiyuouo/voxel-challenge](https://github.com/beiyuouo/voxel-challenge/compare/d2a2b4f1a8...d4e381caf9) |
-| 2022-05-06 | pushed to main in 📌 [beiyuouo/roadmap](https://github.com/beiyuouo/roadmap/compare/a4e439673b...1c040bb48d) |
-| 2022-05-05 | pushed to main in 📌 [beiyuouo/roadmap](https://github.com/beiyuouo/roadmap/compare/8668cbf65b...a4e439673b) |
 <!-- END_SECTION:github -->
 
 </td>
