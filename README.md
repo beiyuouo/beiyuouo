@@ -70,11 +70,11 @@
 <!-- START_SECTION:github -->
 | Date | Title |
 | :-: | :---: |
-| 2022-05-08 | starred ⭐ [PySimpleGUI/PySimpleGUI](https://github.com/PySimpleGUI/PySimpleGUI) |
-| 2022-05-08 | starred ⭐ [AmberLJC/FLsystem-paper](https://github.com/AmberLJC/FLsystem-paper) |
-| 2022-05-08 | pushed to master in 📌 [beiyuouo/beiyuouo.github.io](https://github.com/beiyuouo/beiyuouo.github.io/compare/75f669fd94...7ab971c50f) |
-| 2022-05-08 | pushed to master in 📌 [beiyuouo/FedML](https://github.com/beiyuouo/FedML/compare/fe6ad661b9...41a9fc6096) |
-| 2022-05-07 | pushed to master in 📌 [beiyuouo/beiyuouo.github.io](https://github.com/beiyuouo/beiyuouo.github.io/compare/eed77bd8cb...75f669fd94) |
+| 2022-05-10 | pushed to master in 📌 [beiyuouo/FedML](https://github.com/beiyuouo/FedML/compare/0f774ad8bc...392815ec82) |
+| 2022-05-10 | starred ⭐ [kkoomen/pointless](https://github.com/kkoomen/pointless) |
+| 2022-05-09 | pushed to main in 📌 [beiyuouo/roadmap](https://github.com/beiyuouo/roadmap/compare/1c040bb48d...dedab5e429) |
+| 2022-05-09 | pushed to master in 📌 [beiyuouo/FedML](https://github.com/beiyuouo/FedML/compare/41a9fc6096...0f774ad8bc) |
+| 2022-05-09 | pushed to main in 📌 [MLNLP-World/AI-Paper-Collector](https://github.com/MLNLP-World/AI-Paper-Collector/compare/b76b9f63d1...aa5262219d) |
 <!-- END_SECTION:github -->
 
 </td>
