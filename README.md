@@ -70,11 +70,11 @@
 <!-- START_SECTION:github -->
 | Date | Title |
 | :-: | :---: |
-| 2022-05-10 | pushed to master in 📌 [beiyuouo/FedML](https://github.com/beiyuouo/FedML/compare/0f774ad8bc...392815ec82) |
-| 2022-05-10 | starred ⭐ [kkoomen/pointless](https://github.com/kkoomen/pointless) |
-| 2022-05-09 | pushed to main in 📌 [beiyuouo/roadmap](https://github.com/beiyuouo/roadmap/compare/1c040bb48d...dedab5e429) |
-| 2022-05-09 | pushed to master in 📌 [beiyuouo/FedML](https://github.com/beiyuouo/FedML/compare/41a9fc6096...0f774ad8bc) |
-| 2022-05-09 | pushed to main in 📌 [MLNLP-World/AI-Paper-Collector](https://github.com/MLNLP-World/AI-Paper-Collector/compare/b76b9f63d1...aa5262219d) |
+| 2022-05-10 | starred ⭐ [HIT-UG-Group/DeepLearning-MuLi-Notes](https://github.com/HIT-UG-Group/DeepLearning-MuLi-Notes) |
+| 2022-05-10 | opened a pull request in 📦 [FedML-AI/FedML](https://github.com/FedML-AI/FedML/pull/220) |
+| 2022-05-10 | pushed to master in 📌 [beiyuouo/FedML](https://github.com/beiyuouo/FedML/compare/d81a12c373...6f2ffd3900) |
+| 2022-05-10 | pushed to master in 📌 [beiyuouo/FedML](https://github.com/beiyuouo/FedML/compare/b4c2e68421...d81a12c373) |
+| 2022-05-10 | pushed to master in 📌 [beiyuouo/FedML](https://github.com/beiyuouo/FedML/compare/392815ec82...b4c2e68421) |
 <!-- END_SECTION:github -->
 
 </td>
