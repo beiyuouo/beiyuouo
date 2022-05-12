@@ -41,10 +41,10 @@
 | Date | Title |
 | :-: | :---: |
 | 2021-10-16 | <a href='https://blog.bj-yan.top/p/readme/' target='_blank'>README</a> |
+| 2022-05-12 | <a href='https://blog.bj-yan.top/p/blog-some-thoughts-on-schedule-management-software/' target='_blank'>Some Thoughts on Schedule Management Software</a> |
+| 2022-05-11 | <a href='https://blog.bj-yan.top/p/blog-taichi-voxel-challenge-2022-pvz/' target='_blank'>Taichi Voxel Challenge 2022 - PVZ</a> |
 | 2022-05-01 | <a href='https://blog.bj-yan.top/p/blog-hcaptcha-seaplane/' target='_blank'>"Please click each image containing a seaplane"</a> |
 | 2022-05-01 | <a href='https://blog.bj-yan.top/p/blog-taichi-voxel-challenge-2022/' target='_blank'>Taichi Voxel Challenge 2022</a> |
-| 2022-05-01 | <a href='https://blog.bj-yan.top/p/blog-where-is-the-next-generation-of-captcha/' target='_blank'>Where is the Next Generation of CAPTCHA?</a> |
-| 2022-05-01 | <a href='https://blog.bj-yan.top/p/blog-hcaptcha-elephant-drawn-with-leaves/' target='_blank'>"Please select all the elephants drawn with lеaves"</a> |
 <!-- END_SECTION:blog -->
 </td>
 <td valign="top" width="50%">
@@ -70,11 +70,11 @@
 <!-- START_SECTION:github -->
 | Date | Title |
 | :-: | :---: |
-| 2022-05-10 | starred ⭐ [HIT-UG-Group/DeepLearning-MuLi-Notes](https://github.com/HIT-UG-Group/DeepLearning-MuLi-Notes) |
-| 2022-05-10 | opened a pull request in 📦 [FedML-AI/FedML](https://github.com/FedML-AI/FedML/pull/220) |
-| 2022-05-10 | pushed to master in 📌 [beiyuouo/FedML](https://github.com/beiyuouo/FedML/compare/d81a12c373...6f2ffd3900) |
-| 2022-05-10 | pushed to master in 📌 [beiyuouo/FedML](https://github.com/beiyuouo/FedML/compare/b4c2e68421...d81a12c373) |
-| 2022-05-10 | pushed to master in 📌 [beiyuouo/FedML](https://github.com/beiyuouo/FedML/compare/392815ec82...b4c2e68421) |
+| 2022-05-11 | pushed to main in 📌 [beiyuouo/blog](https://github.com/beiyuouo/blog/compare/00ac2e58a6...2a98626460) |
+| 2022-05-11 | pushed to main in 📌 [beiyuouo/comments-for-awesome-courses](https://github.com/beiyuouo/comments-for-awesome-courses/compare/39b175bfd2...fc3a7a5946) |
+| 2022-05-11 | starred ⭐ [resume/resume.github.com](https://github.com/resume/resume.github.com) |
+| 2022-05-11 | pushed to gh-pages in 📌 [RobAI-Lab/hainanu-course-comments](https://github.com/RobAI-Lab/hainanu-course-comments/compare/a5a888a935...a081999d12) |
+| 2022-05-11 | pushed to main in 📌 [beiyuouo/hainanu-course-comments](https://github.com/beiyuouo/hainanu-course-comments/compare/0e248c6811...4f42856752) |
 <!-- END_SECTION:github -->
 
 </td>
