@@ -70,11 +70,11 @@
 <!-- START_SECTION:github -->
 | Date | Title |
 | :-: | :---: |
-| 2022-05-11 | pushed to main in 📌 [beiyuouo/blog](https://github.com/beiyuouo/blog/compare/00ac2e58a6...2a98626460) |
-| 2022-05-11 | pushed to main in 📌 [beiyuouo/comments-for-awesome-courses](https://github.com/beiyuouo/comments-for-awesome-courses/compare/39b175bfd2...fc3a7a5946) |
-| 2022-05-11 | starred ⭐ [resume/resume.github.com](https://github.com/resume/resume.github.com) |
-| 2022-05-11 | pushed to gh-pages in 📌 [RobAI-Lab/hainanu-course-comments](https://github.com/RobAI-Lab/hainanu-course-comments/compare/a5a888a935...a081999d12) |
-| 2022-05-11 | pushed to main in 📌 [beiyuouo/hainanu-course-comments](https://github.com/beiyuouo/hainanu-course-comments/compare/0e248c6811...4f42856752) |
+| 2022-05-12 | pushed to main in 📌 [beiyuouo/github-contrib](https://github.com/beiyuouo/github-contrib/compare/4ea0e67f67...a66d726665) |
+| 2022-05-12 | pushed to main in 📌 [beiyuouo/github-contrib](https://github.com/beiyuouo/github-contrib/compare/e9384e2a50...d0cb839ec3) |
+| 2022-05-12 | pushed to main in 📌 [beiyuouo/github-contrib](https://github.com/beiyuouo/github-contrib/compare/e294aa24e8...e9384e2a50) |
+| 2022-05-12 | opened a pull request in 📦 [QIN2DIM/my_news](https://github.com/QIN2DIM/my_news/pull/1) |
+| 2022-05-12 | pushed to main in 📌 [beiyuouo/github-contrib](https://github.com/beiyuouo/github-contrib/compare/161bda1ae2...e294aa24e8) |
 <!-- END_SECTION:github -->
 
 </td>
