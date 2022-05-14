@@ -70,11 +70,11 @@
 <!-- START_SECTION:github -->
 | Date | Title |
 | :-: | :---: |
+| 2022-05-13 | made beiyuouo/ezkfg 📝 [public](https://github.com/beiyuouo/ezkfg) |
+| 2022-05-13 | starred ⭐ [NVIDIA/open-gpu-kernel-modules](https://github.com/NVIDIA/open-gpu-kernel-modules) |
 | 2022-05-12 | pushed to main in 📌 [beiyuouo/github-contrib](https://github.com/beiyuouo/github-contrib/compare/4ea0e67f67...a66d726665) |
 | 2022-05-12 | pushed to main in 📌 [beiyuouo/github-contrib](https://github.com/beiyuouo/github-contrib/compare/e9384e2a50...d0cb839ec3) |
 | 2022-05-12 | pushed to main in 📌 [beiyuouo/github-contrib](https://github.com/beiyuouo/github-contrib/compare/e294aa24e8...e9384e2a50) |
-| 2022-05-12 | opened a pull request in 📦 [QIN2DIM/my_news](https://github.com/QIN2DIM/my_news/pull/1) |
-| 2022-05-12 | pushed to main in 📌 [beiyuouo/github-contrib](https://github.com/beiyuouo/github-contrib/compare/161bda1ae2...e294aa24e8) |
 <!-- END_SECTION:github -->
 
 </td>
