@@ -70,11 +70,11 @@
 <!-- START_SECTION:github -->
 | Date | Title |
 | :-: | :---: |
-| 2022-05-13 | made beiyuouo/ezkfg 📝 [public](https://github.com/beiyuouo/ezkfg) |
-| 2022-05-13 | starred ⭐ [NVIDIA/open-gpu-kernel-modules](https://github.com/NVIDIA/open-gpu-kernel-modules) |
-| 2022-05-12 | pushed to main in 📌 [beiyuouo/github-contrib](https://github.com/beiyuouo/github-contrib/compare/4ea0e67f67...a66d726665) |
-| 2022-05-12 | pushed to main in 📌 [beiyuouo/github-contrib](https://github.com/beiyuouo/github-contrib/compare/e9384e2a50...d0cb839ec3) |
-| 2022-05-12 | pushed to main in 📌 [beiyuouo/github-contrib](https://github.com/beiyuouo/github-contrib/compare/e294aa24e8...e9384e2a50) |
+| 2022-05-14 | created a tag v0.0.1 in 📁 [beiyuouo/ezkfg](https://github.com/beiyuouo/ezkfg/tree/v0.0.1) |
+| 2022-05-14 | released v0.0.1 at 🎉 [beiyuouo/ezkfg](https://github.com/beiyuouo/ezkfg/releases/tag/v0.0.1) |
+| 2022-05-14 | pushed to main in 📌 [beiyuouo/ezkfg](https://github.com/beiyuouo/ezkfg/compare/ba1d1dab2e...7620141ab6) |
+| 2022-05-14 | pushed to main in 📌 [beiyuouo/ezkfg](https://github.com/beiyuouo/ezkfg/compare/2a856adb59...ba1d1dab2e) |
+| 2022-05-14 | pushed to main in 📌 [beiyuouo/ezkfg](https://github.com/beiyuouo/ezkfg/compare/f5b475d6e1...2a856adb59) |
 <!-- END_SECTION:github -->
 
 </td>
