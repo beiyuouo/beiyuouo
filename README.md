@@ -70,11 +70,11 @@
 <!-- START_SECTION:github -->
 | Date | Title |
 | :-: | :---: |
+| 2022-05-17 | pushed to master in 📌 [beiyuouo/beiyuouo.github.io](https://github.com/beiyuouo/beiyuouo.github.io/compare/7ab971c50f...8feadc9cfd) |
+| 2022-05-17 | pushed to main in 📌 [beiyuouo/cv](https://github.com/beiyuouo/cv/compare/8d392b90f1...417b6377c7) |
 | 2022-05-16 | starred ⭐ [xwying/torchshow](https://github.com/xwying/torchshow) |
 | 2022-05-16 | pushed to master in 📌 [beiyuouo/FedML](https://github.com/beiyuouo/FedML/compare/6f2ffd3900...ba2c76ee9e) |
 | 2022-05-14 | created a tag v0.0.1 in 📁 [beiyuouo/ezkfg](https://github.com/beiyuouo/ezkfg/tree/v0.0.1) |
-| 2022-05-14 | released v0.0.1 at 🎉 [beiyuouo/ezkfg](https://github.com/beiyuouo/ezkfg/releases/tag/v0.0.1) |
-| 2022-05-14 | pushed to main in 📌 [beiyuouo/ezkfg](https://github.com/beiyuouo/ezkfg/compare/ba1d1dab2e...7620141ab6) |
 <!-- END_SECTION:github -->
 
 </td>
