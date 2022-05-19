@@ -41,10 +41,10 @@
 | Date | Title |
 | :-: | :---: |
 | 2021-10-16 | <a href='https://blog.bj-yan.top/p/readme/' target='_blank'>README</a> |
+| 2022-05-17 | <a href='https://blog.bj-yan.top/p/blog-project-ezkfg/' target='_blank'>Project: 🍕 Easy Configuration(ezkfg)</a> |
 | 2022-05-12 | <a href='https://blog.bj-yan.top/p/blog-some-thoughts-on-schedule-management-software/' target='_blank'>Some Thoughts on Schedule Management Software</a> |
 | 2022-05-11 | <a href='https://blog.bj-yan.top/p/blog-taichi-voxel-challenge-2022-pvz/' target='_blank'>Taichi Voxel Challenge 2022 - PVZ</a> |
 | 2022-05-01 | <a href='https://blog.bj-yan.top/p/blog-hcaptcha-seaplane/' target='_blank'>"Please click each image containing a seaplane"</a> |
-| 2022-05-01 | <a href='https://blog.bj-yan.top/p/blog-taichi-voxel-challenge-2022/' target='_blank'>Taichi Voxel Challenge 2022</a> |
 <!-- END_SECTION:blog -->
 </td>
 <td valign="top" width="50%">
@@ -70,11 +70,11 @@
 <!-- START_SECTION:github -->
 | Date | Title |
 | :-: | :---: |
+| 2022-05-19 | pushed to main in 📌 [beiyuouo/blog](https://github.com/beiyuouo/blog/compare/da4bfc8782...87bd6e8494) |
+| 2022-05-19 | pushed to main in 📌 [beiyuouo/blog](https://github.com/beiyuouo/blog/compare/2a98626460...da4bfc8782) |
 | 2022-05-17 | pushed to master in 📌 [beiyuouo/beiyuouo.github.io](https://github.com/beiyuouo/beiyuouo.github.io/compare/7ab971c50f...8feadc9cfd) |
 | 2022-05-17 | pushed to main in 📌 [beiyuouo/cv](https://github.com/beiyuouo/cv/compare/8d392b90f1...417b6377c7) |
 | 2022-05-16 | starred ⭐ [xwying/torchshow](https://github.com/xwying/torchshow) |
-| 2022-05-16 | pushed to master in 📌 [beiyuouo/FedML](https://github.com/beiyuouo/FedML/compare/6f2ffd3900...ba2c76ee9e) |
-| 2022-05-14 | created a tag v0.0.1 in 📁 [beiyuouo/ezkfg](https://github.com/beiyuouo/ezkfg/tree/v0.0.1) |
 <!-- END_SECTION:github -->
 
 </td>
