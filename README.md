@@ -70,11 +70,11 @@
 <!-- START_SECTION:github -->
 | Date | Title |
 | :-: | :---: |
+| 2022-05-23 | starred ⭐ [ansh/bionic-reading](https://github.com/ansh/bionic-reading) |
+| 2022-05-23 | starred ⭐ [youngfish42/Awesome-Federated-Learning-on-Graph-and-Tabular-Data](https://github.com/youngfish42/Awesome-Federated-Learning-on-Graph-and-Tabular-Data) |
 | 2022-05-22 | created a repository 📁 [beiyuouo/project](https://github.com/beiyuouo/project//) |
 | 2022-05-19 | pushed to main in 📌 [beiyuouo/blog](https://github.com/beiyuouo/blog/compare/da4bfc8782...87bd6e8494) |
 | 2022-05-19 | pushed to main in 📌 [beiyuouo/blog](https://github.com/beiyuouo/blog/compare/2a98626460...da4bfc8782) |
-| 2022-05-17 | pushed to master in 📌 [beiyuouo/beiyuouo.github.io](https://github.com/beiyuouo/beiyuouo.github.io/compare/7ab971c50f...8feadc9cfd) |
-| 2022-05-17 | pushed to main in 📌 [beiyuouo/cv](https://github.com/beiyuouo/cv/compare/8d392b90f1...417b6377c7) |
 <!-- END_SECTION:github -->
 
 </td>
