@@ -70,11 +70,11 @@
 <!-- START_SECTION:github -->
 | Date | Title |
 | :-: | :---: |
+| 2022-05-25 | starred ⭐ [streamlit/streamlit](https://github.com/streamlit/streamlit) |
+| 2022-05-25 | starred ⭐ [brucemiller/LaTeXML](https://github.com/brucemiller/LaTeXML) |
+| 2022-05-25 | starred ⭐ [fzh0917/SparseTT](https://github.com/fzh0917/SparseTT) |
 | 2022-05-25 | pushed to master in 📌 [beiyuouo/FedML](https://github.com/beiyuouo/FedML/compare/ba2c76ee9e...486971e829) |
 | 2022-05-25 | closed a pull request in 📦 [FedML-AI/FedML](https://github.com/FedML-AI/FedML/pull/220) |
-| 2022-05-24 | starred ⭐ [probot/probot](https://github.com/probot/probot) |
-| 2022-05-24 | starred ⭐ [wyjeong/FedMatch](https://github.com/wyjeong/FedMatch) |
-| 2022-05-24 | starred ⭐ [lucidrains/imagen-pytorch](https://github.com/lucidrains/imagen-pytorch) |
 <!-- END_SECTION:github -->
 
 </td>
