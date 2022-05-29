@@ -70,11 +70,11 @@
 <!-- START_SECTION:github -->
 | Date | Title |
 | :-: | :---: |
+| 2022-05-28 | starred ⭐ [megvii-research/introduction-neural-3d-reconstruction](https://github.com/megvii-research/introduction-neural-3d-reconstruction) |
 | 2022-05-25 | starred ⭐ [streamlit/streamlit](https://github.com/streamlit/streamlit) |
 | 2022-05-25 | starred ⭐ [brucemiller/LaTeXML](https://github.com/brucemiller/LaTeXML) |
 | 2022-05-25 | starred ⭐ [fzh0917/SparseTT](https://github.com/fzh0917/SparseTT) |
 | 2022-05-25 | pushed to master in 📌 [beiyuouo/FedML](https://github.com/beiyuouo/FedML/compare/ba2c76ee9e...486971e829) |
-| 2022-05-25 | closed a pull request in 📦 [FedML-AI/FedML](https://github.com/FedML-AI/FedML/pull/220) |
 <!-- END_SECTION:github -->
 
 </td>
