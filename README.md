@@ -70,11 +70,11 @@
 <!-- START_SECTION:github -->
 | Date | Title |
 | :-: | :---: |
+| 2022-05-30 | created a branch FedCV_migration in 📁 [FedML-AI/FedML](https://github.com/FedML-AI/FedML/compare/FedCV_migration) |
+| 2022-05-30 | starred ⭐ [xianfei/SysMocap](https://github.com/xianfei/SysMocap) |
+| 2022-05-30 | starred ⭐ [shengxinjing/it-roadmap](https://github.com/shengxinjing/it-roadmap) |
 | 2022-05-28 | starred ⭐ [megvii-research/introduction-neural-3d-reconstruction](https://github.com/megvii-research/introduction-neural-3d-reconstruction) |
 | 2022-05-25 | starred ⭐ [streamlit/streamlit](https://github.com/streamlit/streamlit) |
-| 2022-05-25 | starred ⭐ [brucemiller/LaTeXML](https://github.com/brucemiller/LaTeXML) |
-| 2022-05-25 | starred ⭐ [fzh0917/SparseTT](https://github.com/fzh0917/SparseTT) |
-| 2022-05-25 | pushed to master in 📌 [beiyuouo/FedML](https://github.com/beiyuouo/FedML/compare/ba2c76ee9e...486971e829) |
 <!-- END_SECTION:github -->
 
 </td>
