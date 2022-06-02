@@ -70,11 +70,11 @@
 <!-- START_SECTION:github -->
 | Date | Title |
 | :-: | :---: |
+| 2022-06-01 | starred ⭐ [jacobgil/pytorch-grad-cam](https://github.com/jacobgil/pytorch-grad-cam) |
+| 2022-06-01 | starred ⭐ [jason718/awesome-self-supervised-learning](https://github.com/jason718/awesome-self-supervised-learning) |
+| 2022-06-01 | starred ⭐ [cluic/wxauto](https://github.com/cluic/wxauto) |
 | 2022-05-31 | pushed to inner-dev in 📌 [QIN2DIM/hcaptcha-challenger](https://github.com/QIN2DIM/hcaptcha-challenger/compare/adc760fd48...6f9f2593cd) |
 | 2022-05-31 | starred ⭐ [tvvocold/How-To-Ask-Questions-The-Smart-Way](https://github.com/tvvocold/How-To-Ask-Questions-The-Smart-Way) |
-| 2022-05-31 | starred ⭐ [OriginQ/Quantum-programming-textbook](https://github.com/OriginQ/Quantum-programming-textbook) |
-| 2022-05-31 | starred ⭐ [zijie0/HumanSystemOptimization](https://github.com/zijie0/HumanSystemOptimization) |
-| 2022-05-30 | created a branch FedCV_migration in 📁 [FedML-AI/FedML](https://github.com/FedML-AI/FedML/compare/FedCV_migration) |
 <!-- END_SECTION:github -->
 
 </td>
