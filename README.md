@@ -70,11 +70,11 @@
 <!-- START_SECTION:github -->
 | Date | Title |
 | :-: | :---: |
+| 2022-06-06 | pushed to main in 📌 [beiyuouo/roadmap](https://github.com/beiyuouo/roadmap/compare/dedab5e429...999f14d387) |
+| 2022-06-06 | opened a pull request in 📦 [FedML-AI/FedML](https://github.com/FedML-AI/FedML/pull/247) |
+| 2022-06-06 | pushed to FedCV_migration in 📌 [FedML-AI/FedML](https://github.com/FedML-AI/FedML/compare/384eed7fcb...939c05b4fc) |
 | 2022-06-02 | pushed to FedCV_migration in 📌 [FedML-AI/FedML](https://github.com/FedML-AI/FedML/compare/c84fead901...384eed7fcb) |
 | 2022-06-01 | starred ⭐ [jacobgil/pytorch-grad-cam](https://github.com/jacobgil/pytorch-grad-cam) |
-| 2022-06-01 | starred ⭐ [jason718/awesome-self-supervised-learning](https://github.com/jason718/awesome-self-supervised-learning) |
-| 2022-06-01 | starred ⭐ [cluic/wxauto](https://github.com/cluic/wxauto) |
-| 2022-05-31 | pushed to inner-dev in 📌 [QIN2DIM/hcaptcha-challenger](https://github.com/QIN2DIM/hcaptcha-challenger/compare/adc760fd48...6f9f2593cd) |
 <!-- END_SECTION:github -->
 
 </td>
