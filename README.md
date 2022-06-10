@@ -70,11 +70,11 @@
 <!-- START_SECTION:github -->
 | Date | Title |
 | :-: | :---: |
+| 2022-06-09 | starred ⭐ [ahmedtariq01/Cloud-DevOps-Learning-Resources](https://github.com/ahmedtariq01/Cloud-DevOps-Learning-Resources) |
+| 2022-06-09 | starred ⭐ [Yangfan-Jiang/Federated-Learning-with-Differential-Privacy](https://github.com/Yangfan-Jiang/Federated-Learning-with-Differential-Privacy) |
+| 2022-06-09 | starred ⭐ [THUDM/CogVideo](https://github.com/THUDM/CogVideo) |
+| 2022-06-09 | pushed to dev/v0.7.0 in 📌 [FedML-AI/FedML](https://github.com/FedML-AI/FedML/compare/76b26044d4...6c894e89e9) |
 | 2022-06-09 | pushed to dev/v0.7.0 in 📌 [FedML-AI/FedML](https://github.com/FedML-AI/FedML/compare/bf8c1f2297...76b26044d4) |
-| 2022-06-08 | pushed to dev/v0.7.0 in 📌 [FedML-AI/FedML](https://github.com/FedML-AI/FedML/compare/2d8770d622...ddbc520e92) |
-| 2022-06-07 | pushed to dev/v0.7.0 in 📌 [FedML-AI/FedML](https://github.com/FedML-AI/FedML/compare/2bfcddde7d...fc8604b625) |
-| 2022-06-07 | closed a pull request in 📦 [FedML-AI/FedML](https://github.com/FedML-AI/FedML/pull/247) |
-| 2022-06-07 | pushed to main in 📌 [beiyuouo/roadmap](https://github.com/beiyuouo/roadmap/compare/999f14d387...ad533ae231) |
 <!-- END_SECTION:github -->
 
 </td>
