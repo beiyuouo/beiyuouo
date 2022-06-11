@@ -41,10 +41,10 @@
 | Date | Title |
 | :-: | :---: |
 | 2021-10-16 | <a href='https://blog.bj-yan.top/p/readme/' target='_blank'>README</a> |
+| 2022-06-10 | <a href='https://blog.bj-yan.top/p/blog-hcaptcha-test-time-augmentation-and-model-attack-defense/' target='_blank'>Test Time Augmentation and Model Attack & Defense</a> |
 | 2022-05-17 | <a href='https://blog.bj-yan.top/p/blog-project-ezkfg/' target='_blank'>Project: 🍕 Easy Configuration(ezkfg)</a> |
 | 2022-05-12 | <a href='https://blog.bj-yan.top/p/blog-some-thoughts-on-schedule-management-software/' target='_blank'>Some Thoughts on Schedule Management Software</a> |
 | 2022-05-11 | <a href='https://blog.bj-yan.top/p/blog-taichi-voxel-challenge-2022-pvz/' target='_blank'>Taichi Voxel Challenge 2022 - PVZ</a> |
-| 2022-05-01 | <a href='https://blog.bj-yan.top/p/blog-hcaptcha-seaplane/' target='_blank'>"Please click each image containing a seaplane"</a> |
 <!-- END_SECTION:blog -->
 </td>
 <td valign="top" width="50%">
@@ -70,11 +70,11 @@
 <!-- START_SECTION:github -->
 | Date | Title |
 | :-: | :---: |
-| 2022-06-09 | starred ⭐ [ahmedtariq01/Cloud-DevOps-Learning-Resources](https://github.com/ahmedtariq01/Cloud-DevOps-Learning-Resources) |
-| 2022-06-09 | starred ⭐ [Yangfan-Jiang/Federated-Learning-with-Differential-Privacy](https://github.com/Yangfan-Jiang/Federated-Learning-with-Differential-Privacy) |
-| 2022-06-09 | starred ⭐ [THUDM/CogVideo](https://github.com/THUDM/CogVideo) |
-| 2022-06-09 | pushed to dev/v0.7.0 in 📌 [FedML-AI/FedML](https://github.com/FedML-AI/FedML/compare/76b26044d4...6c894e89e9) |
-| 2022-06-09 | pushed to dev/v0.7.0 in 📌 [FedML-AI/FedML](https://github.com/FedML-AI/FedML/compare/bf8c1f2297...76b26044d4) |
+| 2022-06-10 | pushed to master in 📌 [beiyuouo/beiyuouo.github.io](https://github.com/beiyuouo/beiyuouo.github.io/compare/8feadc9cfd...081be3b8a5) |
+| 2022-06-10 | starred ⭐ [QinbinLi/FedKT](https://github.com/QinbinLi/FedKT) |
+| 2022-06-10 | pushed to main in 📌 [beiyuouo/blog](https://github.com/beiyuouo/blog/compare/14d212f1f4...983287149c) |
+| 2022-06-10 | pushed to dev/v0.7.0 in 📌 [FedML-AI/FedML](https://github.com/FedML-AI/FedML/compare/433ca4bb19...9d7a43cacf) |
+| 2022-06-10 | pushed to main in 📌 [beiyuouo/blog](https://github.com/beiyuouo/blog/compare/87bd6e8494...14d212f1f4) |
 <!-- END_SECTION:github -->
 
 </td>
