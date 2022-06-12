@@ -70,11 +70,11 @@
 <!-- START_SECTION:github -->
 | Date | Title |
 | :-: | :---: |
+| 2022-06-11 | pushed to main in 📌 [beiyuouo/blog](https://github.com/beiyuouo/blog/compare/983287149c...d116bc4bad) |
+| 2022-06-11 | pushed to master in 📌 [beiyuouo/beiyuouo.github.io](https://github.com/beiyuouo/beiyuouo.github.io/compare/9c245c54d3...823efdea21) |
+| 2022-06-11 | pushed to master in 📌 [beiyuouo/beiyuouo.github.io](https://github.com/beiyuouo/beiyuouo.github.io/compare/081be3b8a5...9c245c54d3) |
+| 2022-06-11 | pushed to dev/v0.7.0 in 📌 [FedML-AI/FedML](https://github.com/FedML-AI/FedML/compare/140a39f720...0f24fc89e5) |
 | 2022-06-10 | pushed to master in 📌 [beiyuouo/beiyuouo.github.io](https://github.com/beiyuouo/beiyuouo.github.io/compare/8feadc9cfd...081be3b8a5) |
-| 2022-06-10 | starred ⭐ [QinbinLi/FedKT](https://github.com/QinbinLi/FedKT) |
-| 2022-06-10 | pushed to main in 📌 [beiyuouo/blog](https://github.com/beiyuouo/blog/compare/14d212f1f4...983287149c) |
-| 2022-06-10 | pushed to dev/v0.7.0 in 📌 [FedML-AI/FedML](https://github.com/FedML-AI/FedML/compare/433ca4bb19...9d7a43cacf) |
-| 2022-06-10 | pushed to main in 📌 [beiyuouo/blog](https://github.com/beiyuouo/blog/compare/87bd6e8494...14d212f1f4) |
 <!-- END_SECTION:github -->
 
 </td>
