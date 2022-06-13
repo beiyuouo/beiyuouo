@@ -41,10 +41,10 @@
 | Date | Title |
 | :-: | :---: |
 | 2021-10-16 | <a href='https://blog.bj-yan.top/p/readme/' target='_blank'>README</a> |
+| 2022-06-13 | <a href='https://blog.bj-yan.top/p/misc-good-bye-hainan/' target='_blank'>别了，我的小岛</a> |
 | 2022-06-10 | <a href='https://blog.bj-yan.top/p/blog-hcaptcha-test-time-augmentation-and-model-attack-defense/' target='_blank'>Test Time Augmentation and Model Attack & Defense</a> |
 | 2022-05-17 | <a href='https://blog.bj-yan.top/p/blog-project-ezkfg/' target='_blank'>Project: 🍕 Easy Configuration(ezkfg)</a> |
 | 2022-05-12 | <a href='https://blog.bj-yan.top/p/blog-some-thoughts-on-schedule-management-software/' target='_blank'>Some Thoughts on Schedule Management Software</a> |
-| 2022-05-11 | <a href='https://blog.bj-yan.top/p/blog-taichi-voxel-challenge-2022-pvz/' target='_blank'>Taichi Voxel Challenge 2022 - PVZ</a> |
 <!-- END_SECTION:blog -->
 </td>
 <td valign="top" width="50%">
@@ -54,11 +54,11 @@
 <!-- START_SECTION:douban -->
 | Date | Title |
 | :-: | :---: |
-| 2022-05-07 | 看过😎 <a href='http://movie.douban.com/subject/35524447/' target='_blank'>怪异</a> ⭐⭐⭐ |
-| 2022-04-24 | 在看👀 <a href='http://movie.douban.com/subject/35344026/' target='_blank'>亲爱的小孩</a> ⭐⭐⭐ |
-| 2022-03-20 | 想看🤔 <a href='http://movie.douban.com/subject/35774719/' target='_blank'>一个星期四</a>  |
-| 2022-03-20 | 想看🤔 <a href='http://movie.douban.com/subject/35307437/' target='_blank'>猎罪图鉴</a>  |
-| 2022-03-04 | 在看👀 <a href='http://movie.douban.com/subject/35248792/' target='_blank'>少年法庭</a> ⭐⭐⭐⭐ |
+| 2022-06-12 | 想看🤔 <a href='http://movie.douban.com/subject/26358321/' target='_blank'>惊奇少女</a>  |
+| 2022-06-12 | 看过😎 <a href='http://movie.douban.com/subject/34988710/' target='_blank'>9号秘事 第七季</a> ⭐⭐⭐⭐⭐ |
+| 2022-06-12 | 在看👀 <a href='http://movie.douban.com/subject/35755307/' target='_blank'>神印王座</a> ⭐⭐⭐⭐ |
+| 2022-06-12 | 看过😎 <a href='http://movie.douban.com/subject/35436582/' target='_blank'>爱，死亡和机器人 第三季</a> ⭐⭐⭐⭐⭐ |
+| 2022-06-12 | 想看🤔 <a href='http://movie.douban.com/subject/26897885/' target='_blank'>芬奇</a>  |
 <!-- END_SECTION:douban -->
 </td>
 </tr>
@@ -70,11 +70,11 @@
 <!-- START_SECTION:github -->
 | Date | Title |
 | :-: | :---: |
+| 2022-06-12 | pushed to main in 📌 [beiyuouo/blog](https://github.com/beiyuouo/blog/compare/2571488ebd...af1bd0be4e) |
+| 2022-06-12 | pushed to main in 📌 [beiyuouo/blog](https://github.com/beiyuouo/blog/compare/d116bc4bad...2571488ebd) |
+| 2022-06-12 | starred ⭐ [sipeed/MaixPy3](https://github.com/sipeed/MaixPy3) |
 | 2022-06-11 | pushed to main in 📌 [beiyuouo/blog](https://github.com/beiyuouo/blog/compare/983287149c...d116bc4bad) |
 | 2022-06-11 | pushed to master in 📌 [beiyuouo/beiyuouo.github.io](https://github.com/beiyuouo/beiyuouo.github.io/compare/9c245c54d3...823efdea21) |
-| 2022-06-11 | pushed to master in 📌 [beiyuouo/beiyuouo.github.io](https://github.com/beiyuouo/beiyuouo.github.io/compare/081be3b8a5...9c245c54d3) |
-| 2022-06-11 | pushed to dev/v0.7.0 in 📌 [FedML-AI/FedML](https://github.com/FedML-AI/FedML/compare/140a39f720...0f24fc89e5) |
-| 2022-06-10 | pushed to master in 📌 [beiyuouo/beiyuouo.github.io](https://github.com/beiyuouo/beiyuouo.github.io/compare/8feadc9cfd...081be3b8a5) |
 <!-- END_SECTION:github -->
 
 </td>
