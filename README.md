@@ -54,11 +54,11 @@
 <!-- START_SECTION:douban -->
 | Date | Title |
 | :-: | :---: |
+| 2022-06-14 | 看过😎 <a href='http://movie.douban.com/subject/27046758/' target='_blank'>天才计划</a> ⭐⭐⭐⭐ |
+| 2022-06-14 | 看过😎 <a href='http://movie.douban.com/subject/30466931/' target='_blank'>波斯语课</a> ⭐⭐⭐⭐⭐ |
 | 2022-06-13 | 看过😎 <a href='http://movie.douban.com/subject/35307437/' target='_blank'>猎罪图鉴</a> ⭐⭐⭐⭐ |
 | 2022-06-12 | 想看🤔 <a href='http://movie.douban.com/subject/26358321/' target='_blank'>惊奇少女</a>  |
 | 2022-06-12 | 看过😎 <a href='http://movie.douban.com/subject/34988710/' target='_blank'>9号秘事 第七季</a> ⭐⭐⭐⭐⭐ |
-| 2022-06-12 | 在看👀 <a href='http://movie.douban.com/subject/35755307/' target='_blank'>神印王座</a> ⭐⭐⭐⭐ |
-| 2022-06-12 | 看过😎 <a href='http://movie.douban.com/subject/35436582/' target='_blank'>爱，死亡和机器人 第三季</a> ⭐⭐⭐⭐⭐ |
 <!-- END_SECTION:douban -->
 </td>
 </tr>
