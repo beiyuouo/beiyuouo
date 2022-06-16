@@ -70,11 +70,11 @@
 <!-- START_SECTION:github -->
 | Date | Title |
 | :-: | :---: |
+| 2022-06-16 | pushed to main in 📌 [beiyuouo/beiyuouo](https://github.com/beiyuouo/beiyuouo/compare/926c352d17...eb08ec8405) |
 | 2022-06-15 | pushed to dev/v0.7.0 in 📌 [FedML-AI/FedML](https://github.com/FedML-AI/FedML/compare/3ed35cfcf6...f45dae9029) |
 | 2022-06-13 | starred ⭐ [saharmor/dalle-playground](https://github.com/saharmor/dalle-playground) |
 | 2022-06-12 | pushed to main in 📌 [beiyuouo/blog](https://github.com/beiyuouo/blog/compare/2571488ebd...af1bd0be4e) |
 | 2022-06-12 | pushed to main in 📌 [beiyuouo/blog](https://github.com/beiyuouo/blog/compare/d116bc4bad...2571488ebd) |
-| 2022-06-12 | starred ⭐ [sipeed/MaixPy3](https://github.com/sipeed/MaixPy3) |
 <!-- END_SECTION:github -->
 
 </td>
