@@ -70,11 +70,11 @@
 <!-- START_SECTION:github -->
 | Date | Title |
 | :-: | :---: |
-| 2022-06-16 | pushed to main in 📌 [beiyuouo/beiyuouo](https://github.com/beiyuouo/beiyuouo/compare/926c352d17...eb08ec8405) |
-| 2022-06-15 | pushed to dev/v0.7.0 in 📌 [FedML-AI/FedML](https://github.com/FedML-AI/FedML/compare/3ed35cfcf6...f45dae9029) |
-| 2022-06-13 | starred ⭐ [saharmor/dalle-playground](https://github.com/saharmor/dalle-playground) |
-| 2022-06-12 | pushed to main in 📌 [beiyuouo/blog](https://github.com/beiyuouo/blog/compare/2571488ebd...af1bd0be4e) |
-| 2022-06-12 | pushed to main in 📌 [beiyuouo/blog](https://github.com/beiyuouo/blog/compare/d116bc4bad...2571488ebd) |
+| 2022-06-16 | pushed to master in 📌 [beiyuouo/beiyuouo.github.io](https://github.com/beiyuouo/beiyuouo.github.io/compare/823efdea21...bb1ee1e1ce) |
+| 2022-06-16 | pushed to dev in 📌 [beiyuouo/hcaptcha-challenger](https://github.com/beiyuouo/hcaptcha-challenger/compare/1434817187...f6869ae9d7) |
+| 2022-06-16 | created a branch dev in 📁 [beiyuouo/hcaptcha-challenger](https://github.com/beiyuouo/hcaptcha-challenger/compare/dev) |
+| 2022-06-16 | deleted branch inner-dev at 🗑 [QIN2DIM/hcaptcha-challenger](https://github.com/) |
+| 2022-06-16 | starred ⭐ [taichi-dev/awesome-taichi](https://github.com/taichi-dev/awesome-taichi) |
 <!-- END_SECTION:github -->
 
 </td>
