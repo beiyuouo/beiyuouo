@@ -70,11 +70,11 @@
 <!-- START_SECTION:github -->
 | Date | Title |
 | :-: | :---: |
-| 2022-06-16 | pushed to master in 📌 [beiyuouo/beiyuouo.github.io](https://github.com/beiyuouo/beiyuouo.github.io/compare/823efdea21...bb1ee1e1ce) |
-| 2022-06-16 | pushed to dev in 📌 [beiyuouo/hcaptcha-challenger](https://github.com/beiyuouo/hcaptcha-challenger/compare/1434817187...f6869ae9d7) |
-| 2022-06-16 | created a branch dev in 📁 [beiyuouo/hcaptcha-challenger](https://github.com/beiyuouo/hcaptcha-challenger/compare/dev) |
-| 2022-06-16 | deleted branch inner-dev at 🗑 [QIN2DIM/hcaptcha-challenger](https://github.com/) |
-| 2022-06-16 | starred ⭐ [taichi-dev/awesome-taichi](https://github.com/taichi-dev/awesome-taichi) |
+| 2022-06-17 | pushed to main in 📌 [Hainanu-Application/Hainanu-Application.github.io](https://github.com/Hainanu-Application/Hainanu-Application.github.io/compare/cab0ca86ec...a3d4bee01d) |
+| 2022-06-17 | pushed to main in 📌 [Hainanu-Application/Hainanu-Application.github.io](https://github.com/Hainanu-Application/Hainanu-Application.github.io/compare/b0a62567cb...69438e8533) |
+| 2022-06-17 | pushed to main in 📌 [Hainanu-Application/Hainanu-Application.github.io](https://github.com/Hainanu-Application/Hainanu-Application.github.io/compare/eda6512917...b0a62567cb) |
+| 2022-06-17 | pushed to main in 📌 [Hainanu-Application/Hainanu-Application.github.io](https://github.com/Hainanu-Application/Hainanu-Application.github.io/compare/9aea1a3cb3...5f0918332a) |
+| 2022-06-17 | pushed to master in 📌 [beiyuouo/beiyuouo.github.io](https://github.com/beiyuouo/beiyuouo.github.io/compare/bb1ee1e1ce...aed4dd35ca) |
 <!-- END_SECTION:github -->
 
 </td>
