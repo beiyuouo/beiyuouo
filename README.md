@@ -54,11 +54,11 @@
 <!-- START_SECTION:douban -->
 | Date | Title |
 | :-: | :---: |
+| 2022-06-21 | 看过😎 <a href='http://movie.douban.com/subject/35584688/' target='_blank'>自拍复印机</a> ⭐⭐⭐ |
+| 2022-06-21 | 想看🤔 <a href='http://movie.douban.com/subject/35460157/' target='_blank'>人生大事</a>  |
 | 2022-06-14 | 看过😎 <a href='http://movie.douban.com/subject/27046758/' target='_blank'>天才计划</a> ⭐⭐⭐⭐ |
 | 2022-06-14 | 看过😎 <a href='http://movie.douban.com/subject/30466931/' target='_blank'>波斯语课</a> ⭐⭐⭐⭐⭐ |
 | 2022-06-13 | 看过😎 <a href='http://movie.douban.com/subject/35307437/' target='_blank'>猎罪图鉴</a> ⭐⭐⭐⭐ |
-| 2022-06-12 | 想看🤔 <a href='http://movie.douban.com/subject/26358321/' target='_blank'>惊奇少女</a>  |
-| 2022-06-12 | 看过😎 <a href='http://movie.douban.com/subject/34988710/' target='_blank'>9号秘事 第七季</a> ⭐⭐⭐⭐⭐ |
 <!-- END_SECTION:douban -->
 </td>
 </tr>
@@ -70,11 +70,11 @@
 <!-- START_SECTION:github -->
 | Date | Title |
 | :-: | :---: |
+| 2022-06-21 | pushed to main in 📌 [Hainanu-Application/Hainanu-Application.github.io](https://github.com/Hainanu-Application/Hainanu-Application.github.io/compare/0bb8c4764f...30494ac6c9) |
+| 2022-06-21 | pushed to main in 📌 [Hainanu-Application/Hainanu-Application.github.io](https://github.com/Hainanu-Application/Hainanu-Application.github.io/compare/282338d1dc...0bb8c4764f) |
+| 2022-06-21 | pushed to main in 📌 [Hainanu-Application/Hainanu-Application.github.io](https://github.com/Hainanu-Application/Hainanu-Application.github.io/compare/8e6ce85fa6...282338d1dc) |
 | 2022-06-20 | pushed to main in 📌 [beiyuouo/hcaptcha-model-factory](https://github.com/beiyuouo/hcaptcha-model-factory/compare/7b7729ece7...75a073e7b0) |
 | 2022-06-20 | pushed to main in 📌 [beiyuouo/hcaptcha-challenger](https://github.com/beiyuouo/hcaptcha-challenger/compare/5cc68773af...2e8754d8d7) |
-| 2022-06-20 | pushed to main in 📌 [beiyuouo/blog](https://github.com/beiyuouo/blog/compare/89dfafd49c...73039b585c) |
-| 2022-06-20 | pushed to main in 📌 [beiyuouo/blog](https://github.com/beiyuouo/blog/compare/01c0ff8565...89dfafd49c) |
-| 2022-06-20 | pushed to main in 📌 [Hainanu-Application/Hainanu-Application.github.io](https://github.com/Hainanu-Application/Hainanu-Application.github.io/compare/2f40072821...de3c58e29b) |
 <!-- END_SECTION:github -->
 
 </td>
