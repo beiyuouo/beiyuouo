@@ -70,11 +70,11 @@
 <!-- START_SECTION:github -->
 | Date | Title |
 | :-: | :---: |
-| 2022-06-21 | pushed to main in 📌 [Hainanu-Application/Hainanu-Application.github.io](https://github.com/Hainanu-Application/Hainanu-Application.github.io/compare/0bb8c4764f...30494ac6c9) |
-| 2022-06-21 | pushed to main in 📌 [Hainanu-Application/Hainanu-Application.github.io](https://github.com/Hainanu-Application/Hainanu-Application.github.io/compare/282338d1dc...0bb8c4764f) |
-| 2022-06-21 | pushed to main in 📌 [Hainanu-Application/Hainanu-Application.github.io](https://github.com/Hainanu-Application/Hainanu-Application.github.io/compare/8e6ce85fa6...282338d1dc) |
-| 2022-06-20 | pushed to main in 📌 [beiyuouo/hcaptcha-model-factory](https://github.com/beiyuouo/hcaptcha-model-factory/compare/7b7729ece7...75a073e7b0) |
-| 2022-06-20 | pushed to main in 📌 [beiyuouo/hcaptcha-challenger](https://github.com/beiyuouo/hcaptcha-challenger/compare/5cc68773af...2e8754d8d7) |
+| 2022-06-22 | starred ⭐ [wuch15/FedKD](https://github.com/wuch15/FedKD) |
+| 2022-06-22 | starred ⭐ [wuch15/FedPerGNN](https://github.com/wuch15/FedPerGNN) |
+| 2022-06-22 | pushed to main in 📌 [beiyuouo/blog](https://github.com/beiyuouo/blog/compare/73039b585c...e9bd1d7882) |
+| 2022-06-22 | pushed to main in 📌 [Hainanu-Application/Hainanu-Application.github.io](https://github.com/Hainanu-Application/Hainanu-Application.github.io/compare/e13496c883...ce2e80e987) |
+| 2022-06-22 | starred ⭐ [yuetan031/fedproto](https://github.com/yuetan031/fedproto) |
 <!-- END_SECTION:github -->
 
 </td>
