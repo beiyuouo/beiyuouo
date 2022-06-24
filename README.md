@@ -54,11 +54,11 @@
 <!-- START_SECTION:douban -->
 | Date | Title |
 | :-: | :---: |
+| 2022-06-23 | 看过😎 <a href='http://movie.douban.com/subject/30304994/' target='_blank'>奇异博士2：疯狂多元宇宙</a> ⭐⭐⭐⭐ |
 | 2022-06-21 | 看过😎 <a href='http://movie.douban.com/subject/35584688/' target='_blank'>自拍复印机</a> ⭐⭐⭐ |
 | 2022-06-21 | 想看🤔 <a href='http://movie.douban.com/subject/35460157/' target='_blank'>人生大事</a>  |
 | 2022-06-14 | 看过😎 <a href='http://movie.douban.com/subject/27046758/' target='_blank'>天才计划</a> ⭐⭐⭐⭐ |
 | 2022-06-14 | 看过😎 <a href='http://movie.douban.com/subject/30466931/' target='_blank'>波斯语课</a> ⭐⭐⭐⭐⭐ |
-| 2022-06-13 | 看过😎 <a href='http://movie.douban.com/subject/35307437/' target='_blank'>猎罪图鉴</a> ⭐⭐⭐⭐ |
 <!-- END_SECTION:douban -->
 </td>
 </tr>
@@ -70,11 +70,11 @@
 <!-- START_SECTION:github -->
 | Date | Title |
 | :-: | :---: |
+| 2022-06-23 | pushed to dev/v0.7.0 in 📌 [FedML-AI/FedML](https://github.com/FedML-AI/FedML/compare/6a7e1807e1...282713f813) |
 | 2022-06-22 | starred ⭐ [wuch15/FedKD](https://github.com/wuch15/FedKD) |
 | 2022-06-22 | starred ⭐ [wuch15/FedPerGNN](https://github.com/wuch15/FedPerGNN) |
 | 2022-06-22 | pushed to main in 📌 [beiyuouo/blog](https://github.com/beiyuouo/blog/compare/73039b585c...e9bd1d7882) |
 | 2022-06-22 | pushed to main in 📌 [Hainanu-Application/Hainanu-Application.github.io](https://github.com/Hainanu-Application/Hainanu-Application.github.io/compare/e13496c883...ce2e80e987) |
-| 2022-06-22 | starred ⭐ [yuetan031/fedproto](https://github.com/yuetan031/fedproto) |
 <!-- END_SECTION:github -->
 
 </td>
