@@ -70,11 +70,11 @@
 <!-- START_SECTION:github -->
 | Date | Title |
 | :-: | :---: |
+| 2022-06-27 | starred ⭐ [meituan/YOLOv6](https://github.com/meituan/YOLOv6) |
 | 2022-06-24 | starred ⭐ [foocker/deeplearningtheory](https://github.com/foocker/deeplearningtheory) |
 | 2022-06-23 | pushed to dev/v0.7.0 in 📌 [FedML-AI/FedML](https://github.com/FedML-AI/FedML/compare/6a7e1807e1...282713f813) |
 | 2022-06-22 | starred ⭐ [wuch15/FedKD](https://github.com/wuch15/FedKD) |
 | 2022-06-22 | starred ⭐ [wuch15/FedPerGNN](https://github.com/wuch15/FedPerGNN) |
-| 2022-06-22 | pushed to main in 📌 [beiyuouo/blog](https://github.com/beiyuouo/blog/compare/73039b585c...e9bd1d7882) |
 <!-- END_SECTION:github -->
 
 </td>
