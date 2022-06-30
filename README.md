@@ -22,7 +22,7 @@
 <!-- languages:start -->
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
-- 🔭 I’m an undergraduate student in [**@Hainan University**](https://ha.hainanu.edu.cn/home2020/).
+- 🔭 I’m an undergraduate student in [**@Hainan University**](https://www.hainanu.edu.cn/).
 - 🌱 My research interests focus on Federated Learning and Private Computing.
 - 📫 You can reach me at [bj.yan.pa@qq.com](mailto:bj.yan.pa@qq.com).
 - 🎨 I am glad to share and communicate with you.
