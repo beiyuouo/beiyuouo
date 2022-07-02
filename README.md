@@ -70,11 +70,11 @@
 <!-- START_SECTION:github -->
 | Date | Title |
 | :-: | :---: |
+| 2022-07-01 | pushed to dev/v0.7.0 in 📌 [FedML-AI/FedML](https://github.com/FedML-AI/FedML/compare/1c100b20fe...1061a14dbb) |
 | 2022-06-30 | pushed to dev/v0.7.0 in 📌 [FedML-AI/FedML](https://github.com/FedML-AI/FedML/compare/42fc09f9fc...521a1a3435) |
 | 2022-06-30 | pushed to dev/v0.7.0 in 📌 [FedML-AI/FedML](https://github.com/FedML-AI/FedML/compare/29e6f1987c...42fc09f9fc) |
 | 2022-06-30 | pushed to main in 📌 [beiyuouo/beiyuouo](https://github.com/beiyuouo/beiyuouo/compare/8a208e6020...34ecdf06a7) |
 | 2022-06-30 | starred ⭐ [ebagdasa/federated_adaptation](https://github.com/ebagdasa/federated_adaptation) |
-| 2022-06-30 | starred ⭐ [yenchenlin/awesome-NeRF](https://github.com/yenchenlin/awesome-NeRF) |
 <!-- END_SECTION:github -->
 
 </td>
