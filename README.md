@@ -70,11 +70,11 @@
 <!-- START_SECTION:github -->
 | Date | Title |
 | :-: | :---: |
-| 2022-07-02 | starred ⭐ [edoardottt/awesome-hacker-search-engines](https://github.com/edoardottt/awesome-hacker-search-engines) |
-| 2022-07-01 | pushed to dev/v0.7.0 in 📌 [FedML-AI/FedML](https://github.com/FedML-AI/FedML/compare/1c100b20fe...1061a14dbb) |
-| 2022-06-30 | pushed to dev/v0.7.0 in 📌 [FedML-AI/FedML](https://github.com/FedML-AI/FedML/compare/42fc09f9fc...521a1a3435) |
-| 2022-06-30 | pushed to dev/v0.7.0 in 📌 [FedML-AI/FedML](https://github.com/FedML-AI/FedML/compare/29e6f1987c...42fc09f9fc) |
-| 2022-06-30 | pushed to main in 📌 [beiyuouo/beiyuouo](https://github.com/beiyuouo/beiyuouo/compare/8a208e6020...34ecdf06a7) |
+| 2022-07-04 | pushed to main in 📌 [Hainanu-Application/Hainanu-Application.github.io](https://github.com/Hainanu-Application/Hainanu-Application.github.io/compare/aa0a03e072...6cdfb81284) |
+| 2022-07-04 | pushed to main in 📌 [Hainanu-Application/Hainanu-Application.github.io](https://github.com/Hainanu-Application/Hainanu-Application.github.io/compare/cfbbf15b50...aa0a03e072) |
+| 2022-07-04 | merged a pull request in 📦 [Hainanu-Application/Hainanu-Application.github.io](https://github.com/Hainanu-Application/Hainanu-Application.github.io/pull/35) |
+| 2022-07-04 | opened a pull request in 📦 [Hainanu-Application/Hainanu-Application.github.io](https://github.com/Hainanu-Application/Hainanu-Application.github.io/pull/35) |
+| 2022-07-04 | pushed to main in 📌 [beiyuouo/Hainanu-Application.github.io](https://github.com/beiyuouo/Hainanu-Application.github.io/compare/9f29bbf3ca...25a68c2e7c) |
 <!-- END_SECTION:github -->
 
 </td>
