@@ -70,11 +70,11 @@
 <!-- START_SECTION:github -->
 | Date | Title |
 | :-: | :---: |
-| 2022-07-04 | pushed to main in 📌 [Hainanu-Application/Hainanu-Application.github.io](https://github.com/Hainanu-Application/Hainanu-Application.github.io/compare/aa0a03e072...6cdfb81284) |
-| 2022-07-04 | pushed to main in 📌 [Hainanu-Application/Hainanu-Application.github.io](https://github.com/Hainanu-Application/Hainanu-Application.github.io/compare/cfbbf15b50...aa0a03e072) |
-| 2022-07-04 | merged a pull request in 📦 [Hainanu-Application/Hainanu-Application.github.io](https://github.com/Hainanu-Application/Hainanu-Application.github.io/pull/35) |
-| 2022-07-04 | opened a pull request in 📦 [Hainanu-Application/Hainanu-Application.github.io](https://github.com/Hainanu-Application/Hainanu-Application.github.io/pull/35) |
-| 2022-07-04 | pushed to main in 📌 [beiyuouo/Hainanu-Application.github.io](https://github.com/beiyuouo/Hainanu-Application.github.io/compare/9f29bbf3ca...25a68c2e7c) |
+| 2022-07-04 | starred ⭐ [fedsim-dev/fedsim](https://github.com/fedsim-dev/fedsim) |
+| 2022-07-04 | starred ⭐ [beiyuouo/fedhf](https://github.com/beiyuouo/fedhf) |
+| 2022-07-04 | pushed to dev/v0.7.0 in 📌 [FedML-AI/FedML](https://github.com/FedML-AI/FedML/compare/40b8c8e161...b95e34cdce) |
+| 2022-07-04 | pushed to dev/v0.7.0 in 📌 [FedML-AI/FedML](https://github.com/FedML-AI/FedML/compare/cee23bc016...40b8c8e161) |
+| 2022-07-04 | pushed to main in 📌 [Hainanu-Application/Hainanu-Application.github.io](https://github.com/Hainanu-Application/Hainanu-Application.github.io/compare/ed81046c71...37b53398d2) |
 <!-- END_SECTION:github -->
 
 </td>
