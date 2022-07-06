@@ -70,11 +70,11 @@
 <!-- START_SECTION:github -->
 | Date | Title |
 | :-: | :---: |
-| 2022-07-06 | starred ⭐ [danieljf24/awesome-video-text-retrieval](https://github.com/danieljf24/awesome-video-text-retrieval) |
-| 2022-07-05 | pushed to dev/v0.7.0 in 📌 [FedML-AI/FedML](https://github.com/FedML-AI/FedML/compare/c7d615ff1b...1eb2b5da69) |
-| 2022-07-05 | starred ⭐ [stratosphereips/awesome-ml-privacy-attacks](https://github.com/stratosphereips/awesome-ml-privacy-attacks) |
-| 2022-07-05 | starred ⭐ [secretflow/secretflow](https://github.com/secretflow/secretflow) |
-| 2022-07-05 | starred ⭐ [beiyuouo/awesome-asynchronous-federated-learning](https://github.com/beiyuouo/awesome-asynchronous-federated-learning) |
+| 2022-07-06 | pushed to main in 📌 [beiyuouo/beiyuouo](https://github.com/beiyuouo/beiyuouo/compare/7e47dfeb2d...d4f1dffd71) |
+| 2022-07-06 | starred ⭐ [geektutu/7days-golang](https://github.com/geektutu/7days-golang) |
+| 2022-07-06 | starred ⭐ [coderit666/GoGuide](https://github.com/coderit666/GoGuide) |
+| 2022-07-06 | pushed to gh-pages in 📌 [RobAI-Lab/hainanu-course-comments](https://github.com/RobAI-Lab/hainanu-course-comments/compare/e559895254...0ee1813260) |
+| 2022-07-06 | pushed to main in 📌 [beiyuouo/hainanu-course-comments](https://github.com/beiyuouo/hainanu-course-comments/compare/409b380d4b...baeea17d57) |
 <!-- END_SECTION:github -->
 
 </td>
