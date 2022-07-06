@@ -70,11 +70,11 @@
 <!-- START_SECTION:github -->
 | Date | Title |
 | :-: | :---: |
-| 2022-07-04 | starred ⭐ [fedsim-dev/fedsim](https://github.com/fedsim-dev/fedsim) |
-| 2022-07-04 | starred ⭐ [beiyuouo/fedhf](https://github.com/beiyuouo/fedhf) |
-| 2022-07-04 | pushed to dev/v0.7.0 in 📌 [FedML-AI/FedML](https://github.com/FedML-AI/FedML/compare/40b8c8e161...b95e34cdce) |
-| 2022-07-04 | pushed to dev/v0.7.0 in 📌 [FedML-AI/FedML](https://github.com/FedML-AI/FedML/compare/cee23bc016...40b8c8e161) |
-| 2022-07-04 | pushed to main in 📌 [Hainanu-Application/Hainanu-Application.github.io](https://github.com/Hainanu-Application/Hainanu-Application.github.io/compare/ed81046c71...37b53398d2) |
+| 2022-07-06 | starred ⭐ [danieljf24/awesome-video-text-retrieval](https://github.com/danieljf24/awesome-video-text-retrieval) |
+| 2022-07-05 | pushed to dev/v0.7.0 in 📌 [FedML-AI/FedML](https://github.com/FedML-AI/FedML/compare/c7d615ff1b...1eb2b5da69) |
+| 2022-07-05 | starred ⭐ [stratosphereips/awesome-ml-privacy-attacks](https://github.com/stratosphereips/awesome-ml-privacy-attacks) |
+| 2022-07-05 | starred ⭐ [secretflow/secretflow](https://github.com/secretflow/secretflow) |
+| 2022-07-05 | starred ⭐ [beiyuouo/awesome-asynchronous-federated-learning](https://github.com/beiyuouo/awesome-asynchronous-federated-learning) |
 <!-- END_SECTION:github -->
 
 </td>
