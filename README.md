@@ -70,11 +70,11 @@
 <!-- START_SECTION:github -->
 | Date | Title |
 | :-: | :---: |
+| 2022-07-07 | pushed to master in 📌 [beiyuouo/beiyuouo.github.io](https://github.com/beiyuouo/beiyuouo.github.io/compare/277a71fb12...b189db3bb7) |
+| 2022-07-07 | starred ⭐ [WongKinYiu/yolov7](https://github.com/WongKinYiu/yolov7) |
+| 2022-07-07 | starred ⭐ [wizard1203/VHL](https://github.com/wizard1203/VHL) |
 | 2022-07-06 | pushed to main in 📌 [beiyuouo/blog](https://github.com/beiyuouo/blog/compare/e9bd1d7882...a593cf9780) |
 | 2022-07-06 | pushed to main in 📌 [beiyuouo/beiyuouo](https://github.com/beiyuouo/beiyuouo/compare/f3dcc8b285...8a5664e1eb) |
-| 2022-07-06 | pushed to main in 📌 [beiyuouo/beiyuouo](https://github.com/beiyuouo/beiyuouo/compare/7e47dfeb2d...d4f1dffd71) |
-| 2022-07-06 | starred ⭐ [geektutu/7days-golang](https://github.com/geektutu/7days-golang) |
-| 2022-07-06 | starred ⭐ [coderit666/GoGuide](https://github.com/coderit666/GoGuide) |
 <!-- END_SECTION:github -->
 
 </td>
