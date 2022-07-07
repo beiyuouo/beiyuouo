@@ -70,11 +70,11 @@
 <!-- START_SECTION:github -->
 | Date | Title |
 | :-: | :---: |
+| 2022-07-07 | pushed to master in 📌 [beiyuouo/beiyuouo.github.io](https://github.com/beiyuouo/beiyuouo.github.io/compare/33f2025c9b...f0b56d0bc3) |
+| 2022-07-07 | pushed to master in 📌 [beiyuouo/beiyuouo.github.io](https://github.com/beiyuouo/beiyuouo.github.io/compare/b189db3bb7...33f2025c9b) |
+| 2022-07-07 | pushed to main in 📌 [beiyuouo/beiyuouo](https://github.com/beiyuouo/beiyuouo/compare/a1e46bb2e7...c7695412e7) |
 | 2022-07-07 | pushed to master in 📌 [beiyuouo/beiyuouo.github.io](https://github.com/beiyuouo/beiyuouo.github.io/compare/277a71fb12...b189db3bb7) |
 | 2022-07-07 | starred ⭐ [WongKinYiu/yolov7](https://github.com/WongKinYiu/yolov7) |
-| 2022-07-07 | starred ⭐ [wizard1203/VHL](https://github.com/wizard1203/VHL) |
-| 2022-07-06 | pushed to main in 📌 [beiyuouo/blog](https://github.com/beiyuouo/blog/compare/e9bd1d7882...a593cf9780) |
-| 2022-07-06 | pushed to main in 📌 [beiyuouo/beiyuouo](https://github.com/beiyuouo/beiyuouo/compare/f3dcc8b285...8a5664e1eb) |
 <!-- END_SECTION:github -->
 
 </td>
