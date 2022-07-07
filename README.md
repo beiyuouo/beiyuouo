@@ -22,8 +22,8 @@
 <!-- languages:start -->
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
-- 🔭 I’m an undergraduate student in [**@Hainan University**](https://www.hainanu.edu.cn/).
-- 🌱 My research interests focus on Federated Learning and Private Computing.
+- 🔭 I’m an postgraduate student in [**@ICT.CAS**](http://www.ict.cas.cn/).
+- 🌱 My current research interests are focus on federated learning, edge computing, and distributed systems.
 - 📫 You can reach me at [bj.yan.pa@qq.com](mailto:bj.yan.pa@qq.com).
 - 🎨 I am glad to share and communicate with you.
 - ❤️ Love pixel art and AI for art.
