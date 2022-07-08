@@ -41,10 +41,10 @@
 | Date | Title |
 | :-: | :---: |
 | 2021-10-16 | <a href='https://blog.bj-yan.top/p/readme/' target='_blank'>README</a> |
+| 2022-07-06 | <a href='https://blog.bj-yan.top/p/misc-20220706/' target='_blank'>近日有感 - 20220706</a> |
 | 2022-06-13 | <a href='https://blog.bj-yan.top/p/misc-good-bye-hainan/' target='_blank'>别了，我的小岛</a> |
 | 2022-06-10 | <a href='https://blog.bj-yan.top/p/blog-hcaptcha-test-time-augmentation-and-model-attack-defense/' target='_blank'>Test Time Augmentation and Model Attack & Defense</a> |
 | 2022-05-17 | <a href='https://blog.bj-yan.top/p/blog-project-ezkfg/' target='_blank'>Project: 🍕 Easy Configuration(ezkfg)</a> |
-| 2022-05-12 | <a href='https://blog.bj-yan.top/p/blog-some-thoughts-on-schedule-management-software/' target='_blank'>Some Thoughts on Schedule Management Software</a> |
 <!-- END_SECTION:blog -->
 </td>
 <td valign="top" width="50%">
@@ -70,11 +70,11 @@
 <!-- START_SECTION:github -->
 | Date | Title |
 | :-: | :---: |
+| 2022-07-08 | starred ⭐ [txz741/UCAS-Course](https://github.com/txz741/UCAS-Course) |
+| 2022-07-07 | starred ⭐ [Java-S12138/frank](https://github.com/Java-S12138/frank) |
+| 2022-07-07 | pushed to main in 📌 [beiyuouo/blog](https://github.com/beiyuouo/blog/compare/a593cf9780...986ea9828f) |
+| 2022-07-07 | pushed to main in 📌 [beiyuouo/beiyuouo](https://github.com/beiyuouo/beiyuouo/compare/f8dc46b258...3bb0b990cd) |
 | 2022-07-07 | pushed to master in 📌 [beiyuouo/beiyuouo.github.io](https://github.com/beiyuouo/beiyuouo.github.io/compare/33f2025c9b...f0b56d0bc3) |
-| 2022-07-07 | pushed to master in 📌 [beiyuouo/beiyuouo.github.io](https://github.com/beiyuouo/beiyuouo.github.io/compare/b189db3bb7...33f2025c9b) |
-| 2022-07-07 | pushed to main in 📌 [beiyuouo/beiyuouo](https://github.com/beiyuouo/beiyuouo/compare/a1e46bb2e7...c7695412e7) |
-| 2022-07-07 | pushed to master in 📌 [beiyuouo/beiyuouo.github.io](https://github.com/beiyuouo/beiyuouo.github.io/compare/277a71fb12...b189db3bb7) |
-| 2022-07-07 | starred ⭐ [WongKinYiu/yolov7](https://github.com/WongKinYiu/yolov7) |
 <!-- END_SECTION:github -->
 
 </td>
