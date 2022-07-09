@@ -70,11 +70,11 @@
 <!-- START_SECTION:github -->
 | Date | Title |
 | :-: | :---: |
+| 2022-07-08 | starred ⭐ [EasyFL-AI/EasyFL](https://github.com/EasyFL-AI/EasyFL) |
+| 2022-07-08 | starred ⭐ [nolar/kopf](https://github.com/nolar/kopf) |
+| 2022-07-08 | pushed to main in 📌 [beiyuouo/awesome-asynchronous-federated-learning](https://github.com/beiyuouo/awesome-asynchronous-federated-learning/compare/64e19b1aff...51b7cd1447) |
+| 2022-07-08 | pushed to dev/v0.7.0 in 📌 [FedML-AI/FedML](https://github.com/FedML-AI/FedML/compare/90dbc5d61b...8845559787) |
 | 2022-07-08 | starred ⭐ [txz741/UCAS-Course](https://github.com/txz741/UCAS-Course) |
-| 2022-07-07 | starred ⭐ [Java-S12138/frank](https://github.com/Java-S12138/frank) |
-| 2022-07-07 | pushed to main in 📌 [beiyuouo/blog](https://github.com/beiyuouo/blog/compare/a593cf9780...986ea9828f) |
-| 2022-07-07 | pushed to main in 📌 [beiyuouo/beiyuouo](https://github.com/beiyuouo/beiyuouo/compare/f8dc46b258...3bb0b990cd) |
-| 2022-07-07 | pushed to master in 📌 [beiyuouo/beiyuouo.github.io](https://github.com/beiyuouo/beiyuouo.github.io/compare/33f2025c9b...f0b56d0bc3) |
 <!-- END_SECTION:github -->
 
 </td>
