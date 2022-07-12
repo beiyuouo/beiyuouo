@@ -70,11 +70,11 @@
 <!-- START_SECTION:github -->
 | Date | Title |
 | :-: | :---: |
-| 2022-07-10 | pushed to master in 📌 [beiyuouo/beiyuouo.github.io](https://github.com/beiyuouo/beiyuouo.github.io/compare/1ddc167cd1...19283c9543) |
-| 2022-07-10 | pushed to master in 📌 [beiyuouo/beiyuouo.github.io](https://github.com/beiyuouo/beiyuouo.github.io/compare/17b9e635d7...1ddc167cd1) |
-| 2022-07-10 | pushed to master in 📌 [beiyuouo/beiyuouo.github.io](https://github.com/beiyuouo/beiyuouo.github.io/compare/c69217d3f7...17b9e635d7) |
-| 2022-07-09 | pushed to master in 📌 [beiyuouo/beiyuouo.github.io](https://github.com/beiyuouo/beiyuouo.github.io/compare/8f6e9db26f...c69217d3f7) |
-| 2022-07-09 | pushed to master in 📌 [beiyuouo/beiyuouo.github.io](https://github.com/beiyuouo/beiyuouo.github.io/compare/4e7e976dce...8f6e9db26f) |
+| 2022-07-12 | pushed to gh-pages in 📌 [RobAI-Lab/hainanu-course-comments](https://github.com/RobAI-Lab/hainanu-course-comments/compare/0ee1813260...b17f8d96d4) |
+| 2022-07-12 | pushed to main in 📌 [beiyuouo/hainanu-course-comments](https://github.com/beiyuouo/hainanu-course-comments/compare/baeea17d57...010717c12a) |
+| 2022-07-12 | merged a pull request in 📦 [beiyuouo/hainanu-course-comments](https://github.com/beiyuouo/hainanu-course-comments/pull/11) |
+| 2022-07-11 | starred ⭐ [facebookresearch/metaseq](https://github.com/facebookresearch/metaseq) |
+| 2022-07-11 | starred ⭐ [Tremb1e/ucas_ipv6_bypass](https://github.com/Tremb1e/ucas_ipv6_bypass) |
 <!-- END_SECTION:github -->
 
 </td>
