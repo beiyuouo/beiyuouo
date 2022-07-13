@@ -70,11 +70,11 @@
 <!-- START_SECTION:github -->
 | Date | Title |
 | :-: | :---: |
-| 2022-07-12 | pushed to gh-pages in 📌 [RobAI-Lab/hainanu-course-comments](https://github.com/RobAI-Lab/hainanu-course-comments/compare/0ee1813260...b17f8d96d4) |
-| 2022-07-12 | pushed to main in 📌 [beiyuouo/hainanu-course-comments](https://github.com/beiyuouo/hainanu-course-comments/compare/baeea17d57...010717c12a) |
-| 2022-07-12 | merged a pull request in 📦 [beiyuouo/hainanu-course-comments](https://github.com/beiyuouo/hainanu-course-comments/pull/11) |
-| 2022-07-11 | starred ⭐ [facebookresearch/metaseq](https://github.com/facebookresearch/metaseq) |
-| 2022-07-11 | starred ⭐ [Tremb1e/ucas_ipv6_bypass](https://github.com/Tremb1e/ucas_ipv6_bypass) |
+| 2022-07-12 | deleted branch LightChen233-main at 🗑 [MLNLP-World/AI-Paper-Collector](https://github.com/) |
+| 2022-07-12 | starred ⭐ [apple/ml-flair](https://github.com/apple/ml-flair) |
+| 2022-07-12 | starred ⭐ [zjukg/FedE](https://github.com/zjukg/FedE) |
+| 2022-07-12 | starred ⭐ [zjukg/MaKEr](https://github.com/zjukg/MaKEr) |
+| 2022-07-12 | starred ⭐ [AnselCmy/FedE](https://github.com/AnselCmy/FedE) |
 <!-- END_SECTION:github -->
 
 </td>
