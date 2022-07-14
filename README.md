@@ -70,11 +70,11 @@
 <!-- START_SECTION:github -->
 | Date | Title |
 | :-: | :---: |
-| 2022-07-12 | deleted branch LightChen233-main at 🗑 [MLNLP-World/AI-Paper-Collector](https://github.com/) |
-| 2022-07-12 | starred ⭐ [apple/ml-flair](https://github.com/apple/ml-flair) |
-| 2022-07-12 | starred ⭐ [zjukg/FedE](https://github.com/zjukg/FedE) |
-| 2022-07-12 | starred ⭐ [zjukg/MaKEr](https://github.com/zjukg/MaKEr) |
-| 2022-07-12 | starred ⭐ [AnselCmy/FedE](https://github.com/AnselCmy/FedE) |
+| 2022-07-14 | pushed to dev/v0.7.0 in 📌 [FedML-AI/FedML](https://github.com/FedML-AI/FedML/compare/2e9a819ffb...c82a5cb068) |
+| 2022-07-13 | starred ⭐ [hpcaitech/ColossalAI](https://github.com/hpcaitech/ColossalAI) |
+| 2022-07-13 | pushed to dev/v0.7.0 in 📌 [FedML-AI/FedML](https://github.com/FedML-AI/FedML/compare/ca95fb6079...f118656535) |
+| 2022-07-13 | starred ⭐ [unifyai/ivy](https://github.com/unifyai/ivy) |
+| 2022-07-13 | pushed to master in 📌 [beiyuouo/beiyuouo.github.io](https://github.com/beiyuouo/beiyuouo.github.io/compare/19283c9543...e5dac7f1b7) |
 <!-- END_SECTION:github -->
 
 </td>
