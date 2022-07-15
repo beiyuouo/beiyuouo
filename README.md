@@ -70,11 +70,11 @@
 <!-- START_SECTION:github -->
 | Date | Title |
 | :-: | :---: |
-| 2022-07-14 | pushed to dev/v0.7.0 in 📌 [FedML-AI/FedML](https://github.com/FedML-AI/FedML/compare/2e9a819ffb...c82a5cb068) |
-| 2022-07-13 | starred ⭐ [hpcaitech/ColossalAI](https://github.com/hpcaitech/ColossalAI) |
-| 2022-07-13 | pushed to dev/v0.7.0 in 📌 [FedML-AI/FedML](https://github.com/FedML-AI/FedML/compare/ca95fb6079...f118656535) |
-| 2022-07-13 | starred ⭐ [unifyai/ivy](https://github.com/unifyai/ivy) |
-| 2022-07-13 | pushed to master in 📌 [beiyuouo/beiyuouo.github.io](https://github.com/beiyuouo/beiyuouo.github.io/compare/19283c9543...e5dac7f1b7) |
+| 2022-07-15 | starred ⭐ [ebagdasa/backdoor_federated_learning](https://github.com/ebagdasa/backdoor_federated_learning) |
+| 2022-07-14 | pushed to main in 📌 [beiyuouo/hcaptcha-model-factory](https://github.com/beiyuouo/hcaptcha-model-factory/compare/d2f537ddb0...7d13704ffc) |
+| 2022-07-14 | edited a wiki page in  [beiyuouo/hcaptcha-model-factory](https://github.com/beiyuouo/hcaptcha-model-factory/wiki/Home) |
+| 2022-07-14 | pushed to main in 📌 [beiyuouo/hcaptcha-model-factory](https://github.com/beiyuouo/hcaptcha-model-factory/compare/6bbce454ce...d2f537ddb0) |
+| 2022-07-14 | created a tag v0.0.2 in 📁 [beiyuouo/ezkfg](https://github.com/beiyuouo/ezkfg/tree/v0.0.2) |
 <!-- END_SECTION:github -->
 
 </td>
