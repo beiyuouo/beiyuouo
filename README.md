@@ -70,11 +70,11 @@
 <!-- START_SECTION:github -->
 | Date | Title |
 | :-: | :---: |
-| 2022-07-15 | starred ⭐ [ebagdasa/backdoor_federated_learning](https://github.com/ebagdasa/backdoor_federated_learning) |
-| 2022-07-14 | pushed to main in 📌 [beiyuouo/hcaptcha-model-factory](https://github.com/beiyuouo/hcaptcha-model-factory/compare/d2f537ddb0...7d13704ffc) |
-| 2022-07-14 | edited a wiki page in  [beiyuouo/hcaptcha-model-factory](https://github.com/beiyuouo/hcaptcha-model-factory/wiki/Home) |
-| 2022-07-14 | pushed to main in 📌 [beiyuouo/hcaptcha-model-factory](https://github.com/beiyuouo/hcaptcha-model-factory/compare/6bbce454ce...d2f537ddb0) |
-| 2022-07-14 | created a tag v0.0.2 in 📁 [beiyuouo/ezkfg](https://github.com/beiyuouo/ezkfg/tree/v0.0.2) |
+| 2022-07-16 | pushed to dev/v0.7.0 in 📌 [beiyuouo/FedML](https://github.com/beiyuouo/FedML/compare/6b34fe5c74...42bfd371b1) |
+| 2022-07-16 | opened a pull request in 📦 [FedML-AI/FedML](https://github.com/FedML-AI/FedML/pull/373) |
+| 2022-07-16 | pushed to dev/v0.7.0 in 📌 [beiyuouo/FedML](https://github.com/beiyuouo/FedML/compare/077b68fe32...6b34fe5c74) |
+| 2022-07-16 | forked beiyuouo/FedML from 🍴 [FedML-AI/FedML](https://github.com/beiyuouo/FedML) |
+| 2022-07-15 | pushed to dev/v0.7.0 in 📌 [FedML-AI/FedML](https://github.com/FedML-AI/FedML/compare/832356630c...003b85cef5) |
 <!-- END_SECTION:github -->
 
 </td>
