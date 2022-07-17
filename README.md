@@ -70,11 +70,11 @@
 <!-- START_SECTION:github -->
 | Date | Title |
 | :-: | :---: |
-| 2022-07-16 | pushed to dev/v0.7.0 in 📌 [beiyuouo/FedML](https://github.com/beiyuouo/FedML/compare/6b34fe5c74...42bfd371b1) |
-| 2022-07-16 | opened a pull request in 📦 [FedML-AI/FedML](https://github.com/FedML-AI/FedML/pull/373) |
-| 2022-07-16 | pushed to dev/v0.7.0 in 📌 [beiyuouo/FedML](https://github.com/beiyuouo/FedML/compare/077b68fe32...6b34fe5c74) |
-| 2022-07-16 | forked beiyuouo/FedML from 🍴 [FedML-AI/FedML](https://github.com/beiyuouo/FedML) |
-| 2022-07-15 | pushed to dev/v0.7.0 in 📌 [FedML-AI/FedML](https://github.com/FedML-AI/FedML/compare/832356630c...003b85cef5) |
+| 2022-07-16 | pushed to main in 📌 [beiyuouo/ezkfg](https://github.com/beiyuouo/ezkfg/compare/dd7257a1b2...a71d8c26a0) |
+| 2022-07-16 | pushed to dev in 📌 [beiyuouo/fedhf](https://github.com/beiyuouo/fedhf/compare/ea5c7eca8b...85365356c0) |
+| 2022-07-16 | pushed to dev in 📌 [beiyuouo/fedhf](https://github.com/beiyuouo/fedhf/compare/d277dbefda...ea5c7eca8b) |
+| 2022-07-16 | pushed to dev in 📌 [beiyuouo/fedhf](https://github.com/beiyuouo/fedhf/compare/a99908641e...d277dbefda) |
+| 2022-07-16 | pushed to dev in 📌 [beiyuouo/fedhf](https://github.com/beiyuouo/fedhf/compare/e13eb21200...a99908641e) |
 <!-- END_SECTION:github -->
 
 </td>
