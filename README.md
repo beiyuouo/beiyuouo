@@ -70,11 +70,11 @@
 <!-- START_SECTION:github -->
 | Date | Title |
 | :-: | :---: |
-| 2022-07-16 | pushed to main in 📌 [beiyuouo/ezkfg](https://github.com/beiyuouo/ezkfg/compare/dd7257a1b2...a71d8c26a0) |
-| 2022-07-16 | pushed to dev in 📌 [beiyuouo/fedhf](https://github.com/beiyuouo/fedhf/compare/ea5c7eca8b...85365356c0) |
-| 2022-07-16 | pushed to dev in 📌 [beiyuouo/fedhf](https://github.com/beiyuouo/fedhf/compare/d277dbefda...ea5c7eca8b) |
-| 2022-07-16 | pushed to dev in 📌 [beiyuouo/fedhf](https://github.com/beiyuouo/fedhf/compare/a99908641e...d277dbefda) |
-| 2022-07-16 | pushed to dev in 📌 [beiyuouo/fedhf](https://github.com/beiyuouo/fedhf/compare/e13eb21200...a99908641e) |
+| 2022-07-18 | starred ⭐ [zhjohnchan/awesome-vision-and-language-pretraining](https://github.com/zhjohnchan/awesome-vision-and-language-pretraining) |
+| 2022-07-18 | starred ⭐ [zhjohnchan/awesome-image-captioning](https://github.com/zhjohnchan/awesome-image-captioning) |
+| 2022-07-18 | starred ⭐ [facundoolano/software-papers](https://github.com/facundoolano/software-papers) |
+| 2022-07-17 | pushed to dev in 📌 [beiyuouo/fedhf](https://github.com/beiyuouo/fedhf/compare/1a848cae29...11300e224f) |
+| 2022-07-17 | pushed to main in 📌 [beiyuouo/fedhf](https://github.com/beiyuouo/fedhf/compare/0caa873a5d...34bab850ff) |
 <!-- END_SECTION:github -->
 
 </td>
