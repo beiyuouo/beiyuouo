@@ -70,11 +70,11 @@
 <!-- START_SECTION:github -->
 | Date | Title |
 | :-: | :---: |
-| 2022-07-18 | starred ⭐ [zhjohnchan/awesome-vision-and-language-pretraining](https://github.com/zhjohnchan/awesome-vision-and-language-pretraining) |
-| 2022-07-18 | starred ⭐ [zhjohnchan/awesome-image-captioning](https://github.com/zhjohnchan/awesome-image-captioning) |
-| 2022-07-18 | starred ⭐ [facundoolano/software-papers](https://github.com/facundoolano/software-papers) |
-| 2022-07-17 | pushed to dev in 📌 [beiyuouo/fedhf](https://github.com/beiyuouo/fedhf/compare/1a848cae29...11300e224f) |
-| 2022-07-17 | pushed to main in 📌 [beiyuouo/fedhf](https://github.com/beiyuouo/fedhf/compare/0caa873a5d...34bab850ff) |
+| 2022-07-18 | starred ⭐ [jindongwang/tlbook-code](https://github.com/jindongwang/tlbook-code) |
+| 2022-07-18 | pushed to main in 📌 [beiyuouo/ezkfg](https://github.com/beiyuouo/ezkfg/compare/cfcc0d2c9f...00e685020e) |
+| 2022-07-18 | starred ⭐ [microsoft/PersonalizedFL](https://github.com/microsoft/PersonalizedFL) |
+| 2022-07-18 | starred ⭐ [computationalpathologygroup/ASAP](https://github.com/computationalpathologygroup/ASAP) |
+| 2022-07-18 | pushed to dev/v0.7.0 in 📌 [FedML-AI/FedML](https://github.com/FedML-AI/FedML/compare/39b69ec460...593cc687a3) |
 <!-- END_SECTION:github -->
 
 </td>
