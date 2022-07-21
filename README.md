@@ -70,11 +70,11 @@
 <!-- START_SECTION:github -->
 | Date | Title |
 | :-: | :---: |
-| 2022-07-20 | pushed to dev/v0.7.0 in 📌 [FedML-AI/FedML](https://github.com/FedML-AI/FedML/compare/b7045534e2...75d56111ee) |
-| 2022-07-20 | pushed to dev/v0.7.0 in 📌 [FedML-AI/FedML](https://github.com/FedML-AI/FedML/compare/28d2930f09...b7045534e2) |
-| 2022-07-20 | pushed to dev/v0.7.0 in 📌 [FedML-AI/FedML](https://github.com/FedML-AI/FedML/compare/c8cb0552fc...28d2930f09) |
-| 2022-07-20 | pushed to dev/v0.7.0 in 📌 [FedML-AI/FedML](https://github.com/FedML-AI/FedML/compare/74e81f0a79...c8cb0552fc) |
-| 2022-07-20 | pushed to dev/v0.7.0 in 📌 [FedML-AI/FedML](https://github.com/FedML-AI/FedML/compare/7147bbd8c6...74e81f0a79) |
+| 2022-07-20 | starred ⭐ [zewei-long/fedcon-pytorch](https://github.com/zewei-long/fedcon-pytorch) |
+| 2022-07-20 | opened a pull request in 📦 [FedML-AI/FedML_Quick_Start](https://github.com/FedML-AI/FedML_Quick_Start/pull/2) |
+| 2022-07-20 | pushed to main in 📌 [beiyuouo/FedML_Quick_Start](https://github.com/beiyuouo/FedML_Quick_Start/compare/30fba93226...d8761abca5) |
+| 2022-07-20 | pushed to main in 📌 [beiyuouo/FedML_Quick_Start](https://github.com/beiyuouo/FedML_Quick_Start/compare/9a74951f59...30fba93226) |
+| 2022-07-20 | pushed to dev/v0.7.0 in 📌 [FedML-AI/FedML](https://github.com/FedML-AI/FedML/compare/6ab342375b...dc54b3bd9b) |
 <!-- END_SECTION:github -->
 
 </td>
