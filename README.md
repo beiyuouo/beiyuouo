@@ -70,11 +70,11 @@
 <!-- START_SECTION:github -->
 | Date | Title |
 | :-: | :---: |
-| 2022-07-20 | starred ⭐ [zewei-long/fedcon-pytorch](https://github.com/zewei-long/fedcon-pytorch) |
-| 2022-07-20 | opened a pull request in 📦 [FedML-AI/FedML_Quick_Start](https://github.com/FedML-AI/FedML_Quick_Start/pull/2) |
-| 2022-07-20 | pushed to main in 📌 [beiyuouo/FedML_Quick_Start](https://github.com/beiyuouo/FedML_Quick_Start/compare/30fba93226...d8761abca5) |
-| 2022-07-20 | pushed to main in 📌 [beiyuouo/FedML_Quick_Start](https://github.com/beiyuouo/FedML_Quick_Start/compare/9a74951f59...30fba93226) |
-| 2022-07-20 | pushed to dev/v0.7.0 in 📌 [FedML-AI/FedML](https://github.com/FedML-AI/FedML/compare/6ab342375b...dc54b3bd9b) |
+| 2022-07-21 | pushed to main in 📌 [beiyuouo/hcaptcha-model-factory](https://github.com/beiyuouo/hcaptcha-model-factory/compare/fa01f3169c...8f50e530e1) |
+| 2022-07-21 | pushed to dev in 📌 [beiyuouo/fedhf](https://github.com/beiyuouo/fedhf/compare/11300e224f...bfbf0a2975) |
+| 2022-07-21 | pushed to main in 📌 [beiyuouo/ezkfg](https://github.com/beiyuouo/ezkfg/compare/00e685020e...26ab203315) |
+| 2022-07-21 | pushed to main in 📌 [beiyuouo/hcaptcha-model-factory](https://github.com/beiyuouo/hcaptcha-model-factory/compare/7d13704ffc...fa01f3169c) |
+| 2022-07-21 | pushed to dev/v0.7.0 in 📌 [FedML-AI/FedML](https://github.com/FedML-AI/FedML/compare/cd0a2da3bf...c5e032fbd9) |
 <!-- END_SECTION:github -->
 
 </td>
