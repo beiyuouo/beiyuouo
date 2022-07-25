@@ -70,11 +70,11 @@
 <!-- START_SECTION:github -->
 | Date | Title |
 | :-: | :---: |
+| 2022-07-24 | pushed to main in 📌 [beiyuouo/ezkfg](https://github.com/beiyuouo/ezkfg/compare/26ab203315...42e76fea0a) |
+| 2022-07-24 | pushed to dev in 📌 [beiyuouo/fedhf](https://github.com/beiyuouo/fedhf/compare/bfbf0a2975...a0b810de13) |
 | 2022-07-22 | pushed to main in 📌 [beiyuouo/beiyuouo](https://github.com/beiyuouo/beiyuouo/compare/32ea02d23c...192b83d94a) |
 | 2022-07-22 | starred ⭐ [NVlabs/eg3d](https://github.com/NVlabs/eg3d) |
 | 2022-07-22 | starred ⭐ [liuquande/FedDG-ELCFS](https://github.com/liuquande/FedDG-ELCFS) |
-| 2022-07-22 | commented on issue 💬 [FedML-AI/FedML#402](https://github.com/FedML-AI/FedML/issues/402#issuecomment-1192576519) |
-| 2022-07-22 | pushed to main in 📌 [QIN2DIM/hcaptcha-challenger](https://github.com/QIN2DIM/hcaptcha-challenger/compare/45b00d414d...82619e3970) |
 <!-- END_SECTION:github -->
 
 </td>
