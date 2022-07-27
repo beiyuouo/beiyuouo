@@ -70,11 +70,11 @@
 <!-- START_SECTION:github -->
 | Date | Title |
 | :-: | :---: |
+| 2022-07-26 | pushed to dev/v0.7.0 in 📌 [FedML-AI/FedML](https://github.com/FedML-AI/FedML/compare/f01b2c2cbf...4d486736e4) |
+| 2022-07-26 | pushed to dev/v0.7.0 in 📌 [FedML-AI/FedML](https://github.com/FedML-AI/FedML/compare/15663fb4e2...f01b2c2cbf) |
 | 2022-07-25 | commented on issue 💬 [FedML-AI/FedML#402](https://github.com/FedML-AI/FedML/issues/402#issuecomment-1193942601) |
 | 2022-07-25 | commented on issue 💬 [FedML-AI/FedML#399](https://github.com/FedML-AI/FedML/issues/399#issuecomment-1193942387) |
 | 2022-07-25 | pushed to dev/v0.7.0 in 📌 [FedML-AI/FedML](https://github.com/FedML-AI/FedML/compare/498fa357ee...2743c592f5) |
-| 2022-07-24 | pushed to main in 📌 [beiyuouo/ezkfg](https://github.com/beiyuouo/ezkfg/compare/26ab203315...42e76fea0a) |
-| 2022-07-24 | pushed to dev in 📌 [beiyuouo/fedhf](https://github.com/beiyuouo/fedhf/compare/bfbf0a2975...a0b810de13) |
 <!-- END_SECTION:github -->
 
 </td>
