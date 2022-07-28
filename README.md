@@ -70,11 +70,11 @@
 <!-- START_SECTION:github -->
 | Date | Title |
 | :-: | :---: |
-| 2022-07-26 | pushed to dev/v0.7.0 in 📌 [FedML-AI/FedML](https://github.com/FedML-AI/FedML/compare/f01b2c2cbf...4d486736e4) |
-| 2022-07-26 | pushed to dev/v0.7.0 in 📌 [FedML-AI/FedML](https://github.com/FedML-AI/FedML/compare/15663fb4e2...f01b2c2cbf) |
-| 2022-07-25 | commented on issue 💬 [FedML-AI/FedML#402](https://github.com/FedML-AI/FedML/issues/402#issuecomment-1193942601) |
-| 2022-07-25 | commented on issue 💬 [FedML-AI/FedML#399](https://github.com/FedML-AI/FedML/issues/399#issuecomment-1193942387) |
-| 2022-07-25 | pushed to dev/v0.7.0 in 📌 [FedML-AI/FedML](https://github.com/FedML-AI/FedML/compare/498fa357ee...2743c592f5) |
+| 2022-07-28 | pushed to dev/v0.7.0 in 📌 [FedML-AI/FedML](https://github.com/FedML-AI/FedML/compare/3d639e46df...31dea5c1e7) |
+| 2022-07-28 | pushed to dev/v0.7.0 in 📌 [FedML-AI/FedML](https://github.com/FedML-AI/FedML/compare/0895f9ea13...3d639e46df) |
+| 2022-07-27 | pushed to dev/v0.7.0 in 📌 [FedML-AI/FedML](https://github.com/FedML-AI/FedML/compare/5e9703f599...4ebe0833cb) |
+| 2022-07-27 | starred ⭐ [facebookresearch/SecureFLCompression](https://github.com/facebookresearch/SecureFLCompression) |
+| 2022-07-27 | starred ⭐ [wvangansbeke/MaskDistill](https://github.com/wvangansbeke/MaskDistill) |
 <!-- END_SECTION:github -->
 
 </td>
