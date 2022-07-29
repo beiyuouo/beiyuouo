@@ -70,11 +70,11 @@
 <!-- START_SECTION:github -->
 | Date | Title |
 | :-: | :---: |
-| 2022-07-28 | pushed to dev/v0.7.0 in 📌 [FedML-AI/FedML](https://github.com/FedML-AI/FedML/compare/3d639e46df...31dea5c1e7) |
-| 2022-07-28 | pushed to dev/v0.7.0 in 📌 [FedML-AI/FedML](https://github.com/FedML-AI/FedML/compare/0895f9ea13...3d639e46df) |
-| 2022-07-27 | pushed to dev/v0.7.0 in 📌 [FedML-AI/FedML](https://github.com/FedML-AI/FedML/compare/5e9703f599...4ebe0833cb) |
-| 2022-07-27 | starred ⭐ [facebookresearch/SecureFLCompression](https://github.com/facebookresearch/SecureFLCompression) |
-| 2022-07-27 | starred ⭐ [wvangansbeke/MaskDistill](https://github.com/wvangansbeke/MaskDistill) |
+| 2022-07-28 | pushed to dev/v0.7.0 in 📌 [FedML-AI/FedML](https://github.com/FedML-AI/FedML/compare/f8f5038e05...3bf71951f0) |
+| 2022-07-28 | starred ⭐ [carbon-language/carbon-lang](https://github.com/carbon-language/carbon-lang) |
+| 2022-07-28 | starred ⭐ [MIC-DKFZ/nnUNet](https://github.com/MIC-DKFZ/nnUNet) |
+| 2022-07-28 | starred ⭐ [jinfagang/AI-Infer-Engine-From-Zero](https://github.com/jinfagang/AI-Infer-Engine-From-Zero) |
+| 2022-07-28 | pushed to master in 📌 [beiyuouo/FedML](https://github.com/beiyuouo/FedML/compare/fc2bd3c642...d0ca97589d) |
 <!-- END_SECTION:github -->
 
 </td>
