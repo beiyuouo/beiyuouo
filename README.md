@@ -70,11 +70,11 @@
 <!-- START_SECTION:github -->
 | Date | Title |
 | :-: | :---: |
+| 2022-07-29 | closed an issue in 📝 [beiyuouo/hcaptcha-model-factory](https://github.com/beiyuouo/hcaptcha-model-factory/issues/2) |
+| 2022-07-29 | commented on issue 💬 [beiyuouo/hcaptcha-model-factory#2](https://github.com/beiyuouo/hcaptcha-model-factory/issues/2#issuecomment-1199062382) |
+| 2022-07-29 | pushed to main in 📌 [beiyuouo/hcaptcha-model-factory](https://github.com/beiyuouo/hcaptcha-model-factory/compare/d8f3a89e6b...bff53170b8) |
 | 2022-07-28 | pushed to dev/v0.7.0 in 📌 [FedML-AI/FedML](https://github.com/FedML-AI/FedML/compare/f8f5038e05...3bf71951f0) |
 | 2022-07-28 | starred ⭐ [carbon-language/carbon-lang](https://github.com/carbon-language/carbon-lang) |
-| 2022-07-28 | starred ⭐ [MIC-DKFZ/nnUNet](https://github.com/MIC-DKFZ/nnUNet) |
-| 2022-07-28 | starred ⭐ [jinfagang/AI-Infer-Engine-From-Zero](https://github.com/jinfagang/AI-Infer-Engine-From-Zero) |
-| 2022-07-28 | pushed to master in 📌 [beiyuouo/FedML](https://github.com/beiyuouo/FedML/compare/fc2bd3c642...d0ca97589d) |
 <!-- END_SECTION:github -->
 
 </td>
