@@ -70,11 +70,11 @@
 <!-- START_SECTION:github -->
 | Date | Title |
 | :-: | :---: |
-| 2022-07-31 | released v0.0.6 at 🎉 [beiyuouo/ezkfg](https://github.com/beiyuouo/ezkfg/releases/tag/v0.0.6) |
-| 2022-07-31 | created a tag v0.0.6 in 📁 [beiyuouo/ezkfg](https://github.com/beiyuouo/ezkfg/tree/v0.0.6) |
-| 2022-07-31 | opened a pull request in 📦 [beiyuouo/fedhf](https://github.com/beiyuouo/fedhf/pull/17) |
-| 2022-07-31 | pushed to dev in 📌 [beiyuouo/fedhf](https://github.com/beiyuouo/fedhf/compare/89729dbdca...9c51f5bcab) |
-| 2022-07-30 | pushed to dev in 📌 [beiyuouo/fedhf](https://github.com/beiyuouo/fedhf/compare/a0b810de13...89729dbdca) |
+| 2022-07-31 | starred ⭐ [peng-zhihui/HelloWord-Keyboard](https://github.com/peng-zhihui/HelloWord-Keyboard) |
+| 2022-07-31 | starred ⭐ [Dashibase/lotion](https://github.com/Dashibase/lotion) |
+| 2022-07-31 | pushed to dev in 📌 [beiyuouo/fedhf](https://github.com/beiyuouo/fedhf/compare/8253f0d55f...71ec958048) |
+| 2022-07-31 | pushed to main in 📌 [beiyuouo/fedhf](https://github.com/beiyuouo/fedhf/compare/34bab850ff...cc1067b0a0) |
+| 2022-07-31 | merged a pull request in 📦 [beiyuouo/fedhf](https://github.com/beiyuouo/fedhf/pull/17) |
 <!-- END_SECTION:github -->
 
 </td>
