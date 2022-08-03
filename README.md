@@ -70,11 +70,11 @@
 <!-- START_SECTION:github -->
 | Date | Title |
 | :-: | :---: |
-| 2022-08-02 | starred ⭐ [TencentARC/GFPGAN](https://github.com/TencentARC/GFPGAN) |
-| 2022-08-01 | pushed to dev in 📌 [beiyuouo/fedhf](https://github.com/beiyuouo/fedhf/compare/71ec958048...b854830a3a) |
-| 2022-08-01 | starred ⭐ [beiyuouo/hcaptcha-model-factory](https://github.com/beiyuouo/hcaptcha-model-factory) |
-| 2022-08-01 | closed an issue in 📝 [beiyuouo/hcaptcha-model-factory](https://github.com/beiyuouo/hcaptcha-model-factory/issues/3) |
-| 2022-08-01 | commented on issue 💬 [beiyuouo/hcaptcha-model-factory#3](https://github.com/beiyuouo/hcaptcha-model-factory/issues/3#issuecomment-1200742582) |
+| 2022-08-02 | pushed to dev in 📌 [beiyuouo/fedhf](https://github.com/beiyuouo/fedhf/compare/d5d79dcea5...69576307b8) |
+| 2022-08-02 | pushed to dev in 📌 [beiyuouo/fedhf](https://github.com/beiyuouo/fedhf/compare/da0705000e...d5d79dcea5) |
+| 2022-08-02 | commented on issue 💬 [FedML-AI/FedML#399](https://github.com/FedML-AI/FedML/issues/399#issuecomment-1202300961) |
+| 2022-08-02 | pushed to dev in 📌 [beiyuouo/fedhf](https://github.com/beiyuouo/fedhf/compare/7c43e8c994...da0705000e) |
+| 2022-08-02 | pushed to dev in 📌 [beiyuouo/fedhf](https://github.com/beiyuouo/fedhf/compare/b854830a3a...7c43e8c994) |
 <!-- END_SECTION:github -->
 
 </td>
