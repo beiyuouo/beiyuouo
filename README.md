@@ -70,11 +70,11 @@
 <!-- START_SECTION:github -->
 | Date | Title |
 | :-: | :---: |
+| 2022-08-03 | starred ⭐ [CJex/regulex](https://github.com/CJex/regulex) |
+| 2022-08-03 | pushed to dev in 📌 [beiyuouo/fedhf](https://github.com/beiyuouo/fedhf/compare/69576307b8...029dea3e8f) |
 | 2022-08-02 | pushed to dev in 📌 [beiyuouo/fedhf](https://github.com/beiyuouo/fedhf/compare/d5d79dcea5...69576307b8) |
 | 2022-08-02 | pushed to dev in 📌 [beiyuouo/fedhf](https://github.com/beiyuouo/fedhf/compare/da0705000e...d5d79dcea5) |
 | 2022-08-02 | commented on issue 💬 [FedML-AI/FedML#399](https://github.com/FedML-AI/FedML/issues/399#issuecomment-1202300961) |
-| 2022-08-02 | pushed to dev in 📌 [beiyuouo/fedhf](https://github.com/beiyuouo/fedhf/compare/7c43e8c994...da0705000e) |
-| 2022-08-02 | pushed to dev in 📌 [beiyuouo/fedhf](https://github.com/beiyuouo/fedhf/compare/b854830a3a...7c43e8c994) |
 <!-- END_SECTION:github -->
 
 </td>
