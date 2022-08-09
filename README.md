@@ -70,11 +70,11 @@
 <!-- START_SECTION:github -->
 | Date | Title |
 | :-: | :---: |
-| 2022-08-05 | starred ⭐ [Sprinter1999/FedLSR](https://github.com/Sprinter1999/FedLSR) |
-| 2022-08-04 | starred ⭐ [megvii-research/CoNR](https://github.com/megvii-research/CoNR) |
-| 2022-08-04 | starred ⭐ [docker-slim/docker-slim](https://github.com/docker-slim/docker-slim) |
-| 2022-08-03 | starred ⭐ [CJex/regulex](https://github.com/CJex/regulex) |
-| 2022-08-03 | pushed to dev in 📌 [beiyuouo/fedhf](https://github.com/beiyuouo/fedhf/compare/69576307b8...029dea3e8f) |
+| 2022-08-09 | commented on issue 💬 [beiyuouo/hcaptcha-model-factory#4](https://github.com/beiyuouo/hcaptcha-model-factory/issues/4#issuecomment-1208830134) |
+| 2022-08-08 | commented on issue 💬 [QIN2DIM/hcaptcha-challenger#122](https://github.com/QIN2DIM/hcaptcha-challenger/issues/122#issuecomment-1208369950) |
+| 2022-08-08 | commented on issue 💬 [beiyuouo/hcaptcha-model-factory#4](https://github.com/beiyuouo/hcaptcha-model-factory/issues/4#issuecomment-1208340961) |
+| 2022-08-08 | starred ⭐ [alanwilter/acpype](https://github.com/alanwilter/acpype) |
+| 2022-08-08 | starred ⭐ [MegEngine/MegCat](https://github.com/MegEngine/MegCat) |
 <!-- END_SECTION:github -->
 
 </td>
