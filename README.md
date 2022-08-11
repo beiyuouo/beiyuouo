@@ -70,11 +70,11 @@
 <!-- START_SECTION:github -->
 | Date | Title |
 | :-: | :---: |
+| 2022-08-10 | pushed to main in 📌 [captcha-challenger/docs](https://github.com/captcha-challenger/docs/compare/bbc794d0aa...5b8acf7c43) |
+| 2022-08-10 | pushed to main in 📌 [captcha-challenger/docs](https://github.com/captcha-challenger/docs/compare/de668ced64...bbc794d0aa) |
+| 2022-08-10 | pushed to main in 📌 [captcha-challenger/docs](https://github.com/captcha-challenger/docs/compare/f2ede0ad65...de668ced64) |
 | 2022-08-09 | pushed to dev in 📌 [beiyuouo/fedhf](https://github.com/beiyuouo/fedhf/compare/36f9a61024...9c1d3c5c2e) |
 | 2022-08-09 | pushed to main in 📌 [beiyuouo/hcaptcha-model-factory](https://github.com/beiyuouo/hcaptcha-model-factory/compare/2509e52cb6...9331d7c255) |
-| 2022-08-09 | commented on issue 💬 [beiyuouo/hcaptcha-model-factory#4](https://github.com/beiyuouo/hcaptcha-model-factory/issues/4#issuecomment-1208830134) |
-| 2022-08-08 | commented on issue 💬 [QIN2DIM/hcaptcha-challenger#122](https://github.com/QIN2DIM/hcaptcha-challenger/issues/122#issuecomment-1208369950) |
-| 2022-08-08 | commented on issue 💬 [beiyuouo/hcaptcha-model-factory#4](https://github.com/beiyuouo/hcaptcha-model-factory/issues/4#issuecomment-1208340961) |
 <!-- END_SECTION:github -->
 
 </td>
