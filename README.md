@@ -54,7 +54,11 @@
 <!-- START_SECTION:douban -->
 | Date | Title |
 | :-: | :---: |
-
+| 2022-08-04 | 看过😎 <a href='http://movie.douban.com/subject/26642033/' target='_blank'>小黄人大眼萌：神偷奶爸前传</a> ⭐⭐⭐⭐ |
+| 2022-07-23 | 看过😎 <a href='http://movie.douban.com/subject/35284168/' target='_blank'>光年正传</a> ⭐⭐⭐ |
+| 2022-06-23 | 看过😎 <a href='http://movie.douban.com/subject/30304994/' target='_blank'>奇异博士2：疯狂多元宇宙</a> ⭐⭐⭐⭐ |
+| 2022-06-21 | 看过😎 <a href='http://movie.douban.com/subject/35584688/' target='_blank'>自拍复印机</a> ⭐⭐⭐ |
+| 2022-06-21 | 想看🤔 <a href='http://movie.douban.com/subject/35460157/' target='_blank'>人生大事</a>  |
 <!-- END_SECTION:douban -->
 </td>
 </tr>
