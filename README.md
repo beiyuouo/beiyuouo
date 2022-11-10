@@ -22,11 +22,11 @@
 <!-- languages:start -->
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
-- 🔭 I’m an postgraduate student [**@ICT.CAS**](http://www.ict.cas.cn/).
+- 🔭 I’m a postgraduate student [**@ICT.CAS**](http://www.ict.cas.cn/).
 - 🌱 My current research interests are focus on federated learning, edge computing, and distributed systems.
 - 📫 You can reach me at [bj.yan.pa@qq.com](mailto:bj.yan.pa@qq.com).
 - 🎨 I am glad to share and communicate with you.
-- ❤️ Love pixel art and AI for art.
+- ❤️ Also love AI for art.
 <!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->
 <!-- languages:end -->
