@@ -54,11 +54,11 @@
 <!-- START_SECTION:douban -->
 | Date | Title |
 | :-: | :---: |
+| 2022-12-26 | 想看🤔 <a href='http://movie.douban.com/subject/4811774/' target='_blank'>阿凡达：水之道</a>  |
+| 2022-12-26 | 在看👀 <a href='http://movie.douban.com/subject/35300122/' target='_blank'>弥留之国的爱丽丝 第二季</a> ⭐⭐⭐ |
+| 2022-12-26 | 在看👀 <a href='http://movie.douban.com/subject/35633718/' target='_blank'>回来的女儿</a> ⭐⭐⭐⭐ |
+| 2022-12-26 | 看过😎 <a href='http://movie.douban.com/subject/35164328/' target='_blank'>扫黑·决战</a> ⭐⭐⭐ |
 | 2022-10-31 | 在看👀 <a href='http://movie.douban.com/subject/30198955/' target='_blank'>边缘世界 第一季</a> ⭐⭐⭐⭐ |
-| 2022-08-04 | 看过😎 <a href='http://movie.douban.com/subject/26642033/' target='_blank'>小黄人大眼萌：神偷奶爸前传</a> ⭐⭐⭐⭐ |
-| 2022-07-23 | 看过😎 <a href='http://movie.douban.com/subject/35284168/' target='_blank'>光年正传</a> ⭐⭐⭐ |
-| 2022-06-23 | 看过😎 <a href='http://movie.douban.com/subject/30304994/' target='_blank'>奇异博士2：疯狂多元宇宙</a> ⭐⭐⭐⭐ |
-| 2022-06-21 | 看过😎 <a href='http://movie.douban.com/subject/35584688/' target='_blank'>自拍复印机</a> ⭐⭐⭐ |
 <!-- END_SECTION:douban -->
 </td>
 </tr>
