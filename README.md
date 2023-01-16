@@ -54,11 +54,11 @@
 <!-- START_SECTION:douban -->
 | Date | Title |
 | :-: | :---: |
+| 2023-01-15 | 想看🤔 <a href='http://movie.douban.com/subject/35465232/' target='_blank'>狂飙</a>  |
 | 2023-01-10 | 看过😎 <a href='http://movie.douban.com/subject/26772052/' target='_blank'>女生规则</a> ⭐⭐⭐ |
 | 2022-12-31 | 看过😎 <a href='http://movie.douban.com/subject/30198955/' target='_blank'>边缘世界 第一季</a> ⭐⭐⭐ |
 | 2022-12-30 | 看过😎 <a href='http://movie.douban.com/subject/35633718/' target='_blank'>回来的女儿</a> ⭐⭐⭐⭐ |
 | 2022-12-26 | 想看🤔 <a href='http://movie.douban.com/subject/4811774/' target='_blank'>阿凡达：水之道</a>  |
-| 2022-12-26 | 在看👀 <a href='http://movie.douban.com/subject/35300122/' target='_blank'>弥留之国的爱丽丝 第二季</a> ⭐⭐⭐ |
 <!-- END_SECTION:douban -->
 </td>
 </tr>
