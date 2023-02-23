@@ -54,11 +54,11 @@
 <!-- START_SECTION:douban -->
 | Date | Title |
 | :-: | :---: |
-| 2023-02-07 | 看过😎 <a href='http://movie.douban.com/subject/35267208/' target='_blank'>流浪地球2</a> ⭐⭐⭐⭐⭐ |
-| 2023-02-07 | 看过😎 <a href='http://movie.douban.com/subject/35465232/' target='_blank'>狂飙</a> ⭐⭐⭐⭐ |
-| 2023-01-10 | 看过😎 <a href='http://movie.douban.com/subject/26772052/' target='_blank'>女生规则</a> ⭐⭐⭐ |
-| 2022-12-31 | 看过😎 <a href='http://movie.douban.com/subject/30198955/' target='_blank'>边缘世界 第一季</a> ⭐⭐⭐ |
-| 2022-12-30 | 看过😎 <a href='http://movie.douban.com/subject/35633718/' target='_blank'>回来的女儿</a> ⭐⭐⭐⭐ |
+| 2023-02-22 | 想看🤔 <a href='http://movie.douban.com/subject/34610636/' target='_blank'>蚁人与黄蜂女：量子狂潮</a>  |
+| 2023-02-22 | 在看👀 <a href='http://movie.douban.com/subject/27040807/' target='_blank'>斗罗大陆1</a> ⭐⭐⭐⭐ |
+| 2023-02-22 | 在看👀 <a href='http://movie.douban.com/subject/35560094/' target='_blank'>斗破苍穹 年番</a> ⭐⭐⭐⭐ |
+| 2023-02-22 | 看过😎 <a href='http://movie.douban.com/subject/30337388/' target='_blank'>失控玩家</a> ⭐⭐⭐⭐ |
+| 2023-02-22 | 看过😎 <a href='http://movie.douban.com/subject/34927946/' target='_blank'>国王排名</a> ⭐⭐⭐ |
 <!-- END_SECTION:douban -->
 </td>
 </tr>
