@@ -54,11 +54,11 @@
 <!-- START_SECTION:douban -->
 | Date | Title |
 | :-: | :---: |
+| 2023-02-24 | 想读 <a href='https://book.douban.com/subject/3249247/' target='_blank'>高观点下的初等数学</a>  |
 | 2023-02-22 | 想看🤔 <a href='http://movie.douban.com/subject/34610636/' target='_blank'>蚁人与黄蜂女：量子狂潮</a>  |
 | 2023-02-22 | 在看👀 <a href='http://movie.douban.com/subject/27040807/' target='_blank'>斗罗大陆1</a> ⭐⭐⭐⭐ |
 | 2023-02-22 | 在看👀 <a href='http://movie.douban.com/subject/35560094/' target='_blank'>斗破苍穹 年番</a> ⭐⭐⭐⭐ |
 | 2023-02-22 | 看过😎 <a href='http://movie.douban.com/subject/30337388/' target='_blank'>失控玩家</a> ⭐⭐⭐⭐ |
-| 2023-02-22 | 看过😎 <a href='http://movie.douban.com/subject/34927946/' target='_blank'>国王排名</a> ⭐⭐⭐ |
 <!-- END_SECTION:douban -->
 </td>
 </tr>
