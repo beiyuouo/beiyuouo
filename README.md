@@ -41,10 +41,10 @@
 | Date | Title |
 | :-: | :---: |
 | 2021-10-16 | <a href='https://blog.bj-yan.top/p/readme/' target='_blank'>README</a> |
+| 2023-03-01 | <a href='https://blog.bj-yan.top/p/blog-public-release-of-ezkfg-v011/' target='_blank'>Public Release of 🍕 Easy Configuration(ezkfg) v0.1.1</a> |
 | 2022-09-12 | <a href='https://blog.bj-yan.top/p/blog-will-ai-replace-the-artists/' target='_blank'>AI 会取代艺术家的工作吗？</a> |
 | 2022-09-11 | <a href='https://blog.bj-yan.top/p/blog-diffusion-model-trial/' target='_blank'>扩散模型试玩</a> |
 | 2022-09-11 | <a href='https://blog.bj-yan.top/p/blog-talk-about-the-open-source-environment-in-china/' target='_blank'>浅谈国内开源社区环境</a> |
-| 2022-08-26 | <a href='https://blog.bj-yan.top/p/blog-ucas-course-schedule/' target='_blank'>UCAS 课程表日程解决方案</a> |
 <!-- END_SECTION:blog -->
 </td>
 <td valign="top" width="50%">
