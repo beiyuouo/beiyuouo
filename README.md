@@ -40,11 +40,11 @@
 <!-- START_SECTION:blog -->
 | Date | Title |
 | :-: | :---: |
+| 2023-03-02 | <a href='https://blog.bj-yan.top/p/blog-advantage-usage-for-gpt-3-5-turbo/' target='_blank'>Advantage Usage for GPT 3.5 Turbo API</a> |
+| 2023-03-02 | <a href='https://blog.bj-yan.top/p/blog-github-useless-tips/' target='_blank'>GitHub 没啥用小技巧</a> |
 | 2023-03-01 | <a href='https://blog.bj-yan.top/p/blog-public-release-of-ezkfg-v011/' target='_blank'>Public Release of 🍕 Easy Configuration(ezkfg) v0.1.1</a> |
 | 2022-09-12 | <a href='https://blog.bj-yan.top/p/blog-will-ai-replace-the-artists/' target='_blank'>AI 会取代艺术家的工作吗？</a> |
 | 2022-09-11 | <a href='https://blog.bj-yan.top/p/blog-diffusion-model-trial/' target='_blank'>扩散模型试玩</a> |
-| 2022-09-11 | <a href='https://blog.bj-yan.top/p/blog-talk-about-the-open-source-environment-in-china/' target='_blank'>浅谈国内开源社区环境</a> |
-| 2022-08-26 | <a href='https://blog.bj-yan.top/p/blog-ucas-course-schedule/' target='_blank'>UCAS 课程表日程解决方案</a> |
 <!-- END_SECTION:blog -->
 </td>
 <td valign="top" width="50%">
