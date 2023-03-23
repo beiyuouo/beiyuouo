@@ -40,11 +40,11 @@
 <!-- START_SECTION:blog -->
 | Date | Title |
 | :-: | :---: |
+| 2023-03-21 | <a href='https://blog.bj-yan.top/p/blog-accelerating-federated-learning-simulation-using-mpi/' target='_blank'>使用 MPI 加速联邦学习的模拟</a> |
 | 2023-03-21 | <a href='https://blog.bj-yan.top/p/misc-games-rank-diamond/' target='_blank'>杂记：钻石分段</a> |
 | 2023-03-02 | <a href='https://blog.bj-yan.top/p/blog-advantage-usage-for-gpt-3-5-turbo/' target='_blank'>Advantage Usage for GPT 3.5 Turbo API</a> |
 | 2023-03-02 | <a href='https://blog.bj-yan.top/p/blog-github-useless-tips/' target='_blank'>GitHub 没啥用小技巧</a> |
 | 2023-03-01 | <a href='https://blog.bj-yan.top/p/blog-public-release-of-ezkfg-v011/' target='_blank'>Public Release of 🍕 Easy Configuration(ezkfg) v0.1.1</a> |
-| 2022-09-12 | <a href='https://blog.bj-yan.top/p/blog-will-ai-replace-the-artists/' target='_blank'>AI 会取代艺术家的工作吗？</a> |
 <!-- END_SECTION:blog -->
 </td>
 <td valign="top" width="50%">
