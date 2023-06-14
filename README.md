@@ -40,11 +40,11 @@
 <!-- START_SECTION:blog -->
 | Date | Title |
 | :-: | :---: |
+| 2023-06-13 | <a href='https://blog.bj-yan.top/p/misc-wo-men-zong-bei-kun-zai-zi-ji-de-ren-zhi-zhong/' target='_blank'>我们总是被困在自己的认知中</a> |
 | 2023-03-21 | <a href='https://blog.bj-yan.top/p/blog-accelerating-federated-learning-simulation-using-mpi/' target='_blank'>使用 MPI 加速联邦学习的模拟</a> |
 | 2023-03-21 | <a href='https://blog.bj-yan.top/p/misc-games-rank-diamond/' target='_blank'>杂记：钻石分段</a> |
 | 2023-03-02 | <a href='https://blog.bj-yan.top/p/blog-advantage-usage-for-gpt-3-5-turbo/' target='_blank'>Advantage Usage for GPT 3.5 Turbo API</a> |
 | 2023-03-02 | <a href='https://blog.bj-yan.top/p/blog-github-useless-tips/' target='_blank'>GitHub 没啥用小技巧</a> |
-| 2023-03-01 | <a href='https://blog.bj-yan.top/p/blog-public-release-of-ezkfg-v011/' target='_blank'>Public Release of 🍕 Easy Configuration(ezkfg) v0.1.1</a> |
 <!-- END_SECTION:blog -->
 </td>
 <td valign="top" width="50%">
@@ -54,11 +54,11 @@
 <!-- START_SECTION:douban -->
 | Date | Title |
 | :-: | :---: |
+| 2023-06-13 | 想读 <a href='https://book.douban.com/subject/1834728/' target='_blank'>人工智能的未来</a>  |
+| 2023-06-13 | 想读 <a href='https://book.douban.com/subject/26420659/' target='_blank'>溯源中国计算机</a>  |
+| 2023-06-13 | 想读 <a href='https://book.douban.com/subject/11445548/' target='_blank'>自私的基因</a>  |
 | 2023-03-08 | 想看🤔 <a href='http://movie.douban.com/subject/34795100/' target='_blank'>网络谜踪2</a>  |
 | 2023-03-03 | 想看🤔 <a href='http://movie.douban.com/subject/34884712/' target='_blank'>不要抬头</a>  |
-| 2023-02-24 | 想读 <a href='https://book.douban.com/subject/3249247/' target='_blank'>高观点下的初等数学</a>  |
-| 2023-02-22 | 想看🤔 <a href='http://movie.douban.com/subject/34610636/' target='_blank'>蚁人与黄蜂女：量子狂潮</a>  |
-| 2023-02-22 | 在看👀 <a href='http://movie.douban.com/subject/27040807/' target='_blank'>斗罗大陆1</a> ⭐⭐⭐⭐ |
 <!-- END_SECTION:douban -->
 </td>
 </tr>
