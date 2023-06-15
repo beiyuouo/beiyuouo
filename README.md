@@ -54,11 +54,7 @@
 <!-- START_SECTION:douban -->
 | Date | Title |
 | :-: | :---: |
-| 2023-06-13 | 想读 <a href='https://book.douban.com/subject/1834728/' target='_blank'>人工智能的未来</a>  |
-| 2023-06-13 | 想读 <a href='https://book.douban.com/subject/26420659/' target='_blank'>溯源中国计算机</a>  |
-| 2023-06-13 | 想读 <a href='https://book.douban.com/subject/11445548/' target='_blank'>自私的基因</a>  |
-| 2023-03-08 | 想看🤔 <a href='http://movie.douban.com/subject/34795100/' target='_blank'>网络谜踪2</a>  |
-| 2023-03-03 | 想看🤔 <a href='http://movie.douban.com/subject/34884712/' target='_blank'>不要抬头</a>  |
+
 <!-- END_SECTION:douban -->
 </td>
 </tr>
