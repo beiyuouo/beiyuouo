@@ -54,7 +54,11 @@
 <!-- START_SECTION:douban -->
 | Date | Title |
 | :-: | :---: |
-
+| 2023-06-14 | 想看🤔 <a href='http://movie.douban.com/subject/3011317/' target='_blank'>闪电侠</a>  |
+| 2023-06-14 | 读过 <a href='https://book.douban.com/subject/25985021/' target='_blank'>人类简史</a> ⭐⭐⭐⭐ |
+| 2023-06-13 | 想读 <a href='https://book.douban.com/subject/1834728/' target='_blank'>人工智能的未来</a>  |
+| 2023-06-13 | 想读 <a href='https://book.douban.com/subject/26420659/' target='_blank'>溯源中国计算机</a>  |
+| 2023-06-13 | 想读 <a href='https://book.douban.com/subject/11445548/' target='_blank'>自私的基因</a>  |
 <!-- END_SECTION:douban -->
 </td>
 </tr>
