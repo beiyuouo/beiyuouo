@@ -49,7 +49,7 @@
 </td>
 <td valign="top" width="50%">
 
-**🤾‍♂️ <a href="https://blog.bj-yan.top/" target="_blank">Funny Soul</a>**
+**🤾‍♂️ <a href="https://www.douban.com/people/beiyuouo/" target="_blank">Funny Soul</a>**
 
 <!-- START_SECTION:douban -->
 | Date | Title |
