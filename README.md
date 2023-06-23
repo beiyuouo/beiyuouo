@@ -54,11 +54,11 @@
 <!-- START_SECTION:douban -->
 | Date | Title |
 | :-: | :---: |
+| 2023-06-22 | 玩过🕹 <a href='http://www.douban.com/game/36124711/' target='_blank'>土豆兄弟 Brotato</a> ⭐⭐⭐⭐⭐ |
+| 2023-06-22 | 玩过🕹 <a href='http://www.douban.com/game/30453625/' target='_blank'>Apex英雄 Apex Legends</a> ⭐⭐⭐⭐ |
+| 2023-06-22 | 玩过🕹 <a href='http://www.douban.com/game/35764203/' target='_blank'>NS运动 Nintendo Switch Sports</a> ⭐⭐⭐⭐ |
+| 2023-06-22 | 玩过🕹 <a href='http://www.douban.com/game/35110438/' target='_blank'>双人成行 It Takes Two</a> ⭐⭐⭐⭐⭐ |
 | 2023-06-22 | 想看🤔 <a href='http://movie.douban.com/subject/35660795/' target='_blank'>消失的她</a>  |
-| 2023-06-17 | 看过😎 <a href='http://movie.douban.com/subject/26654184/' target='_blank'>万里归途</a> ⭐⭐⭐⭐ |
-| 2023-06-16 | 看过😎 <a href='http://movie.douban.com/subject/27040807/' target='_blank'>斗罗大陆1</a> ⭐⭐⭐⭐ |
-| 2023-06-16 | 读过🤓 <a href='https://book.douban.com/subject/26420659/' target='_blank'>溯源中国计算机</a> ⭐⭐⭐⭐⭐ |
-| 2023-06-14 | 想看🤔 <a href='http://movie.douban.com/subject/3011317/' target='_blank'>闪电侠</a>  |
 <!-- END_SECTION:douban -->
 </td>
 </tr>
