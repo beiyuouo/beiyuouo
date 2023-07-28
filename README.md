@@ -40,11 +40,11 @@
 <!-- START_SECTION:blog -->
 | Date | Title |
 | :-: | :---: |
+| 2023-07-25 | <a href='https://blog.bj-yan.top/p/blog-convergence-analysis-in-deep-learning-part-3/' target='_blank'>深度学习中的收敛性分析 (Part 3)</a> |
 | 2023-07-24 | <a href='https://blog.bj-yan.top/p/blog-convergence-analysis-in-deep-learning-part-2/' target='_blank'>深度学习中的收敛性分析 (Part 2)</a> |
 | 2023-07-23 | <a href='https://blog.bj-yan.top/p/blog-convergence-analysis-in-deep-learning-part-1/' target='_blank'>深度学习中的收敛性分析 (Part 1)</a> |
 | 2023-07-08 | <a href='https://blog.bj-yan.top/p/blog-the-top-k-of-wechat-red-envelopes/' target='_blank'>如何获得微信红包的 Top K</a> |
 | 2023-06-28 | <a href='https://blog.bj-yan.top/p/blog-using-zotero-and-notion-manage-your-papers-and-notes/' target='_blank'>使用 Zotero 和 Notion 管理文献和笔记</a> |
-| 2023-06-13 | <a href='https://blog.bj-yan.top/p/misc-wo-men-zong-bei-kun-zai-zi-ji-de-ren-zhi-zhong/' target='_blank'>我们总是被困在自己的认知中</a> |
 <!-- END_SECTION:blog -->
 </td>
 <td valign="top" width="50%">
@@ -54,11 +54,11 @@
 <!-- START_SECTION:douban -->
 | Date | Title |
 | :-: | :---: |
+| 2023-07-27 | 读过🤓 <a href='https://book.douban.com/subject/30360968/' target='_blank'>分布式机器学习：算法、理论与实践</a> ⭐⭐⭐ |
 | 2023-07-26 | 想读📚 <a href='https://book.douban.com/subject/35750988/' target='_blank'>隐私计算</a>  |
 | 2023-07-16 | 看过😎 <a href='http://movie.douban.com/subject/2977357/' target='_blank'>杀人不分左右</a> ⭐⭐⭐ |
 | 2023-07-15 | 在看👀 <a href='http://movie.douban.com/subject/35567787/' target='_blank'>斗罗大陆2：绝世唐门</a> ⭐⭐⭐⭐ |
 | 2023-06-24 | 看过😎 <a href='http://movie.douban.com/subject/35660795/' target='_blank'>消失的她</a> ⭐⭐⭐⭐ |
-| 2023-06-22 | 玩过🕹 <a href='http://www.douban.com/game/36124711/' target='_blank'>土豆兄弟 Brotato</a> ⭐⭐⭐⭐⭐ |
 <!-- END_SECTION:douban -->
 </td>
 </tr>
