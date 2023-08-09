@@ -40,11 +40,11 @@
 <!-- START_SECTION:blog -->
 | Date | Title |
 | :-: | :---: |
+| 2023-08-09 | <a href='https://blog.bj-yan.top/p/blog-efficiency-analysis-of-distributed-machine-learning/' target='_blank'>分布式机器学习中的效率分析</a> |
+| 2023-08-07 | <a href='https://blog.bj-yan.top/p/blog-convergence-analysis-in-deep-learning-part-4/' target='_blank'>分布式机器学习中的收敛性分析 (Part 4)</a> |
 | 2023-07-25 | <a href='https://blog.bj-yan.top/p/blog-convergence-analysis-in-deep-learning-part-3/' target='_blank'>深度学习中的收敛性分析 (Part 3)</a> |
 | 2023-07-24 | <a href='https://blog.bj-yan.top/p/blog-convergence-analysis-in-deep-learning-part-2/' target='_blank'>深度学习中的收敛性分析 (Part 2)</a> |
 | 2023-07-23 | <a href='https://blog.bj-yan.top/p/blog-convergence-analysis-in-deep-learning-part-1/' target='_blank'>深度学习中的收敛性分析 (Part 1)</a> |
-| 2023-07-08 | <a href='https://blog.bj-yan.top/p/blog-the-top-k-of-wechat-red-envelopes/' target='_blank'>如何获得微信红包的 Top K</a> |
-| 2023-06-28 | <a href='https://blog.bj-yan.top/p/blog-using-zotero-and-notion-manage-your-papers-and-notes/' target='_blank'>使用 Zotero 和 Notion 管理文献和笔记</a> |
 <!-- END_SECTION:blog -->
 </td>
 <td valign="top" width="50%">
