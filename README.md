@@ -8,7 +8,8 @@
     <a href="https://nav.bj-yan.top/">nav</a> ∙
     <a href="https://www.bj-yan.top/pdf/cv_en.pdf">cv</a> ∙ 
     <a href="https://github.com/beiyuouo">github</a> ∙ 
-    <a href="https://space.bilibili.com/23511429">bilibili</a>
+    <a href="https://space.bilibili.com/23511429">bili</a> ∙ 
+    <a href="https://www.zhihu.com/people/bei-yu-84-25">zhihu</a>
   </samp>
 </p>
 
