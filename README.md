@@ -54,11 +54,11 @@
 <!-- START_SECTION:douban -->
 | Date | Title |
 | :-: | :---: |
+| 2023-08-09 | 想看🤔 <a href='http://movie.douban.com/subject/36117224/' target='_blank'>威尼斯惊魂夜</a>  |
 | 2023-08-02 | 在看👀 <a href='http://movie.douban.com/subject/36118319/' target='_blank'>冰火魔厨2</a> ⭐⭐⭐⭐ |
 | 2023-08-02 | 看过😎 <a href='http://movie.douban.com/subject/35622989/' target='_blank'>冰火魔厨</a> ⭐⭐⭐ |
 | 2023-07-27 | 读过🤓 <a href='https://book.douban.com/subject/30360968/' target='_blank'>分布式机器学习：算法、理论与实践</a> ⭐⭐⭐ |
 | 2023-07-26 | 想读📚 <a href='https://book.douban.com/subject/35750988/' target='_blank'>隐私计算</a>  |
-| 2023-07-16 | 看过😎 <a href='http://movie.douban.com/subject/2977357/' target='_blank'>杀人不分左右</a> ⭐⭐⭐ |
 <!-- END_SECTION:douban -->
 </td>
 </tr>
