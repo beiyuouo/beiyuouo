@@ -55,11 +55,11 @@
 <!-- START_SECTION:douban -->
 | Date | Title |
 | :-: | :---: |
+| 2023-08-13 | 想看🤔 <a href='http://movie.douban.com/subject/35588177/' target='_blank'>漫长的季节</a>  |
+| 2023-08-13 | 想看🤔 <a href='http://movie.douban.com/subject/35634067/' target='_blank'>D.P：逃兵追缉令 第二季</a>  |
+| 2023-08-13 | 想看🤔 <a href='http://movie.douban.com/subject/35028876/' target='_blank'>D.P：逃兵追缉令</a>  |
 | 2023-08-11 | 想看🤔 <a href='http://movie.douban.com/subject/36156235/' target='_blank'>重启人生</a>  |
 | 2023-08-11 | 看过😎 <a href='http://movie.douban.com/subject/35744460/' target='_blank'>金牌保镖</a> ⭐⭐⭐⭐ |
-| 2023-08-09 | 想看🤔 <a href='http://movie.douban.com/subject/36117224/' target='_blank'>威尼斯惊魂夜</a>  |
-| 2023-08-02 | 在看👀 <a href='http://movie.douban.com/subject/36118319/' target='_blank'>冰火魔厨2</a> ⭐⭐⭐⭐ |
-| 2023-08-02 | 看过😎 <a href='http://movie.douban.com/subject/35622989/' target='_blank'>冰火魔厨</a> ⭐⭐⭐ |
 <!-- END_SECTION:douban -->
 </td>
 </tr>
