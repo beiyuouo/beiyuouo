@@ -55,11 +55,11 @@
 <!-- START_SECTION:douban -->
 | Date | Title |
 | :-: | :---: |
+| 2023-08-28 | 想看🤔 <a href='http://movie.douban.com/subject/35946038/' target='_blank'>不完美受害人</a>  |
 | 2023-08-13 | 想看🤔 <a href='http://movie.douban.com/subject/35588177/' target='_blank'>漫长的季节</a>  |
 | 2023-08-13 | 想看🤔 <a href='http://movie.douban.com/subject/35634067/' target='_blank'>D.P：逃兵追缉令 第二季</a>  |
 | 2023-08-13 | 想看🤔 <a href='http://movie.douban.com/subject/35028876/' target='_blank'>D.P：逃兵追缉令</a>  |
 | 2023-08-11 | 想看🤔 <a href='http://movie.douban.com/subject/36156235/' target='_blank'>重启人生</a>  |
-| 2023-08-11 | 看过😎 <a href='http://movie.douban.com/subject/35744460/' target='_blank'>金牌保镖</a> ⭐⭐⭐⭐ |
 <!-- END_SECTION:douban -->
 </td>
 </tr>
