@@ -55,11 +55,11 @@
 <!-- START_SECTION:douban -->
 | Date | Title |
 | :-: | :---: |
+| 2023-09-26 | 想看🤔 <a href='http://movie.douban.com/subject/10810266/' target='_blank'>93国际列车大劫案：莫斯科行动</a>  |
 | 2023-09-06 | 看过😎 <a href='http://movie.douban.com/subject/35432345/' target='_blank'>不虚此行</a> ⭐⭐⭐⭐ |
 | 2023-08-31 | 看过😎 <a href='http://movie.douban.com/subject/35593344/' target='_blank'>奥本海默</a> ⭐⭐⭐⭐ |
 | 2023-08-28 | 想看🤔 <a href='http://movie.douban.com/subject/35946038/' target='_blank'>不完美受害人</a>  |
 | 2023-08-13 | 想看🤔 <a href='http://movie.douban.com/subject/35588177/' target='_blank'>漫长的季节</a>  |
-| 2023-08-13 | 想看🤔 <a href='http://movie.douban.com/subject/35634067/' target='_blank'>D.P：逃兵追缉令 第二季</a>  |
 <!-- END_SECTION:douban -->
 </td>
 </tr>
