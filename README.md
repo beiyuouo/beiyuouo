@@ -55,11 +55,11 @@
 <!-- START_SECTION:douban -->
 | Date | Title |
 | :-: | :---: |
-| 2023-10-06 | 想看🤔 <a href='http://movie.douban.com/subject/35244032/' target='_blank'>洛基 第二季</a>  |
+| 2023-10-07 | 想看🤔 <a href='http://movie.douban.com/subject/1306605/' target='_blank'>电影人生</a>  |
+| 2023-10-07 | 在看👀 <a href='http://movie.douban.com/subject/35244032/' target='_blank'>洛基 第二季</a> ⭐⭐⭐⭐ |
 | 2023-09-30 | 想看🤔 <a href='http://movie.douban.com/subject/35211473/' target='_blank'>V世代</a>  |
 | 2023-09-29 | 想看🤔 <a href='http://movie.douban.com/subject/33447633/' target='_blank'>坚如磐石</a>  |
 | 2023-09-29 | 看过😎 <a href='http://movie.douban.com/subject/10810266/' target='_blank'>93国际列车大劫案：莫斯科行动</a> ⭐⭐⭐⭐ |
-| 2023-09-29 | 想看🤔 <a href='http://movie.douban.com/subject/35496350/' target='_blank'>志愿军：雄兵出击</a>  |
 <!-- END_SECTION:douban -->
 </td>
 </tr>
