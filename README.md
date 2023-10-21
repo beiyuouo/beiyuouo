@@ -55,10 +55,10 @@
 <!-- START_SECTION:douban -->
 | Date | Title |
 | :-: | :---: |
+| 2023-10-20 | 在看👀 <a href='http://movie.douban.com/subject/35211473/' target='_blank'>V世代 第一季</a> ⭐⭐⭐⭐ |
 | 2023-10-19 | 想看🤔 <a href='http://movie.douban.com/subject/36525374/' target='_blank'>看不见的顶峰</a>  |
 | 2023-10-07 | 想看🤔 <a href='http://movie.douban.com/subject/1306605/' target='_blank'>电影人生</a>  |
 | 2023-10-07 | 在看👀 <a href='http://movie.douban.com/subject/35244032/' target='_blank'>洛基 第二季</a> ⭐⭐⭐⭐ |
-| 2023-09-30 | 想看🤔 <a href='http://movie.douban.com/subject/35211473/' target='_blank'>V世代</a>  |
 | 2023-09-29 | 想看🤔 <a href='http://movie.douban.com/subject/33447633/' target='_blank'>坚如磐石</a>  |
 <!-- END_SECTION:douban -->
 </td>
