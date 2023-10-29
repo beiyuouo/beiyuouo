@@ -55,11 +55,11 @@
 <!-- START_SECTION:douban -->
 | Date | Title |
 | :-: | :---: |
+| 2023-10-28 | 看过😎 <a href='http://movie.douban.com/subject/1917655/' target='_blank'>困兽</a> ⭐⭐⭐ |
 | 2023-10-27 | 看过😎 <a href='http://movie.douban.com/subject/36525374/' target='_blank'>看不见的顶峰</a> ⭐⭐⭐⭐ |
 | 2023-10-23 | 想看🤔 <a href='http://movie.douban.com/subject/34950184/' target='_blank'>困兽</a>  |
 | 2023-10-23 | 看过😎 <a href='http://movie.douban.com/subject/35041926/' target='_blank'>埃博拉前线</a> ⭐⭐ |
 | 2023-10-20 | 在看👀 <a href='http://movie.douban.com/subject/35211473/' target='_blank'>V世代 第一季</a> ⭐⭐⭐⭐ |
-| 2023-10-07 | 想看🤔 <a href='http://movie.douban.com/subject/1306605/' target='_blank'>电影人生</a>  |
 <!-- END_SECTION:douban -->
 </td>
 </tr>
