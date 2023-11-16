@@ -55,11 +55,11 @@
 <!-- START_SECTION:douban -->
 | Date | Title |
 | :-: | :---: |
+| 2023-11-15 | 想看🤔 <a href='http://movie.douban.com/subject/33456512/' target='_blank'>涉过愤怒的海</a>  |
 | 2023-11-10 | 看过😎 <a href='http://movie.douban.com/subject/35244032/' target='_blank'>洛基 第二季</a> ⭐⭐⭐⭐ |
 | 2023-11-07 | 看过😎 <a href='http://movie.douban.com/subject/35211473/' target='_blank'>V世代 第一季</a> ⭐⭐⭐⭐ |
 | 2023-11-06 | 看过😎 <a href='http://movie.douban.com/subject/35427293/' target='_blank'>追缉</a> ⭐⭐⭐⭐ |
 | 2023-11-01 | 看过😎 <a href='http://movie.douban.com/subject/34950184/' target='_blank'>困兽</a> ⭐⭐⭐ |
-| 2023-10-29 | 想看🤔 <a href='http://movie.douban.com/subject/35256092/' target='_blank'>河边的错误</a>  |
 <!-- END_SECTION:douban -->
 </td>
 </tr>
