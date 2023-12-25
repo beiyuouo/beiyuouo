@@ -55,11 +55,11 @@
 <!-- START_SECTION:douban -->
 | Date | Title |
 | :-: | :---: |
-| 2023-12-20 | 看过😎 <a href='http://movie.douban.com/subject/1300883/' target='_blank'>赌神</a> ⭐⭐⭐⭐ |
-| 2023-12-04 | 看过😎 <a href='http://movie.douban.com/subject/35524443/' target='_blank'>甜蜜家园2</a> ⭐⭐⭐ |
-| 2023-12-01 | 看过😎 <a href='http://movie.douban.com/subject/30396283/' target='_blank'>沉默笔录</a> ⭐⭐⭐⭐ |
-| 2023-12-01 | 想看🤔 <a href='http://movie.douban.com/subject/35498648/' target='_blank'>热搜</a>  |
-| 2023-11-30 | 想看🤔 <a href='http://movie.douban.com/subject/30444942/' target='_blank'>海王2：失落的王国</a>  |
+| 2023-12-24 | 想看🤔 <a href='http://movie.douban.com/subject/35991840/' target='_blank'>死期将至</a>  |
+| 2023-12-24 | 想看🤔 <a href='http://movie.douban.com/subject/1301381/' target='_blank'>赌神3之少年赌神</a>  |
+| 2023-12-24 | 想看🤔 <a href='http://movie.douban.com/subject/1300566/' target='_blank'>赌侠</a>  |
+| 2023-12-24 | 看过😎 <a href='http://movie.douban.com/subject/1292506/' target='_blank'>赌神2</a> ⭐⭐⭐ |
+| 2023-12-24 | 想看🤔 <a href='http://movie.douban.com/subject/35208463/' target='_blank'>三大队</a>  |
 <!-- END_SECTION:douban -->
 </td>
 </tr>
