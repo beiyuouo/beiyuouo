@@ -24,10 +24,14 @@
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
 - 🔭 I’m a postgraduate student [**@ICT.CAS**](http://www.ict.cas.cn/).
-- 🌱 My current research interests are focus on federated learning, edge computing, and distributed systems.
+- 🌱 My current research interests focus on federated learning, edge computing, and distributed systems [>more](https://www.bj-yan.top).
 - 📫 You can reach me at [bj.yan.pa@qq.com](mailto:bj.yan.pa@qq.com).
 - 🎨 I am glad to share and communicate with you.
 - ❤️ Also love AI for art.
+- <span class="badge-patreon"><a href="https://patreon.com/beiyuouo" title="Donate to this project using Patreon"><img src="https://img.shields.io/badge/patreon-donate-yellow.svg" alt="Patreon donate button" /></a></span>
+<span class="badge-buymeacoffee"><a href="https://www.buymeacoffee.com/beiyu233z" title="Donate to this project using Buy Me A Coffee"><img src="https://img.shields.io/badge/buy%20me%20a%20coffee-donate-yellow.svg" alt="Buy Me A Coffee donate button" /></a></span>
+<span class="badge-paypal"><a href="https://www.paypal.com/paypalme/beiyuouo" title="Donate to this project using Paypal"><img src="https://img.shields.io/badge/paypal-donate-yellow.svg" alt="PayPal donate button" /></a></span>
+
 <!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->
 <!-- languages:end -->
