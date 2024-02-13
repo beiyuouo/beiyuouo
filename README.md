@@ -41,11 +41,11 @@
 <!-- START_SECTION:blog -->
 | Date | Title |
 | :-: | :---: |
+| 2024-02-12 | <a href='https://blog.bj-yan.top/p/misc-20240212/' target='_blank'>杂记：20240212</a> |
 | 2023-08-09 | <a href='https://blog.bj-yan.top/p/blog-efficiency-analysis-of-distributed-machine-learning/' target='_blank'>分布式机器学习中的效率分析</a> |
 | 2023-08-07 | <a href='https://blog.bj-yan.top/p/blog-convergence-analysis-in-deep-learning-part-4/' target='_blank'>分布式机器学习中的收敛性分析 (Part 4)</a> |
 | 2023-07-25 | <a href='https://blog.bj-yan.top/p/blog-convergence-analysis-in-deep-learning-part-3/' target='_blank'>深度学习中的收敛性分析 (Part 3)</a> |
 | 2023-07-24 | <a href='https://blog.bj-yan.top/p/blog-convergence-analysis-in-deep-learning-part-2/' target='_blank'>深度学习中的收敛性分析 (Part 2)</a> |
-| 2023-07-23 | <a href='https://blog.bj-yan.top/p/blog-convergence-analysis-in-deep-learning-part-1/' target='_blank'>深度学习中的收敛性分析 (Part 1)</a> |
 <!-- END_SECTION:blog -->
 </td>
 <td valign="top" width="50%">
