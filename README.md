@@ -9,7 +9,8 @@
     <a href="https://www.bj-yan.top/pdf/cv_en.pdf">cv</a> ∙ 
     <a href="https://github.com/beiyuouo">github</a> ∙ 
     <a href="https://space.bilibili.com/23511429">bili</a> ∙ 
-    <a href="https://www.zhihu.com/people/bei-yu-84-25">zhihu</a>
+    <a href="https://www.zhihu.com/people/bei-yu-84-25">zhihu</a> ∙ 
+    <a href="https://www.linkedin.com/in/bingjie-yan-ba968118b/">linkedin</a>
   </samp>
 </p>
 
