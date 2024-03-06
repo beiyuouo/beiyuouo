@@ -60,11 +60,11 @@
 <!-- START_SECTION:douban -->
 | Date | Title |
 | :-: | :---: |
+| 2024-03-05 | 想看🤔 <a href='http://movie.douban.com/subject/36151692/' target='_blank'>周处除三害</a>  |
 | 2024-02-17 | 想看🤔 <a href='http://movie.douban.com/subject/35087675/' target='_blank'>毒液3</a>  |
 | 2024-02-17 | 想看🤔 <a href='http://movie.douban.com/subject/26817136/' target='_blank'>疯狂动物城2</a>  |
 | 2024-02-17 | 想看🤔 <a href='http://movie.douban.com/subject/34909341/' target='_blank'>小丑2</a>  |
 | 2024-02-17 | 想看🤔 <a href='http://movie.douban.com/subject/30170847/' target='_blank'>神偷奶爸4</a>  |
-| 2024-02-17 | 想看🤔 <a href='http://movie.douban.com/subject/26957900/' target='_blank'>死侍与死党</a>  |
 <!-- END_SECTION:douban -->
 </td>
 </tr>
