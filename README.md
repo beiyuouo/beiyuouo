@@ -64,7 +64,7 @@
 | 2024-03-08 | 看过😎 <a href='http://movie.douban.com/subject/36151692/' target='_blank'>周处除三害</a> ⭐⭐⭐⭐ |
 | 2024-02-17 | 想看🤔 <a href='http://movie.douban.com/subject/35087675/' target='_blank'>毒液3</a>  |
 | 2024-02-17 | 想看🤔 <a href='http://movie.douban.com/subject/26817136/' target='_blank'>疯狂动物城2</a>  |
-| 2024-02-17 | 想看🤔 <a href='http://movie.douban.com/subject/34909341/' target='_blank'>小丑2</a>  |
+| 2024-02-17 | 想看🤔 <a href='http://movie.douban.com/subject/34909341/' target='_blank'>小丑2：双重妄想</a>  |
 <!-- END_SECTION:douban -->
 </td>
 </tr>
