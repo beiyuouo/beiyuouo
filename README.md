@@ -60,11 +60,11 @@
 <!-- START_SECTION:douban -->
 | Date | Title |
 | :-: | :---: |
-| 2024-05-14 | 在看👀 <a href='http://movie.douban.com/subject/36127872/' target='_blank'>新生</a> ⭐⭐⭐⭐ |
-| 2024-04-28 | 想看🤔 <a href='http://movie.douban.com/subject/36727838/' target='_blank'>血腥列车</a>  |
-| 2024-04-23 | 想看🤔 <a href='http://movie.douban.com/subject/30365461/' target='_blank'>怒火战猴</a>  |
-| 2024-03-10 | 看过😎 <a href='http://movie.douban.com/subject/35208463/' target='_blank'>三大队</a> ⭐⭐⭐⭐ |
-| 2024-03-08 | 看过😎 <a href='http://movie.douban.com/subject/36151692/' target='_blank'>周处除三害</a> ⭐⭐⭐⭐ |
+| 2024-05-15 | 看过😎 <a href='http://movie.douban.com/subject/36118319/' target='_blank'>冰火魔厨2</a> ⭐⭐ |
+| 2024-05-15 | 看过😎 <a href='http://movie.douban.com/subject/36309129/' target='_blank'>吞噬星空 第4季</a> ⭐⭐⭐⭐ |
+| 2024-05-15 | 看过😎 <a href='http://movie.douban.com/subject/36205705/' target='_blank'>吞噬星空 第3季</a> ⭐⭐⭐⭐ |
+| 2024-05-15 | 看过😎 <a href='http://movie.douban.com/subject/35674156/' target='_blank'>吞噬星空 第2季</a> ⭐⭐⭐⭐ |
+| 2024-05-15 | 看过😎 <a href='http://movie.douban.com/subject/35170001/' target='_blank'>吞噬星空</a> ⭐⭐⭐ |
 <!-- END_SECTION:douban -->
 </td>
 </tr>
