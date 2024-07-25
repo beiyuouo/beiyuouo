@@ -60,7 +60,11 @@
 <!-- START_SECTION:douban -->
 | Date | Title |
 | :-: | :---: |
-
+| 2024-06-15 | 在看👀 <a href='http://movie.douban.com/subject/35926862/' target='_blank'>黑袍纠察队 第四季</a> ⭐⭐⭐⭐ |
+| 2024-05-15 | 看过😎 <a href='http://movie.douban.com/subject/36118319/' target='_blank'>冰火魔厨2</a> ⭐⭐ |
+| 2024-05-15 | 看过😎 <a href='http://movie.douban.com/subject/36309129/' target='_blank'>吞噬星空 第4季</a> ⭐⭐⭐⭐ |
+| 2024-05-15 | 看过😎 <a href='http://movie.douban.com/subject/36205705/' target='_blank'>吞噬星空 第3季</a> ⭐⭐⭐⭐ |
+| 2024-05-15 | 看过😎 <a href='http://movie.douban.com/subject/35674156/' target='_blank'>吞噬星空 第2季</a> ⭐⭐⭐⭐ |
 <!-- END_SECTION:douban -->
 </td>
 </tr>
