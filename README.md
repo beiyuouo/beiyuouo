@@ -60,11 +60,11 @@
 <!-- START_SECTION:douban -->
 | Date | Title |
 | :-: | :---: |
+| 2024-09-24 | 想看🤔 <a href='http://movie.douban.com/subject/35604181/' target='_blank'>企鹅人</a>  |
 | 2024-08-04 | 看过😎 <a href='http://movie.douban.com/subject/26957900/' target='_blank'>死侍与金刚狼</a> ⭐⭐⭐ |
 | 2024-08-04 | 想看🤔 <a href='http://movie.douban.com/subject/36188849/' target='_blank'>唐朝诡事录之西行</a>  |
 | 2024-08-02 | 想看🤔 <a href='http://movie.douban.com/subject/26656728/' target='_blank'>泳者之心</a>  |
 | 2024-06-15 | 在看👀 <a href='http://movie.douban.com/subject/35926862/' target='_blank'>黑袍纠察队 第四季</a> ⭐⭐⭐⭐ |
-| 2024-05-15 | 看过😎 <a href='http://movie.douban.com/subject/36118319/' target='_blank'>冰火魔厨2</a> ⭐⭐ |
 <!-- END_SECTION:douban -->
 </td>
 </tr>
