@@ -37,39 +37,30 @@
 <!-- prettier-ignore-end -->
 <!-- languages:end -->
 
-<table width="100%" align="center" padding="0" margin="0">
+---
+
+<font color="#FF0000"><b>I am highly motivated to secure a Ph.D. position for Fall 2025!</b></font>
+
+
+<!--<table width="100%" align="center" padding="0" margin="0">
 <tr>
+<td valign="top" width="50%">-->
+
+<!--**🤹‍♀️ <a href="https://blog.bj-yan.top/" target="_blank">Recent Blog</a>**-->
+
+<!-- START_SECTION:blog-ignore -->
+<!-- END_SECTION:blog-ignore -->
+<!--</td>
 <td valign="top" width="50%">
 
-**🤹‍♀️ <a href="https://blog.bj-yan.top/" target="_blank">Recent Blog</a>**
+**🤾‍♂️ <a href="https://www.douban.com/people/beiyuouo/" target="_blank">Funny Soul</a>**-->
 
-<!-- START_SECTION:blog -->
-| Date | Title |
-| :-: | :---: |
-| 2024-02-12 | <a href='https://blog.bj-yan.top/p/misc-20240212/' target='_blank'>杂记：20240212</a> |
-| 2023-08-09 | <a href='https://blog.bj-yan.top/p/blog-efficiency-analysis-of-distributed-machine-learning/' target='_blank'>分布式机器学习中的效率分析</a> |
-| 2023-08-07 | <a href='https://blog.bj-yan.top/p/blog-convergence-analysis-in-deep-learning-part-4/' target='_blank'>分布式机器学习中的收敛性分析 (Part 4)</a> |
-| 2023-07-25 | <a href='https://blog.bj-yan.top/p/blog-convergence-analysis-in-deep-learning-part-3/' target='_blank'>深度学习中的收敛性分析 (Part 3)</a> |
-| 2023-07-24 | <a href='https://blog.bj-yan.top/p/blog-convergence-analysis-in-deep-learning-part-2/' target='_blank'>深度学习中的收敛性分析 (Part 2)</a> |
-<!-- END_SECTION:blog -->
-</td>
-<td valign="top" width="50%">
-
-**🤾‍♂️ <a href="https://www.douban.com/people/beiyuouo/" target="_blank">Funny Soul</a>**
-
-<!-- START_SECTION:douban -->
-| Date | Title |
-| :-: | :---: |
-| 2024-10-01 | 想看🤔 <a href='http://movie.douban.com/subject/35497671/' target='_blank'>危机航线</a>  |
-| 2024-10-01 | 想看🤔 <a href='http://movie.douban.com/subject/36296618/' target='_blank'>志愿军：存亡之战</a>  |
-| 2024-10-01 | 想看🤔 <a href='http://movie.douban.com/subject/26747919/' target='_blank'>749局</a>  |
-| 2024-09-24 | 想看🤔 <a href='http://movie.douban.com/subject/35604181/' target='_blank'>企鹅人</a>  |
-| 2024-08-04 | 看过😎 <a href='http://movie.douban.com/subject/26957900/' target='_blank'>死侍与金刚狼</a> ⭐⭐⭐ |
-<!-- END_SECTION:douban -->
-</td>
-</tr>
+<!-- START_SECTION:douban-ignore -->
+<!-- END_SECTION:douban-ignore -->
+<!--</td>
+</tr>-->
 
 <!-- START_SECTION:github-xxx -->
 <!-- END_SECTION:github-xxx -->
 
-</table>
+<!--</table>-->
